@@ -3,3 +3,4 @@ berlin-listings.csv filter=lfs diff=lfs merge=lfs -text
 indonesia_villages_border.geojson filter=lfs diff=lfs merge=lfs -text
 Batas_Kabupaten_BIG_PPBW_V1.shp filter=lfs diff=lfs merge=lfs -text
 spatial1.zip filter=lfs diff=lfs merge=lfs -text
+GlobalLandTemperaturesByCity.zip filter=lfs diff=lfs merge=lfs -text
