@@ -1,0 +1,597 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+1973-05-21T21:47:08.600Z,-6.257,104.154,87,5.2,mb,,,,,us,usp00001w1,2014-11-06T23:21:12.768Z,"153 km SW of Bandar Lampung, Indonesia",earthquake,,,,,reviewed,us,us
+1973-05-17T19:21:33.900Z,-2.349,100.807,80,5.1,mb,,,,,us,usp00001uw,2014-11-06T23:21:12.723Z,"72 km WSW of Sungai Penuh, Indonesia",earthquake,,,,,reviewed,us,us
+1973-05-16T19:43:33.600Z,-2.99,127.45,33,5.4,mb,,,,,us,usp00001un,2014-11-06T23:21:12.713Z,"112 km NW of Ambon, Indonesia",earthquake,,,,,reviewed,us,us
+1973-05-16T03:19:02.900Z,-3.004,140.101,33,5.7,mb,,,,,us,usp00001ug,2020-07-10T19:34:58.028Z,"74 km SW of Abepura, Indonesia",earthquake,,,,,reviewed,us,us
+1973-05-14T06:01:56.800Z,4.424,127.585,103,4.9,mb,,,,,us,usp00001tv,2014-11-06T23:21:12.684Z,"259 km ESE of Sarangani, Philippines",earthquake,,,,,reviewed,us,us
+1973-05-12T19:36:45.800Z,-4.28,134.254,43,5.2,mb,,,,,us,usp00001t6,2014-11-06T23:21:12.659Z,"171 km SW of Nabire, Indonesia",earthquake,,,,,reviewed,us,us
+1973-05-12T05:46:48.700Z,-3.243,101.24,51,5.5,mb,,,,,us,usp00001st,2022-05-09T19:18:03.792Z,"129 km WNW of Bengkulu, Indonesia",earthquake,,,,,reviewed,us,us
+1973-05-11T19:47:41.900Z,-0.079,129.302,39,5.1,mb,,,,,us,usp00001sp,2014-11-06T23:21:12.639Z,"Halmahera, Indonesia",earthquake,,,,,reviewed,us,us
+1973-05-11T10:45:25.400Z,0.979,126.025,24,5.4,mb,,,,,us,usp00001sk,2022-04-27T18:51:34.804Z,"128 km ESE of Tondano, Indonesia",earthquake,,,,,reviewed,us,us
+1973-05-09T14:17:20.100Z,1.565,128.524,57,5.2,mb,,,,,us,usp00001s3,2022-04-27T18:51:30.753Z,"60 km ESE of Tobelo, Indonesia",earthquake,,,,,reviewed,us,us
+1973-05-06T15:58:50.600Z,-3.668,137.817,60,5.4,mb,,,,,us,usp00001qz,2014-11-06T23:21:12.261Z,"259 km E of Nabire, Indonesia",earthquake,,,,,reviewed,us,us
+1973-05-05T12:29:59.500Z,-6.388,130.42,130,4.7,mb,,,,,us,usp00001qk,2014-11-06T23:21:12.252Z,"271 km WSW of Tual, Indonesia",earthquake,,,,,reviewed,us,us
+1973-05-04T23:56:06.100Z,-1.468,99.851,51,5.9,mb,,,,,us,usp00001q8,2022-04-27T18:51:17.183Z,"80 km SW of Padang, Indonesia",earthquake,,,,,reviewed,us,us
+1973-05-04T19:34:44.800Z,-5.972,129.684,175,5.3,mb,,,,,us,usp00001q6,2014-11-06T23:21:12.242Z,"Banda Sea",earthquake,,,,,reviewed,us,us
+1973-05-04T11:50:00.100Z,2.32,126.551,33,4.9,mb,,,,,us,usp00001q3,2014-11-06T23:21:12.240Z,"174 km WNW of Tobelo, Indonesia",earthquake,,,,,reviewed,us,us
+1973-05-04T11:27:13.300Z,2.281,126.715,33,5.9,mb,,,,,us,usp00001q2,2022-04-27T18:51:12.033Z,"156 km WNW of Tobelo, Indonesia",earthquake,,,,,reviewed,us,us
+1973-05-01T21:50:00.600Z,-1.939,126.234,33,4.7,mb,,,,,us,usp00001p2,2014-11-06T23:21:12.214Z,"291 km NW of Ambon, Indonesia",earthquake,,,,,reviewed,us,us
+1973-04-29T20:20:56.100Z,0.363,125.243,92,5.5,mb,,,,,us,usp00001my,2014-11-06T23:21:12.185Z,"110 km SSE of Tondano, Indonesia",earthquake,,,,,reviewed,us,us
+1973-04-29T00:59:33.800Z,-6.323,129.873,126,5.3,mb,,,,,us,usp00001mj,2014-11-06T23:21:12.174Z,"Banda Sea",earthquake,,,,,reviewed,us,us
+1973-04-28T10:49:28.200Z,-4.041,102.599,82,5.4,mb,,,,,us,usp00001m9,2022-04-27T18:55:32.653Z,"45 km SE of Bengkulu, Indonesia",earthquake,,,,,reviewed,us,us
+1973-04-27T18:17:49.400Z,-2.84,119.476,33,5.2,ms,,,,,us,usp00001kv,2014-11-06T23:21:12.150Z,"49 km WNW of Rantepao, Indonesia",earthquake,,,,,reviewed,us,us
+1973-04-19T10:16:34.200Z,-4.613,134.556,33,5,mb,,,,,us,usp00001f5,2014-11-06T23:21:11.600Z,"173 km SW of Nabire, Indonesia",earthquake,,,,,reviewed,us,us
+1973-04-17T14:21:57.900Z,5.828,127.104,69,5.1,mb,,,,,us,usp00001ed,2014-11-06T23:21:11.485Z,"118 km ESE of Pondaguitan, Philippines",earthquake,,,,,reviewed,us,us
+1973-04-17T13:08:44.400Z,-4.319,134.287,33,4.8,mb,,,,,us,usp00001ec,2014-11-06T23:21:11.484Z,"171 km SW of Nabire, Indonesia",earthquake,,,,,reviewed,us,us
+1973-04-17T12:34:26.500Z,-4.439,134.03,33,6.4,ms,,,,,us,usp00001eb,2022-04-27T18:55:01.317Z,"193 km NE of Tual, Indonesia",earthquake,,,,,reviewed,us,us
+1973-04-13T04:03:56.900Z,5.466,126.365,30,5.3,mb,,,,,us,usp00001cq,2014-11-06T23:21:11.267Z,"94 km ESE of Caburan, Philippines",earthquake,,,,,reviewed,us,us
+1973-04-13T01:41:15.700Z,-4.157,135.137,47,4.8,mb,,,,,us,usp00001cn,2014-11-06T23:21:11.261Z,"96 km SSW of Nabire, Indonesia",earthquake,,,,,reviewed,us,us
+1973-04-11T17:48:02.900Z,-4.473,135.056,33,4.9,mb,,,,,us,usp00001c0,2014-11-06T23:21:11.222Z,"132 km SSW of Nabire, Indonesia",earthquake,,,,,reviewed,us,us
+1973-04-11T09:23:06.600Z,-0.832,127.54,33,5.6,mb,,,,,us,usp00001bv,2022-04-27T18:54:16.975Z,"173 km S of Sofifi, Indonesia",earthquake,,,,,reviewed,us,us
+1973-04-11T03:35:30.300Z,-2.905,119.683,110,5,mb,,,,,us,usp00001bn,2014-11-06T23:21:11.201Z,"24 km WNW of Rantepao, Indonesia",earthquake,,,,,reviewed,us,us
+1973-04-11T02:06:46.400Z,-2.626,138.729,48,5.2,mb,,,,,us,usp00001bj,2022-04-27T18:54:14.765Z,"211 km W of Abepura, Indonesia",earthquake,,,,,reviewed,us,us
+1973-04-10T19:55:55.800Z,-9.784,119.303,33,5.8,mb,,,,,us,usp00001be,2022-04-27T18:54:12.463Z,"106 km W of Waingapu, Indonesia",earthquake,,,,,reviewed,us,us
+1973-04-07T18:17:10.100Z,5.969,125.879,178,4.6,mb,,,,,us,usp00001a3,2014-11-06T23:21:11.021Z,"21 km E of Mangili, Philippines",earthquake,,,,,reviewed,us,us
+1973-04-07T05:31:21.700Z,2.055,126.642,46,4.9,mb,,,,,us,usp000019s,2014-11-06T23:21:11.005Z,"156 km WNW of Tobelo, Indonesia",earthquake,,,,,reviewed,us,us
+1973-04-05T03:05:39.900Z,-7.672,118.654,160,4.9,mb,,,,,us,usp0000186,2014-11-06T23:21:10.780Z,"87 km N of Bima, Indonesia",earthquake,,,,,reviewed,us,us
+1973-04-04T09:54:50.900Z,-4.844,131.934,33,5.1,mb,,,,,us,usp000017r,2014-11-06T23:21:10.758Z,"125 km NW of Tual, Indonesia",earthquake,,,,,reviewed,us,us
+1973-04-03T17:22:46.300Z,-4.619,103.192,100,5.2,mb,,,,,us,usp000017a,2014-11-06T23:21:10.723Z,"65 km S of Pagar Alam, Indonesia",earthquake,,,,,reviewed,us,us
+1973-04-02T23:15:48.000Z,-4.282,102.911,98,4.9,mb,,,,,us,usp000016z,2014-11-06T23:21:10.706Z,"46 km SW of Pagar Alam, Indonesia",earthquake,,,,,reviewed,us,us
+1973-03-31T00:36:13.600Z,5.816,124.041,554,5,mb,,,,,us,usp000015w,2014-11-06T23:21:10.649Z,"46 km SSW of Palimbang, Philippines",earthquake,,,,,reviewed,us,us
+1973-03-30T19:03:05.500Z,-8.706,112.59,97,4.7,mb,,,,,us,usp000015t,2014-11-06T23:21:10.645Z,"57 km SSW of Dampit, Indonesia",earthquake,,,,,reviewed,us,us
+1973-03-30T03:16:13.100Z,-4.763,103.24,89,5.2,mb,,,,,us,usp000015j,2014-11-06T23:21:10.632Z,"81 km S of Pagar Alam, Indonesia",earthquake,,,,,reviewed,us,us
+1973-03-29T06:20:37.600Z,-2.153,99.715,50,5.2,mb,,,,,us,usp000014w,2014-11-06T23:21:10.596Z,"150 km SSW of Padang, Indonesia",earthquake,,,,,reviewed,us,us
+1973-03-27T15:05:24.500Z,-6.896,129.421,81,5,mb,,,,,us,usp000013z,2014-11-06T23:21:10.552Z,"Banda Sea",earthquake,,,,,reviewed,us,us
+1973-03-26T00:18:16.300Z,2.095,126.439,33,4.5,mb,,,,,us,usp000012v,2014-11-06T23:21:10.489Z,"176 km ENE of Laikit, Laikit II (Dimembe), Indonesia",earthquake,,,,,reviewed,us,us
+1973-03-25T16:56:18.600Z,-6.741,128.384,302,4.8,mb,,,,,us,usp000012h,2014-11-06T23:21:10.472Z,"Banda Sea",earthquake,,,,,reviewed,us,us
+1973-03-24T12:51:25.100Z,-9.165,111.098,33,4.9,mb,,,,,us,usp0000124,2014-11-06T23:21:10.450Z,"137 km SSW of Trenggalek, Indonesia",earthquake,,,,,reviewed,us,us
+1973-03-23T21:39:47.600Z,4.19,126.832,35,5.6,mb,,,,,us,usp000011s,2022-04-27T18:58:17.590Z,"202 km SE of Sarangani, Philippines",earthquake,,,,,reviewed,us,us
+1973-03-22T22:39:15.500Z,5.947,126.318,102,5.1,mb,,,,,us,usp0000116,2022-04-27T18:58:05.282Z,"48 km SSE of Pondaguitan, Philippines",earthquake,,,,,reviewed,us,us
+1973-03-22T14:51:25.700Z,-4.501,133.16,33,4.5,mb,,,,,us,usp0000110,2014-11-06T23:21:10.290Z,"132 km NNE of Tual, Indonesia",earthquake,,,,,reviewed,us,us
+1973-03-22T11:33:11.500Z,-8.223,118.054,149,5,mb,,,,,us,usp000010x,2014-11-06T23:21:10.285Z,"56 km NW of Dompu, Indonesia",earthquake,,,,,reviewed,us,us
+1973-03-20T19:09:06.600Z,-8.267,117.381,162,5.7,mb,,,,,us,usp000010d,2022-04-27T18:57:56.988Z,"19 km NW of Pototano, Indonesia",earthquake,,,,,reviewed,us,us
+1973-03-20T01:37:47.000Z,2.11,126.354,11,4.5,mb,,,,,us,usp0000103,2014-11-06T23:21:10.233Z,"168 km ENE of Laikit, Laikit II (Dimembe), Indonesia",earthquake,,,,,reviewed,us,us
+1973-03-18T14:37:48.500Z,2.577,126.923,33,4.6,mb,,,,,us,usp00000zn,2014-11-06T23:21:10.168Z,"153 km NW of Tobelo, Indonesia",earthquake,,,,,reviewed,us,us
+1973-03-18T12:04:03.500Z,1.851,126.214,38,5.1,mb,,,,,us,usp00000zm,2014-11-06T23:21:10.164Z,"143 km ENE of Laikit, Laikit II (Dimembe), Indonesia",earthquake,,,,,reviewed,us,us
+1973-03-18T11:23:43.800Z,2.148,126.785,32,5.2,mb,,,,,us,usp00000zk,2022-04-27T18:57:35.124Z,"143 km WNW of Tobelo, Indonesia",earthquake,,,,,reviewed,us,us
+1973-03-18T11:06:14.700Z,2.033,126.58,33,6.5,ms,,,,,us,usp00000zj,2022-04-27T18:57:28.119Z,"162 km WNW of Tobelo, Indonesia",earthquake,,,,,reviewed,us,us
+1973-03-17T16:38:49.300Z,-6.831,102.071,60,5.2,mb,,,,,us,usp00000za,2014-11-06T23:21:10.112Z,"southwest of Sumatra, Indonesia",earthquake,,,,,reviewed,us,us
+1973-03-17T15:40:48.000Z,-5.193,103.235,68,5.7,mb,,,,,us,usp00000z9,2022-04-27T18:57:25.911Z,"129 km S of Pagar Alam, Indonesia",earthquake,,,,,reviewed,us,us
+1973-03-16T03:40:42.000Z,2.058,126.396,33,5.6,mb,,,,,us,usp00000yx,2022-04-27T18:57:09.531Z,"170 km ENE of Laikit, Laikit II (Dimembe), Indonesia",earthquake,,,,,reviewed,us,us
+1973-03-16T02:12:23.300Z,2.013,126.552,47,5.5,mb,,,,,us,usp00000yv,2022-04-27T18:57:07.369Z,"163 km NW of Ternate, Indonesia",earthquake,,,,,reviewed,us,us
+1973-03-16T01:09:07.400Z,2.036,126.392,33,5.2,mb,,,,,us,usp00000yt,2014-11-06T23:21:10.065Z,"168 km ENE of Laikit, Laikit II (Dimembe), Indonesia",earthquake,,,,,reviewed,us,us
+1973-03-16T01:00:48.000Z,2.171,126.5,33,5.4,mb,,,,,us,usp00000ys,2022-04-27T18:57:05.849Z,"174 km WNW of Tobelo, Indonesia",earthquake,,,,,reviewed,us,us
+1973-03-16T00:51:47.000Z,2.091,126.643,18,6.3,ms,,,,,us,usp00000yr,2022-04-27T18:57:03.688Z,"157 km WNW of Tobelo, Indonesia",earthquake,,,,,reviewed,us,us
+1973-03-15T02:05:15.300Z,5.62,126.787,65,4.8,mb,,,,,us,usp00000yg,2014-11-06T23:21:10.054Z,"106 km SE of Pondaguitan, Philippines",earthquake,,,,,reviewed,us,us
+1973-03-14T23:38:21.700Z,-9.273,124.92,33,4.8,mb,,,,,us,usp00000yf,2014-11-06T23:21:10.053Z,"18 km S of Atambua, Indonesia",earthquake,,,,,reviewed,us,us
+1973-03-12T14:57:25.600Z,4.126,126.693,57,4.6,mb,,,,,us,usp00000xn,2014-11-06T23:21:10.009Z,"196 km SE of Sarangani, Philippines",earthquake,,,,,reviewed,us,us
+1973-03-12T12:39:02.000Z,4.175,126.491,37,5.5,mb,,,,,us,usp00000xh,2022-04-27T18:56:39.413Z,"177 km SE of Sarangani, Philippines",earthquake,,,,,reviewed,us,us
+1973-03-12T05:57:02.000Z,-9.408,111.142,38,5.4,ms,,,,,us,usp00000x9,2014-11-06T23:21:09.895Z,"159 km SSW of Trenggalek, Indonesia",earthquake,,,,,reviewed,us,us
+1973-03-11T02:33:53.500Z,5.991,126.756,96,4.8,mb,,,,,us,usp00000wx,2014-11-06T23:21:09.879Z,"75 km ESE of Pondaguitan, Philippines",earthquake,,,,,reviewed,us,us
+1973-03-10T19:37:18.800Z,0.111,123.377,173,5,mb,,,,,us,usp00000wr,2014-11-06T23:21:09.869Z,"58 km SE of Gorontalo, Indonesia",earthquake,,,,,reviewed,us,us
+1973-03-10T04:32:10.200Z,4.276,95.568,36,4.9,mb,,,,,us,usp00000wa,2014-11-06T23:21:09.846Z,"63 km WNW of Meulaboh, Indonesia",earthquake,,,,,reviewed,us,us
+1973-03-09T15:27:08.600Z,-3.06,139.096,50,5.3,mb,,,,,us,usp00000w2,2017-04-26T17:26:36.729Z,"178 km WSW of Abepura, Indonesia",earthquake,,,,,reviewed,us,us
+1973-03-08T13:20:25.700Z,2.334,126.736,95,4.7,mb,,,,,us,usp00000vh,2014-11-06T23:21:09.800Z,"156 km WNW of Tobelo, Indonesia",earthquake,,,,,reviewed,us,us
+1973-03-06T07:38:32.500Z,4.068,126.348,68,4.8,mb,,,,,us,usp00000uh,2014-11-06T23:21:09.745Z,"177 km SSE of Sarangani, Philippines",earthquake,,,,,reviewed,us,us
+1973-03-03T00:44:36.400Z,3.586,126.295,112,5.1,mb,,,,,us,usp00000t7,2014-11-06T23:21:09.675Z,"Pulau-Pulau Talaud, Indonesia",earthquake,,,,,reviewed,us,us
+1973-03-02T02:28:58.100Z,3.821,125.814,36,4.7,mb,,,,,us,usp00000sx,2014-11-06T23:21:09.658Z,"179 km SSE of Sarangani, Philippines",earthquake,,,,,reviewed,us,us
+1973-02-28T23:07:59.000Z,-0.211,124.393,87,5.5,mb,,,,,us,usp00000sg,2022-04-27T19:02:26.298Z,"169 km ESE of Gorontalo, Indonesia",earthquake,,,,,reviewed,us,us
+1973-02-27T14:49:36.900Z,-1.748,99.664,33,5,mb,,,,,us,usp00000rm,2014-11-06T23:21:09.581Z,"117 km SW of Padang, Indonesia",earthquake,,,,,reviewed,us,us
+1973-02-26T21:57:30.000Z,-1.762,99.658,33,5.3,ms,,,,,us,usp00000r0,2022-04-27T19:01:58.889Z,"118 km SW of Padang, Indonesia",earthquake,,,,,reviewed,us,us
+1973-02-26T10:53:27.600Z,5.696,127.039,74,5.2,mb,,,,,us,usp00000qt,2014-11-06T23:21:09.434Z,"120 km SE of Pondaguitan, Philippines",earthquake,,,,,reviewed,us,us
+1973-02-26T09:56:22.200Z,4.063,126.494,82,5,mb,,,,,us,usp00000qs,2014-11-06T23:21:09.425Z,"187 km SE of Sarangani, Philippines",earthquake,,,,,reviewed,us,us
+1973-02-25T21:28:26.300Z,-1.685,99.668,33,4.9,mb,,,,,us,usp00000qh,2014-11-06T23:21:09.403Z,"111 km SW of Padang, Indonesia",earthquake,,,,,reviewed,us,us
+1973-02-25T10:31:39.500Z,-1.696,99.68,33,5.9,ms,,,,,us,usp00000q5,2022-04-27T19:01:44.026Z,"111 km SW of Padang, Indonesia",earthquake,,,,,reviewed,us,us
+1973-02-25T08:41:14.200Z,5.825,125.814,90,4.9,mb,,,,,us,usp00000q3,2014-11-06T23:21:09.369Z,"21 km ESE of Caburan, Philippines",earthquake,,,,,reviewed,us,us
+1973-02-24T22:36:41.800Z,2.283,126.73,70,4.5,mb,,,,,us,usp00000pr,2014-11-06T23:21:09.324Z,"154 km WNW of Tobelo, Indonesia",earthquake,,,,,reviewed,us,us
+1973-02-23T16:20:00.200Z,3.981,126.516,136,4.7,mb,,,,,us,usp00000p0,2014-11-06T23:21:09.280Z,"195 km SE of Sarangani, Philippines",earthquake,,,,,reviewed,us,us
+1973-02-18T03:45:11.000Z,-7.31,128.358,78,5.5,mb,,,,,us,usp00000jt,2014-11-06T23:21:09.079Z,"201 km NE of Lospalos, Timor Leste",earthquake,,,,,reviewed,us,us
+1973-02-15T20:05:23.900Z,-5.531,110.198,543,4.6,mb,,,,,us,usp00000j3,2014-11-06T23:21:09.033Z,"119 km NNW of Batang, Indonesia",earthquake,,,,,reviewed,us,us
+1973-02-15T06:47:44.700Z,-5.429,126.696,33,4.9,mb,,,,,us,usp00000ht,2014-11-06T23:21:09.007Z,"252 km SW of Ambon, Indonesia",earthquake,,,,,reviewed,us,us
+1973-02-15T05:31:19.500Z,-4.34,103.09,107,5.4,mb,,,,,us,usp00000hs,2022-04-27T15:46:34.854Z,"38 km SSW of Pagar Alam, Indonesia",earthquake,,,,,reviewed,us,us
+1973-02-14T15:22:09.600Z,-5.358,126.746,17,5.7,ms,,,,,us,usp00000hg,2022-04-27T18:59:54.990Z,"243 km SW of Ambon, Indonesia",earthquake,,,,,reviewed,us,us
+1973-02-14T09:21:21.700Z,-6.718,131.328,33,5.4,mb,,,,,us,usp00000ha,2014-11-06T23:21:08.974Z,"198 km SW of Tual, Indonesia",earthquake,,,,,reviewed,us,us
+1973-02-13T13:59:46.800Z,4.553,125.703,176,5.5,mb,,,,,us,usp00000gx,2022-04-27T18:59:34.150Z,"97 km SSE of Sarangani, Philippines",earthquake,,,,,reviewed,us,us
+1973-02-11T01:45:38.100Z,-5.434,126.643,33,5,mb,,,,,us,usp00000ga,2014-11-06T23:21:08.902Z,"257 km SW of Ambon, Indonesia",earthquake,,,,,reviewed,us,us
+1973-02-09T05:02:43.600Z,-2.713,119.837,33,5.2,mb,,,,,us,usp00000fb,2014-11-06T23:21:08.832Z,"29 km NNW of Rantepao, Indonesia",earthquake,,,,,reviewed,us,us
+1973-02-05T22:55:17.700Z,1.546,126.419,63,4.9,mb,,,,,us,usp00000dp,2014-11-06T23:21:08.717Z,"136 km NW of Ternate, Indonesia",earthquake,,,,,reviewed,us,us
+1973-02-01T11:39:59.200Z,-6.528,106.965,77,4.5,mb,,,,,us,usp00000c1,2014-11-06T23:21:08.600Z,"10 km ESE of Citeureup, Indonesia",earthquake,,,,,reviewed,us,us
+1973-01-31T18:15:13.300Z,-1.642,128.944,33,5,mb,,,,,us,usp00000bn,2014-11-06T23:21:08.576Z,"187 km N of Amahai, Indonesia",earthquake,,,,,reviewed,us,us
+1973-01-28T23:05:12.300Z,2.377,126.679,59,5.2,mb,,,,,us,usp00000as,2014-11-06T23:21:08.511Z,"164 km WNW of Tobelo, Indonesia",earthquake,,,,,reviewed,us,us
+1973-01-27T13:08:43.700Z,-0.115,123.931,55,6,mb,,,,,us,usp00000aa,2022-05-09T19:18:20.643Z,"120 km SE of Gorontalo, Indonesia",earthquake,,,,,reviewed,us,us
+1973-01-26T21:33:55.000Z,0.376,122.224,115,5.6,mb,,,,,us,usp00000a3,2020-07-10T19:25:40.896Z,"95 km W of Gorontalo, Indonesia",earthquake,,,,,reviewed,us,us
+1973-01-24T20:05:11.900Z,1,126.257,53,5.1,mb,,,,,us,usp000009d,2014-11-06T23:21:08.408Z,"127 km W of Ternate, Indonesia",earthquake,,,,,reviewed,us,us
+1973-01-22T03:17:00.000Z,-7.575,107.262,88,4.9,mb,,,,,us,usp000008g,2014-11-06T23:21:08.269Z,"45 km SSW of Banjar, Indonesia",earthquake,,,,,reviewed,us,us
+1973-01-21T00:00:21.600Z,-9.386,122.163,33,5.2,mb,,,,,us,usp000007w,2014-11-06T23:21:08.055Z,"81 km SE of Ende, Indonesia",earthquake,,,,,reviewed,us,us
+1973-01-19T08:05:08.600Z,5.938,126.838,63,5.2,mb,,,,,us,usp0000074,2014-11-06T23:21:07.990Z,"86 km ESE of Pondaguitan, Philippines",earthquake,,,,,reviewed,us,us
+1973-01-19T03:25:06.400Z,0.489,125.478,37,4.2,mb,,,,,us,usp0000070,2014-11-06T23:21:07.908Z,"110 km SE of Tondano, Indonesia",earthquake,,,,,reviewed,us,us
+1973-01-17T02:23:49.500Z,-2.385,138.797,33,5.2,mb,,,,,us,usp0000060,2014-11-06T23:21:07.765Z,"205 km W of Abepura, Indonesia",earthquake,,,,,reviewed,us,us
+1973-01-16T09:47:01.900Z,-3.528,135.474,7,5.5,mb,,,,,us,usp000005s,2020-07-10T19:24:09.250Z,"18 km S of Nabire, Indonesia",earthquake,,,,,reviewed,us,us
+1973-01-16T05:42:57.900Z,0.537,125.957,15,5.3,mb,,,,,us,usp000005p,2022-04-27T19:03:27.268Z,"143 km SE of Tondano, Indonesia",earthquake,,,,,reviewed,us,us
+1973-01-13T11:10:20.400Z,-2.696,101.27,105,5.2,mb,,,,,us,usp000004h,2014-11-06T23:21:07.620Z,"72 km S of Sungai Penuh, Indonesia",earthquake,,,,,reviewed,us,us
+1973-01-10T10:55:41.700Z,-6.972,129.94,91,4.7,mb,,,,,us,usp000003d,2014-11-06T23:21:07.522Z,"Banda Sea",earthquake,,,,,reviewed,us,us
+1973-01-07T22:17:02.600Z,5.683,127.304,79,5.1,mb,,,,,us,usp000002e,2014-11-06T23:21:07.435Z,"145 km ESE of Pondaguitan, Philippines",earthquake,,,,,reviewed,us,us
+1973-01-05T10:07:46.200Z,5.872,127.313,90,4.8,mb,,,,,us,usp000001b,2014-11-06T23:21:07.324Z,"136 km ESE of Pondaguitan, Philippines",earthquake,,,,,reviewed,us,us
+1973-01-03T02:29:42.800Z,1.548,126.305,33,4.8,mb,,,,,us,usp000000k,2014-11-06T23:21:07.244Z,"146 km NW of Ternate, Indonesia",earthquake,,,,,reviewed,us,us
+1973-01-02T13:03:15.400Z,5.535,127.205,62,4.4,mb,,,,,us,usp000000e,2014-11-06T23:21:07.226Z,"145 km SE of Pondaguitan, Philippines",earthquake,,,,,reviewed,us,us
+1973-01-02T02:27:09.200Z,1.035,126.211,61,5.4,mb,,,,,us,usp000000a,2014-11-06T23:21:07.214Z,"133 km WNW of Ternate, Indonesia",earthquake,,,,,reviewed,us,us
+1973-01-02T00:53:20.300Z,-9.854,117.427,66,5.5,mb,,,,,us,usp0000008,2014-11-06T23:21:07.208Z,"150 km S of Sumbawa Besar, Indonesia",earthquake,,,,,reviewed,us,us
+1972-12-29T10:50:00.590Z,-0.798,126.887,15,5.65,mw,,,,,iscgem,iscgem766810,2022-04-26T20:33:41.129Z,"184 km SSW of Ternate, Indonesia",earthquake,,12.6,0.28,,reviewed,iscgem,iscgem
+1972-12-28T05:54:09.240Z,5.648,127.135,44.5,5.96,mw,,,,,iscgem,iscgem766762,2022-04-26T20:33:14.288Z,"132 km SE of Pondaguitan, Philippines",earthquake,,43.2,0.26,,reviewed,iscgem,iscgem
+1972-12-18T13:57:06.220Z,-1.812,99.678,31.5,5.88,mw,,,,,iscgem,iscgem766341,2022-04-26T20:32:30.244Z,"121 km SW of Padang, Indonesia",earthquake,,3.6,0.24,,reviewed,iscgem,iscgem
+1972-12-08T20:43:15.170Z,5.664,127.292,35,5.9,mw,,,,,iscgem,iscgem765878,2022-04-26T20:31:59.831Z,"145 km ESE of Pondaguitan, Philippines",earthquake,,16.7,0.6,,reviewed,iscgem,iscgem
+1972-12-08T20:17:13.250Z,5.59,127.171,45.7,5.5,mw,,,,,iscgem,iscgem765877,2022-05-09T22:49:40.380Z,"139 km SE of Pondaguitan, Philippines",earthquake,,4.6,0.66,,reviewed,iscgem,iscgem
+1972-12-08T18:13:06.140Z,-1.905,99.637,28.9,6.1,mw,,,,,iscgem,iscgem765872,2022-04-26T20:31:57.123Z,"132 km SW of Padang, Indonesia",earthquake,,3.9,0.2,,reviewed,iscgem,iscgem
+1972-12-08T10:18:15.080Z,5.671,127.134,55,5.62,mw,,,,,iscgem,iscgem765851,2022-04-26T20:31:55.915Z,"130 km SE of Pondaguitan, Philippines",earthquake,,43.2,0.69,,reviewed,iscgem,iscgem
+1972-12-08T07:48:43.050Z,-1.886,99.637,27.9,5.84,mw,,,,,iscgem,iscgem765843,2022-04-26T20:31:54.737Z,"130 km SW of Padang, Indonesia",earthquake,,3.9,0.2,,reviewed,iscgem,iscgem
+1972-12-07T14:50:15.790Z,3.629,128.51,45,5.62,mw,,,,,iscgem,iscgem765813,2022-04-26T20:31:52.447Z,"217 km NNE of Tobelo, Indonesia",earthquake,,4.5,0.29,,reviewed,iscgem,iscgem
+1972-12-07T11:41:26.520Z,-2.989,139.08,25,6.02,mw,,,,,iscgem,iscgem765803,2022-04-26T20:31:51.345Z,"177 km WSW of Abepura, Indonesia",earthquake,,3.5,0.2,,reviewed,iscgem,iscgem
+1972-12-06T01:43:25.270Z,-2.91,139.084,25,5.9,mw,,,,,iscgem,iscgem765733,2022-04-26T20:31:48.952Z,"175 km WSW of Abepura, Indonesia",earthquake,,15.9,0.2,,reviewed,iscgem,iscgem
+1972-12-05T21:59:53.730Z,-1.515,136.627,15,5.86,mw,,,,,iscgem,iscgem765720,2022-04-26T20:31:47.735Z,"71 km ESE of Biak, Indonesia",earthquake,,6.1,0.38,,reviewed,iscgem,iscgem
+1972-12-05T02:46:20.090Z,-1.592,136.656,15,5.67,mw,,,,,iscgem,iscgem765674,2022-04-26T20:31:45.311Z,"78 km SE of Biak, Indonesia",earthquake,,6.1,0.51,,reviewed,iscgem,iscgem
+1972-12-04T17:51:21.940Z,-1.535,136.657,15,6,mw,,,,,iscgem,iscgem765650,2022-04-26T20:31:44.129Z,"75 km ESE of Biak, Indonesia",earthquake,,6.1,0.2,,reviewed,iscgem,iscgem
+1972-12-03T19:25:35.150Z,5.726,127.106,60,5.92,mw,,,,,iscgem,iscgem765596,2022-04-26T20:31:35.965Z,"124 km SE of Pondaguitan, Philippines",earthquake,,43.2,0.2,,reviewed,iscgem,iscgem
+1972-12-02T05:48:25.240Z,5.609,127.202,60,6.07,mw,,,,,iscgem,iscgem765522,2022-04-26T20:31:31.942Z,"140 km SE of Pondaguitan, Philippines",earthquake,,43.2,0.2,,reviewed,iscgem,iscgem
+1972-12-01T14:53:47.560Z,0.448,126.213,42.7,5.81,mw,,,,,iscgem,iscgem765494,2022-04-26T20:31:08.728Z,"135 km WSW of Ternate, Indonesia",earthquake,,5,0.35,,reviewed,iscgem,iscgem
+1972-11-29T02:58:47.880Z,4.074,128.861,20,5.51,mw,,,,,iscgem,iscgem767845,2022-04-26T20:37:25.470Z,"north of Halmahera, Indonesia",earthquake,,25,0.23,,reviewed,iscgem,iscgem
+1972-11-27T15:17:41.750Z,-5.339,126.556,424.6,6.33,mw,,,,,iscgem,iscgem767788,2022-04-26T20:37:24.139Z,"256 km SW of Ambon, Indonesia",earthquake,,6.1,0.1,,reviewed,iscgem,iscgem
+1972-11-27T06:42:21.810Z,0.539,126.162,30,5.58,mw,,,,,iscgem,iscgem767772,2022-04-26T20:37:18.991Z,"138 km WSW of Ternate, Indonesia",earthquake,,3.8,0.2,,reviewed,iscgem,iscgem
+1972-11-05T00:05:52.240Z,-9.624,122.185,35,6.11,mw,,,,,iscgem,iscgem767020,2022-04-26T20:34:15.563Z,"103 km SSE of Ende, Indonesia",earthquake,,4.7,0.2,,reviewed,iscgem,iscgem
+1972-11-04T21:36:03.180Z,-8.146,112.267,133.7,5.93,mw,,,,,iscgemsup,iscgemsup767015,2022-05-09T19:18:22.359Z,"12 km ESE of Blitar, Indonesia",earthquake,,6.2,0.91,,reviewed,iscgemsup,iscgemsup
+1972-11-02T09:51:48.140Z,-6.383,131.189,25,5.79,mw,,,,,iscgem,iscgem766918,2022-04-26T20:33:54.005Z,"Pulau Pulau Tanimbar, Indonesia",earthquake,,39.9,0.26,,reviewed,iscgem,iscgem
+1972-10-31T23:24:12.170Z,-6.223,104.815,53.6,5.9,mw,,,,,iscgem,iscgem768886,2022-04-26T20:39:51.737Z,"100 km SSW of Bandar Lampung, Indonesia",earthquake,,25.5,0.37,,reviewed,iscgem,iscgem
+1972-10-28T01:01:21.890Z,2.647,128.708,45,5.71,mw,,,,,iscgem,iscgem768753,2022-04-26T20:39:10.902Z,"127 km NE of Tobelo, Indonesia",earthquake,,25,0.24,,reviewed,iscgem,iscgem
+1972-10-26T13:01:52.010Z,-4.715,102.201,45,5.54,mw,,,,,iscgem,iscgem768705,2022-04-26T20:39:01.142Z,"101 km S of Bengkulu, Indonesia",earthquake,,9.5,0.2,,reviewed,iscgem,iscgem
+1972-10-18T18:18:24.460Z,-8.544,124.855,15,5.9,mw,,,,,iscgem,iscgem768494,2022-04-26T20:38:24.150Z,"39 km W of Maubara, Timor Leste",earthquake,,16,0.2,,reviewed,iscgem,iscgem
+1972-10-17T21:23:17.610Z,-10.387,120.478,30,5.9,mw,,,,,iscgem,iscgem768467,2022-04-26T20:38:18.553Z,"84 km SSE of Waingapu, Indonesia",earthquake,,3.9,0.2,,reviewed,iscgem,iscgem
+1972-10-14T02:10:57.030Z,-6.435,131.197,35,5.62,mw,,,,,iscgem,iscgem768340,2022-04-26T20:38:02.539Z,"193 km WSW of Tual, Indonesia",earthquake,,39.9,0.2,,reviewed,iscgem,iscgem
+1972-10-12T17:49:54.180Z,1.793,127.431,124.8,6.08,mw,,,,,iscgem,iscgem768305,2022-04-26T20:37:57.822Z,"64 km W of Tobelo, Indonesia",earthquake,,4.6,0.52,,reviewed,iscgem,iscgem
+1972-10-12T16:45:09.760Z,-0.706,121.647,20,5.52,mw,,,,,iscgem,iscgem768303,2022-04-26T20:37:52.695Z,"Sulawesi, Indonesia",earthquake,,10.5,0.2,,reviewed,iscgem,iscgem
+1972-09-24T23:59:06.190Z,-6.489,131.172,30.7,5.99,mw,,,,,iscgem,iscgem769890,2022-04-26T20:43:24.676Z,"199 km WSW of Tual, Indonesia",earthquake,,4.8,0.49,,reviewed,iscgem,iscgem
+1972-09-24T22:39:17.270Z,-6.21,131.164,35,5.54,mw,,,,,iscgem,iscgem769886,2022-04-26T20:43:23.312Z,"187 km WSW of Tual, Indonesia",earthquake,,29.2,0.6,,reviewed,iscgem,iscgem
+1972-09-24T20:09:38.470Z,-6.305,131.116,35,6.8,mw,,,,,iscgem,iscgem769882,2022-04-26T20:43:22.211Z,"195 km WSW of Tual, Indonesia",earthquake,,39.9,0.2,,reviewed,iscgem,iscgem
+1972-09-22T17:36:02.400Z,-0.101,122.931,125,5.58,mw,,,,,iscgem,iscgem769763,2022-04-26T20:43:17.908Z,"72 km SSW of Gorontalo, Indonesia",earthquake,,33.6,0.35,,reviewed,iscgem,iscgem
+1972-09-21T00:10:13.710Z,2.948,96.091,23.4,5.53,mw,,,,,iscgem,iscgem769692,2022-04-26T20:43:14.857Z,"60 km NNW of Sinabang, Indonesia",earthquake,,3.7,0.25,,reviewed,iscgem,iscgem
+1972-09-18T20:35:40.190Z,-9.983,119.515,53.1,5.6,mw,,,,,iscgem,iscgem769592,2022-04-26T20:42:49.258Z,"89 km WSW of Waingapu, Indonesia",earthquake,,4.5,0.2,,reviewed,iscgem,iscgem
+1972-09-16T10:51:41.220Z,2.215,128.225,160,5.67,mw,,,,,iscgem,iscgem769447,2022-04-26T20:42:26.008Z,"58 km NNE of Tobelo, Indonesia",earthquake,,22.5,0.2,,reviewed,iscgem,iscgem
+1972-09-11T13:35:49.890Z,-3.296,130.685,28.6,6.1,mw,,,,,iscgem,iscgem769309,2022-04-26T20:42:03.131Z,"196 km E of Amahai, Indonesia",earthquake,,4.6,0.2,,reviewed,iscgem,iscgem
+1972-09-08T03:13:01.300Z,-5.754,130.547,87.5,5.76,mw,,,,,iscgem,iscgem769197,2022-04-26T20:41:29.811Z,"244 km W of Tual, Indonesia",earthquake,,30.5,0.2,,reviewed,iscgem,iscgem
+1972-09-06T19:41:29.930Z,-2.804,139.248,58.6,5.57,mw,,,,,iscgem,iscgem769151,2022-04-26T20:41:20.557Z,"155 km W of Abepura, Indonesia",earthquake,,15.9,0.39,,reviewed,iscgem,iscgem
+1972-09-05T17:18:27.960Z,1.987,128.22,126.3,6.29,mw,,,,,iscgem,iscgem769103,2022-04-26T20:41:12.630Z,"36 km NE of Tobelo, Indonesia",earthquake,,4.8,0.1,,reviewed,iscgem,iscgem
+1972-09-05T05:23:05.930Z,-6.938,129.69,108.4,5.92,mw,,,,,iscgem,iscgem769082,2022-04-26T20:41:10.169Z,"Banda Sea",earthquake,,5,0.64,,reviewed,iscgem,iscgem
+1972-08-23T11:59:55.150Z,1.787,127.302,120,5.65,mw,,,,,iscgem,iscgem770851,2022-04-26T20:45:34.288Z,"78 km W of Tobelo, Indonesia",earthquake,,15.4,0.23,,reviewed,iscgem,iscgem
+1972-08-20T05:10:19.640Z,1.342,126.939,15,5.65,mw,,,,,iscgem,iscgem770751,2022-04-26T20:45:28.513Z,"78 km NW of Ternate, Indonesia",earthquake,,31.1,0.28,,reviewed,iscgem,iscgem
+1972-08-14T15:33:16.970Z,1.71,126.324,30,5.62,mw,,,,,iscgem,iscgem770574,2024-01-17T20:43:04.065Z,"136 km ENE of Bitung, Indonesia",earthquake,,20.8,0.29,,reviewed,iscgem,iscgem
+1972-08-11T01:05:37.730Z,-0.317,121.836,272.2,5.62,mw,,,,,iscgem,iscgem770466,2022-04-26T20:45:13.101Z,"127 km WNW of Luwuk, Indonesia",earthquake,,24.5,0.27,,reviewed,iscgem,iscgem
+1972-08-01T19:06:35.880Z,2.394,127.543,97.7,6.33,mw,,,,,iscgemsup,iscgemsup770124,2022-05-09T19:18:35.614Z,"90 km NW of Tobelo, Indonesia",earthquake,,4.7,0.96,,reviewed,iscgemsup,iscgemsup
+1972-08-01T10:37:00.660Z,-4.119,102.28,90,5.62,mw,,,,,iscgem,iscgem770115,2022-04-26T20:44:02.556Z,"35 km S of Bengkulu, Indonesia",earthquake,,15.5,0.44,,reviewed,iscgem,iscgem
+1972-07-30T23:17:23.800Z,-5.877,130.525,90,5.86,mw,,,,,iscgemsup,iscgemsup772067,2022-05-09T19:18:41.332Z,"248 km W of Tual, Indonesia",earthquake,,3.7,0.77,,reviewed,iscgemsup,iscgemsup
+1972-07-30T04:58:36.080Z,-5.779,102.591,39.3,5.53,mw,,,,,iscgem,iscgem772031,2022-04-26T20:47:36.557Z,"207 km SSW of Pagar Alam, Indonesia",earthquake,,8.3,0.2,,reviewed,iscgem,iscgem
+1972-07-29T05:04:22.050Z,0.119,123.445,139.1,6.17,mw,,,,,iscgem,iscgem772000,2022-04-26T20:47:29.783Z,"62 km SE of Gorontalo, Indonesia",earthquake,,5.3,0.39,,reviewed,iscgem,iscgem
+1972-07-16T17:09:08.090Z,-3.136,100.89,36.8,5.97,mw,,,,,iscgem,iscgem771618,2022-04-26T20:46:58.257Z,"131 km SSW of Sungai Penuh, Indonesia",earthquake,,4.6,0.2,,reviewed,iscgem,iscgem
+1972-07-03T05:31:30.140Z,5.794,125.865,105,5.61,mw,,,,,iscgem,iscgem771244,2022-04-26T20:46:33.800Z,"28 km ESE of Caburan, Philippines",earthquake,,36.5,0.2,,reviewed,iscgem,iscgem
+1972-06-24T23:20:06.110Z,1.476,127.57,208.9,5.81,mw,,,,,iscgem,iscgem772849,2022-04-26T20:49:05.520Z,"56 km WSW of Tobelo, Indonesia",earthquake,,5.2,0.46,,reviewed,iscgem,iscgem
+1972-06-15T11:52:02.620Z,-6.516,105.271,64.8,5.67,mw,,,,,iscgem,iscgem772563,2022-04-26T20:48:47.198Z,"63 km WSW of Labuan, Indonesia",earthquake,,17.8,0.48,,reviewed,iscgem,iscgem
+1972-06-11T16:41:04.650Z,3.752,124.221,330.8,7.72,mw,,,,,iscgem,iscgem772416,2022-04-26T20:48:29.750Z,"228 km SW of Sarangani, Philippines",earthquake,,5.4,0.1,,reviewed,iscgem,iscgem
+1972-06-08T07:55:20.580Z,-7.278,126.684,325,5.6,mw,,,,,iscgem,iscgem772319,2022-04-26T20:47:51.393Z,"134 km N of Baukau, Timor Leste",earthquake,,25,0.34,,reviewed,iscgem,iscgem
+1972-06-07T12:01:19.190Z,2.485,128.261,147.7,5.76,mw,,,,,iscgem,iscgem772287,2022-05-09T22:49:39.665Z,"88 km NNE of Tobelo, Indonesia",earthquake,,5.3,0.35,,reviewed,iscgem,iscgem
+1972-06-02T22:50:48.190Z,3.616,96.755,25,5.57,mw,,,,,iscgem,iscgem772160,2022-04-26T20:47:43.679Z,"90 km SE of Meulaboh, Indonesia",earthquake,,4,0.37,,reviewed,iscgem,iscgem
+1972-05-28T01:55:20.630Z,-10.973,116.987,15,6.27,mw,,,,,iscgem,iscgem773883,2022-04-26T20:51:30.712Z,"262 km SSE of Praya, Indonesia",earthquake,,3.7,0.22,,reviewed,iscgem,iscgem
+1972-05-14T05:03:20.640Z,-0.039,122.874,180,5.56,mw,,,,,iscgem,iscgem773464,2022-04-26T20:51:03.625Z,"67 km SSW of Gorontalo, Indonesia",earthquake,,33.6,0.63,,reviewed,iscgem,iscgem
+1972-05-12T16:34:55.750Z,-6.997,129.514,110,5.55,mw,,,,,iscgem,iscgem773410,2022-04-26T20:50:54.703Z,"Banda Sea",earthquake,,30.2,0.62,,reviewed,iscgem,iscgem
+1972-05-10T22:03:06.440Z,-0.313,122.28,15,5.79,mw,,,,,iscgem,iscgem773343,2022-04-26T20:50:48.262Z,"90 km NW of Luwuk, Indonesia",earthquake,,35.9,0.43,,reviewed,iscgem,iscgem
+1972-05-08T06:18:58.410Z,-1.21,138.306,20,5.71,mw,,,,,iscgem,iscgem773250,2022-04-26T20:50:29.067Z,"247 km E of Biak, Indonesia",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1972-05-08T00:37:05.040Z,-4.226,129.565,30.5,5.76,mw,,,,,iscgem,iscgem773238,2022-04-26T20:50:23.239Z,"121 km SE of Amahai, Indonesia",earthquake,,7.6,0.48,,reviewed,iscgem,iscgem
+1972-05-04T04:11:35.830Z,-10.7,113.625,25,5.62,mw,,,,,iscgemsup,iscgemsup773120,2022-05-09T19:18:46.737Z,"261 km SSW of Gambiran Satu, Indonesia",earthquake,,6.6,0.74,,reviewed,iscgemsup,iscgemsup
+1972-05-02T03:10:24.440Z,5.544,124.622,370,5.56,mw,,,,,iscgem,iscgem773072,2022-04-26T20:49:47.707Z,"44 km SSW of Katubao, Philippines",earthquake,,25,0.42,,reviewed,iscgem,iscgem
+1972-05-01T19:07:24.090Z,4.656,125.214,174.6,5.57,mw,,,,,iscgem,iscgem773057,2022-04-26T20:49:46.152Z,"87 km SSW of Sarangani, Philippines",earthquake,,11.6,0.66,,reviewed,iscgem,iscgem
+1972-04-23T20:40:06.670Z,-5.609,104.103,55,5.67,mw,,,,,iscgem,iscgem774688,2022-04-26T20:52:42.244Z,"122 km SW of Kotabumi, Indonesia",earthquake,,19.1,0.62,,reviewed,iscgem,iscgem
+1972-04-16T22:35:44.590Z,-2.752,119.756,15,5.92,mw,,,,,iscgem,iscgem774517,2022-04-26T20:52:32.763Z,"28 km NNW of Rantepao, Indonesia",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1972-04-14T18:15:15.490Z,-6.741,105.612,54.5,5.58,mw,,,,,iscgem,iscgem774445,2022-04-26T20:52:29.284Z,"46 km SSW of Labuan, Indonesia",earthquake,,17.8,0.2,,reviewed,iscgem,iscgem
+1972-04-07T01:16:36.360Z,1.72,126.341,15,5.48,mw,,,,,iscgem,iscgem774202,2022-04-26T20:29:16.306Z,"154 km E of Laikit, Laikit II (Dimembe), Indonesia",earthquake,,20.8,0.2,,reviewed,iscgem,iscgem
+1972-04-04T22:43:09.090Z,-7.432,125.544,390,6.78,mw,,,,,iscgem,iscgem774129,2022-04-26T20:52:11.857Z,"123 km N of Metinaro, Timor Leste",earthquake,,5.2,0.1,,reviewed,iscgem,iscgem
+1972-03-24T15:40:38.110Z,3.694,125.457,15,5.76,mw,,,,,iscgem,iscgem775657,2022-04-26T20:55:13.417Z,"189 km S of Sarangani, Philippines",earthquake,,47.4,0.2,,reviewed,iscgem,iscgem
+1972-03-22T12:37:28.660Z,-6.846,129.975,116.3,5.59,mw,,,,,iscgem,iscgem775580,2022-04-26T20:55:07.086Z,"Banda Sea",earthquake,,32.4,0.52,,reviewed,iscgem,iscgem
+1972-03-15T05:00:22.530Z,-7.627,125.913,239.5,5.55,mw,,,,,iscgem,iscgem775367,2022-04-26T20:54:23.647Z,"98 km N of Manatutu, Timor Leste",earthquake,,6.2,0.2,,reviewed,iscgem,iscgem
+1972-03-08T03:45:25.810Z,-3.795,131.384,25.6,5.9,mw,,,,,iscgem,iscgem775213,2022-04-26T20:54:14.821Z,"253 km NW of Tual, Indonesia",earthquake,,3.4,0.2,,reviewed,iscgem,iscgem
+1972-03-08T03:31:15.710Z,-6.5,130.162,135.3,5.59,mw,,,,,iscgem,iscgem775212,2024-01-17T20:42:58.571Z,"Banda Sea",earthquake,,23.4,0.65,,reviewed,iscgem,iscgem
+1972-02-26T15:17:56.540Z,0.492,126.086,35,5.51,mw,,,,,iscgem,iscgem776482,2022-04-26T20:56:45.925Z,"148 km WSW of Ternate, Indonesia",earthquake,,15.4,0.53,,reviewed,iscgem,iscgem
+1972-02-23T09:39:27.370Z,2.092,126.582,15,5.51,mw,,,,,iscgem,iscgem776405,2022-04-26T20:56:38.255Z,"163 km WNW of Tobelo, Indonesia",earthquake,,20,0.28,,reviewed,iscgem,iscgem
+1972-02-16T08:59:23.150Z,0.551,120.831,69.5,5.71,mw,,,,,iscgem,iscgem776235,2022-04-26T20:56:21.754Z,"193 km NNE of Palu, Indonesia",earthquake,,15.6,0.28,,reviewed,iscgem,iscgem
+1972-01-29T20:34:13.610Z,-5.441,131.392,61.2,5.57,mw,,,,,iscgem,iscgem777336,2022-04-26T20:58:27.171Z,"152 km W of Tual, Indonesia",earthquake,,26.1,0.26,,reviewed,iscgem,iscgem
+1972-01-26T03:41:57.830Z,-2.543,102.535,171.1,5.53,mw,,,,,iscgem,iscgem777243,2022-04-26T20:58:00.973Z,"90 km NNW of Lubuklinggau, Indonesia",earthquake,,6.1,0.37,,reviewed,iscgem,iscgem
+1972-01-18T07:31:18.370Z,-6.239,104.025,57.8,5.55,mw,,,,,iscgem,iscgem777003,2022-04-26T20:57:36.784Z,"163 km WSW of Bandar Lampung, Indonesia",earthquake,,9.7,0.2,,reviewed,iscgem,iscgem
+1972-01-07T06:25:50.000Z,-2.184,138.951,30,6,mw,,,,,iscgem,iscgem776759,2022-04-26T20:57:20.537Z,"Papua, Indonesia",earthquake,,11.4,0.2,,reviewed,iscgem,iscgem
+1972-01-04T18:09:47.420Z,-0.109,125.023,28.4,5.62,mw,,,,,iscgem,iscgem776687,2022-05-09T22:49:38.035Z,"156 km S of Tondano, Indonesia",earthquake,,14.6,0.55,,reviewed,iscgem,iscgem
+1971-12-11T03:29:59.150Z,1.761,127.32,115,5.61,mw,,,,,iscgem,iscgem777656,2022-04-26T20:59:00.772Z,"76 km W of Tobelo, Indonesia",earthquake,,15.4,0.7,,reviewed,iscgem,iscgem
+1971-12-07T06:23:12.240Z,3.74,127.991,55.5,5.84,mw,,,,,iscgem,iscgem777551,2022-04-26T20:58:40.462Z,"222 km N of Tobelo, Indonesia",earthquake,,5,0.22,,reviewed,iscgem,iscgem
+1971-11-22T08:19:57.330Z,0.105,123.995,103.3,5.96,mw,,,,,iscgemsup,iscgemsup778732,2022-05-09T19:18:59.676Z,"114 km ESE of Gorontalo, Indonesia",earthquake,,5.1,0.94,,reviewed,iscgemsup,iscgemsup
+1971-11-11T11:16:53.920Z,-2.682,136.511,15,5.78,mw,,,,,iscgem,iscgem778478,2022-04-26T21:01:15.689Z,"135 km ENE of Nabire, Indonesia",earthquake,,4,0.38,,reviewed,iscgem,iscgem
+1971-11-08T22:43:02.680Z,5.737,126.433,170,5.62,mw,,,,,iscgem,iscgem778408,2022-04-26T21:00:59.018Z,"74 km SSE of Pondaguitan, Philippines",earthquake,,5,0.22,,reviewed,iscgem,iscgem
+1971-11-05T23:57:29.930Z,-2.006,100.126,35,5.62,mw,,,,,iscgem,iscgem778331,2022-04-26T21:00:38.973Z,"119 km SSW of Padang, Indonesia",earthquake,,6.5,0.37,,reviewed,iscgem,iscgem
+1971-10-25T16:52:13.910Z,2.01,132.666,17.3,5.55,mw,,,,,iscgem,iscgem779630,2022-04-26T21:02:44.436Z,"203 km ESE of Tobi Village, Palau",earthquake,,3.9,0.2,,reviewed,iscgem,iscgem
+1971-10-17T18:05:25.180Z,-5.051,102.564,47.8,5.51,mw,,,,,iscgem,iscgem779394,2022-04-26T21:02:27.733Z,"136 km SW of Pagar Alam, Indonesia",earthquake,,6.4,0.2,,reviewed,iscgem,iscgem
+1971-10-16T21:54:29.060Z,-3.467,127.154,60,5.62,mw,,,,,iscgem,iscgem779376,2022-04-26T21:02:25.665Z,"117 km WNW of Ambon, Indonesia",earthquake,,5.8,0.2,,reviewed,iscgem,iscgem
+1971-09-30T11:15:57.610Z,-5.524,131.372,41.4,5.68,mw,,,,,iscgem,iscgem780737,2022-04-26T21:07:26.786Z,"153 km W of Tual, Indonesia",earthquake,,26.1,0.39,,reviewed,iscgem,iscgem
+1971-09-26T16:33:05.200Z,0.072,124.822,59.2,5.75,mw,,,,,iscgem,iscgem780632,2022-04-26T21:06:53.770Z,"136 km S of Tondano, Indonesia",earthquake,,5.2,0.2,,reviewed,iscgem,iscgem
+1971-09-26T15:25:23.160Z,3.194,125.822,75,5.61,mw,,,,,iscgem,iscgem780629,2022-04-26T21:06:47.029Z,"210 km NNE of Laikit, Laikit II (Dimembe), Indonesia",earthquake,,51,0.34,,reviewed,iscgem,iscgem
+1971-09-16T06:22:40.510Z,-5.912,130.603,131,6.97,mw,,,,,iscgemsup,iscgemsup780358,2022-05-09T19:19:05.288Z,"240 km W of Tual, Indonesia",earthquake,,5,1.13,,reviewed,iscgemsup,iscgemsup
+1971-09-08T22:09:00.170Z,-6.536,130.71,65,5.66,mw,,,,,iscgem,iscgem780117,2022-04-26T21:04:59.134Z,"247 km WSW of Tual, Indonesia",earthquake,,28.8,0.46,,reviewed,iscgem,iscgem
+1971-08-11T04:53:20.250Z,1.172,126.154,45,5.55,mw,,,,,iscgem,iscgem781129,2022-04-26T21:08:13.345Z,"135 km ESE of Laikit, Laikit II (Dimembe), Indonesia",earthquake,,5,0.39,,reviewed,iscgem,iscgem
+1971-08-08T16:37:20.030Z,-7.132,129.129,183.1,5.65,mw,,,,,iscgem,iscgem781046,2022-04-26T21:07:59.543Z,"280 km ENE of Lospalos, Timor Leste",earthquake,,6.4,0.2,,reviewed,iscgem,iscgem
+1971-08-05T04:50:37.140Z,-2.811,119.809,53.3,5.52,mw,,,,,iscgem,iscgem780933,2022-04-26T21:07:42.115Z,"20 km NNW of Rantepao, Indonesia",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1971-08-02T09:01:11.460Z,1.612,126.489,35,5.62,mw,,,,,iscgem,iscgem780834,2022-04-26T21:07:38.486Z,"134 km NW of Ternate, Indonesia",earthquake,,20.8,0.39,,reviewed,iscgem,iscgem
+1971-07-30T03:58:02.190Z,1.739,127.146,30,5.57,mw,,,,,iscgem,iscgem782999,2022-04-26T21:13:39.440Z,"96 km W of Tobelo, Indonesia",earthquake,,31.1,0.46,,reviewed,iscgem,iscgem
+1971-07-25T14:14:27.260Z,-6.021,129.901,177.6,5.56,mw,,,,,iscgem,iscgem782658,2022-04-26T21:12:25.836Z,"Banda Sea",earthquake,,36.9,0.4,,reviewed,iscgem,iscgem
+1971-07-14T23:00:07.390Z,2.592,129.189,40,5.63,mw,,,,,iscgem,iscgem782253,2022-04-26T21:10:55.350Z,"162 km NE of Tobelo, Indonesia",earthquake,,10.6,0.28,,reviewed,iscgem,iscgem
+1971-07-14T02:57:41.990Z,2.521,128.618,200,5.55,mw,,,,,iscgem,iscgem782177,2022-04-26T21:10:31.404Z,"110 km NE of Tobelo, Indonesia",earthquake,,6.1,0.43,,reviewed,iscgem,iscgem
+1971-07-08T19:07:10.110Z,-7.071,129.653,105.5,6.21,mw,,,,,iscgem,iscgem782004,2022-04-26T21:09:47.257Z,"Kepulauan Babar, Indonesia",earthquake,,5.3,0.2,,reviewed,iscgem,iscgem
+1971-07-04T19:02:51.010Z,-5.853,105.395,15,5.44,mw,,,,,iscgem,iscgem781919,2022-04-26T21:09:44.272Z,"49 km SSE of Bandar Lampung, Indonesia",earthquake,,16.8,0.26,,reviewed,iscgem,iscgem
+1971-07-03T08:10:05.130Z,-8.39,111.361,60.9,5.59,mw,,,,,iscgem,iscgem781869,2022-04-26T21:09:37.557Z,"51 km SW of Trenggalek, Indonesia",earthquake,,5.1,0.48,,reviewed,iscgem,iscgem
+1971-07-01T01:16:18.520Z,-6.358,130.159,141.4,5.88,mw,,,,,iscgemsup,iscgemsup781800,2022-05-09T19:19:14.497Z,"298 km WSW of Tual, Indonesia",earthquake,,4.8,1.35,,reviewed,iscgemsup,iscgemsup
+1971-06-26T19:27:14.310Z,-5.141,96.852,13.7,6.4,mw,,,,,iscgem,iscgem783841,2022-04-26T21:14:27.924Z,"southwest of Sumatra, Indonesia",earthquake,,3.7,0.2,,reviewed,iscgem,iscgem
+1971-05-19T11:06:31.890Z,2.302,129.074,30,5.53,mw,,,,,iscgem,iscgem784725,2022-04-26T21:15:51.038Z,"134 km ENE of Tobelo, Indonesia",earthquake,,10.6,0.25,,reviewed,iscgem,iscgem
+1971-05-07T00:21:15.600Z,-2.751,119.69,26.8,6.03,mw,,,,,iscgem,iscgem784158,2022-04-26T21:15:12.119Z,"33 km NW of Rantepao, Indonesia",earthquake,,4.5,0.31,,reviewed,iscgem,iscgem
+1971-05-04T02:04:32.450Z,-6.564,105.407,45,6.44,mw,,,,,iscgem,iscgem784056,2022-04-26T21:15:00.317Z,"51 km WSW of Labuan, Indonesia",earthquake,,5,0.23,,reviewed,iscgem,iscgem
+1971-04-21T11:47:40.480Z,1.224,128.116,50.4,5.81,mw,,,,,iscgem,iscgem785789,2022-04-26T21:19:08.386Z,"Halmahera, Indonesia",earthquake,,2.5,0.33,,reviewed,iscgem,iscgem
+1971-04-20T16:13:22.600Z,4.714,126.517,75,5.66,mw,,,,,iscgem,iscgem785768,2022-04-26T21:19:07.202Z,"139 km ESE of Sarangani, Philippines",earthquake,,5,0.5,,reviewed,iscgem,iscgem
+1971-04-08T19:27:14.900Z,-4.381,102.242,55,5.51,mw,,,,,iscgem,iscgem785458,2022-04-26T21:18:23.510Z,"64 km S of Bengkulu, Indonesia",earthquake,,9.5,0.2,,reviewed,iscgem,iscgem
+1971-04-08T07:45:59.480Z,-4.33,102.285,75,7.02,mw,,,,,iscgemsup,iscgemsup785445,2022-05-09T19:19:30.414Z,"58 km S of Bengkulu, Indonesia",earthquake,,4.8,1.02,,reviewed,iscgemsup,iscgemsup
+1971-04-07T07:29:44.290Z,-6.08,104.16,40.1,5.62,mw,,,,,iscgem,iscgem785421,2022-04-26T21:18:13.100Z,"Sunda Strait, Indonesia",earthquake,,9.7,0.57,,reviewed,iscgem,iscgem
+1971-04-07T04:59:39.540Z,2.514,129.106,31.3,6.56,mw,,,,,iscgem,iscgem785417,2022-04-26T21:18:11.973Z,"149 km NE of Tobelo, Indonesia",earthquake,,4.6,0.21,,reviewed,iscgem,iscgem
+1971-04-05T05:02:13.840Z,-0.237,124.735,35,5.71,mw,,,,,iscgem,iscgem785347,2022-04-26T21:17:59.789Z,"171 km S of Tondano, Indonesia",earthquake,,18.8,0.21,,reviewed,iscgem,iscgem
+1971-03-28T17:56:58.030Z,-9.583,124.538,40,5.79,mw,,,,,iscgem,iscgem786716,2022-04-26T21:21:36.150Z,"16 km SSE of Kefamenanu, Indonesia",earthquake,,5,0.58,,reviewed,iscgem,iscgem
+1971-03-20T09:44:54.790Z,-7.564,114.594,20,5.49,mw,,,,,iscgem,iscgem786493,2022-04-26T21:20:37.481Z,"51 km NNE of Wongsorejo, Indonesia",earthquake,,25,0.39,,reviewed,iscgem,iscgem
+1971-03-19T16:45:30.610Z,2.218,126.753,25,5.63,mw,,,,,iscgem,iscgem786476,2022-04-26T21:20:30.477Z,"149 km WNW of Tobelo, Indonesia",earthquake,,37.4,0.2,,reviewed,iscgem,iscgem
+1971-03-17T03:14:03.530Z,-3.24,139.84,55,5.74,mw,,,,,iscgem,iscgem786409,2022-04-26T21:20:17.640Z,"113 km SW of Abepura, Indonesia",earthquake,,4.7,0.39,,reviewed,iscgem,iscgem
+1971-02-25T22:14:19.170Z,3.274,95.86,30,5.73,mw,,,,,iscgem,iscgem787713,2022-04-26T21:22:59.283Z,"100 km SSW of Meulaboh, Indonesia",earthquake,,14.3,0.2,,reviewed,iscgem,iscgem
+1971-02-25T14:36:02.920Z,5.89,126.715,85,5.77,mw,,,,,iscgem,iscgem787701,2022-04-26T21:22:56.920Z,"79 km SE of Pondaguitan, Philippines",earthquake,,35.4,0.51,,reviewed,iscgem,iscgem
+1971-02-22T08:27:09.390Z,0.966,120.045,25,5.56,mw,,,,,iscgem,iscgem787602,2022-04-26T21:22:51.837Z,"208 km N of Palu, Indonesia",earthquake,,6.8,0.21,,reviewed,iscgem,iscgem
+1971-02-12T23:33:15.710Z,1.428,121.127,35,5.56,mw,,,,,iscgem,iscgem787343,2022-04-26T21:22:40.009Z,"236 km WNW of Gorontalo, Indonesia",earthquake,,8.4,0.37,,reviewed,iscgem,iscgem
+1971-02-06T08:17:48.550Z,2.236,126.828,20,5.92,mw,,,,,iscgem,iscgem786928,2022-04-26T21:21:56.335Z,"142 km WNW of Tobelo, Indonesia",earthquake,,37.4,0.2,,reviewed,iscgem,iscgem
+1971-02-04T15:33:29.680Z,0.653,98.711,30,7.04,mw,,,,,iscgem,iscgem786889,2022-04-26T21:21:47.613Z,"101 km SW of Padangsidempuan, Indonesia",earthquake,,3.8,0.31,,reviewed,iscgem,iscgem
+1971-01-29T03:16:10.540Z,-3.334,139.749,69.8,5.51,mw,,,,,iscgem,iscgem788676,2022-04-26T21:25:41.912Z,"127 km SW of Abepura, Indonesia",earthquake,,12.6,0.48,,reviewed,iscgem,iscgem
+1971-01-27T23:57:12.970Z,-5.392,128.948,15,5.63,mw,,,,,iscgem,iscgem788639,2022-04-26T21:25:39.206Z,"205 km SSE of Ambon, Indonesia",earthquake,,25,0.3,,reviewed,iscgem,iscgem
+1971-01-27T16:05:51.010Z,1.645,126.416,105,5.62,mw,,,,,iscgem,iscgem788618,2022-04-26T21:25:32.487Z,"143 km NW of Ternate, Indonesia",earthquake,,5.1,0.35,,reviewed,iscgem,iscgem
+1971-01-21T17:19:40.980Z,-7.893,122.684,241.1,5.62,mw,,,,,iscgem,iscgem788437,2022-04-26T21:25:05.432Z,"95 km NNE of Maumere, Indonesia",earthquake,,5.2,0.65,,reviewed,iscgem,iscgem
+1971-01-18T05:52:20.640Z,1.054,125.855,17.5,5.52,mw,,,,,iscgem,iscgem788348,2022-04-26T21:24:47.002Z,"108 km ESE of Tondano, Indonesia",earthquake,,23.1,0.33,,reviewed,iscgem,iscgem
+1971-01-18T00:03:30.210Z,1.058,125.843,10,5.67,mw,,,,,iscgem,iscgem788340,2022-04-26T21:24:39.720Z,"107 km ESE of Tondano, Indonesia",earthquake,,23.1,0.29,,reviewed,iscgem,iscgem
+1971-01-14T18:07:23.180Z,-3.035,139.737,30,5.86,mw,,,,,iscgem,iscgem788259,2022-04-26T21:24:26.597Z,"110 km WSW of Abepura, Indonesia",earthquake,,16.3,0.32,,reviewed,iscgem,iscgem
+1971-01-13T10:22:48.720Z,-3.092,139.575,30,5.86,mw,,,,,iscgem,iscgem788215,2022-04-26T21:24:19.973Z,"129 km WSW of Abepura, Indonesia",earthquake,,16.3,0.27,,reviewed,iscgem,iscgem
+1971-01-12T14:57:12.740Z,-3.39,139.993,30,5.9,mw,,,,,iscgem,iscgem788180,2022-04-26T21:24:13.699Z,"112 km SW of Abepura, Indonesia",earthquake,,23.9,0.2,,reviewed,iscgem,iscgem
+1971-01-10T23:24:48.480Z,-3.298,139.834,30,5.69,mw,,,,,iscgem,iscgem788105,2022-04-26T21:24:07.146Z,"117 km SW of Abepura, Indonesia",earthquake,,23.9,0.2,,reviewed,iscgem,iscgem
+1971-01-10T22:14:39.520Z,-3.261,139.993,30,5.96,mw,,,,,iscgem,iscgem788103,2022-04-26T21:24:05.319Z,"102 km SW of Abepura, Indonesia",earthquake,,23.9,0.2,,reviewed,iscgem,iscgem
+1971-01-10T19:34:26.750Z,-3.183,139.634,65,5.83,mw,,,,,iscgem,iscgem788088,2022-04-26T21:24:03.692Z,"128 km WSW of Abepura, Indonesia",earthquake,,16.3,0.22,,reviewed,iscgem,iscgem
+1971-01-10T19:13:42.160Z,-3.379,139.873,65,5.81,mw,,,,,iscgem,iscgem788086,2022-04-26T21:24:02.020Z,"120 km SW of Abepura, Indonesia",earthquake,,23.9,0.2,,reviewed,iscgem,iscgem
+1971-01-10T16:38:38.650Z,-3.5,140.095,30,6.16,mw,,,,,iscgem,iscgem788078,2022-04-26T21:24:00.521Z,"116 km SSW of Abepura, Indonesia",earthquake,,23.9,0.32,,reviewed,iscgem,iscgem
+1971-01-10T16:07:48.150Z,-3.2,139.784,30,5.96,mw,,,,,iscgem,iscgem788076,2022-04-26T21:23:58.419Z,"115 km SW of Abepura, Indonesia",earthquake,,20.6,0.2,,reviewed,iscgem,iscgem
+1971-01-10T14:29:58.060Z,-3.337,139.757,30,6.01,mw,,,,,iscgem,iscgem788067,2022-04-26T21:23:56.956Z,"127 km SW of Abepura, Indonesia",earthquake,,23.9,0.2,,reviewed,iscgem,iscgem
+1971-01-10T10:45:07.930Z,-3.078,139.674,30,6.61,mw,,,,,iscgem,iscgem788053,2022-04-26T21:23:55.185Z,"119 km WSW of Abepura, Indonesia",earthquake,,16.3,0.53,,reviewed,iscgem,iscgem
+1971-01-10T09:54:54.540Z,-2.695,139.531,60,5.76,mw,,,,,iscgem,iscgem788047,2022-04-26T21:23:53.517Z,"122 km W of Abepura, Indonesia",earthquake,,10.2,0.2,,reviewed,iscgem,iscgem
+1971-01-10T09:50:28.030Z,-2.71,139.506,60,5.67,mw,,,,,iscgem,iscgem788046,2022-04-26T21:23:51.244Z,"125 km W of Abepura, Indonesia",earthquake,,10.2,0.2,,reviewed,iscgem,iscgem
+1971-01-10T08:44:38.520Z,-3.246,139.769,60,5.5,mw,,,,,iscgem,iscgem788041,2022-04-26T21:23:45.250Z,"119 km SW of Abepura, Indonesia",earthquake,,20.6,0.2,,reviewed,iscgem,iscgem
+1971-01-10T07:17:05.780Z,-3.184,139.722,30,7.7,mw,,,,,iscgem,iscgem788036,2022-04-26T21:23:43.470Z,"120 km WSW of Abepura, Indonesia",earthquake,,4.6,0.2,,reviewed,iscgem,iscgem
+1970-12-30T08:11:11.030Z,1.433,99.069,88.4,5.57,mw,,,,,iscgem,iscgem789656,2022-04-26T21:28:43.265Z,"23 km WNW of Padangsidempuan, Indonesia",earthquake,,5.3,0.53,,reviewed,iscgem,iscgem
+1970-12-24T01:49:56.650Z,-9.203,116.46,70.5,5.62,mw,,,,,iscgem,iscgem789432,2022-04-26T21:28:08.664Z,"58 km SSE of Praya, Indonesia",earthquake,,5.2,0.35,,reviewed,iscgem,iscgem
+1970-12-21T14:40:43.810Z,-9.073,116.412,70.2,5.98,mw,,,,,iscgem,iscgem789364,2022-05-09T22:49:37.207Z,"43 km SSE of Praya, Indonesia",earthquake,,5,0.59,,reviewed,iscgem,iscgem
+1970-12-19T10:38:07.130Z,-1.542,99.885,42.3,6.19,mw,,,,,iscgem,iscgem789314,2022-04-26T21:27:49.514Z,"83 km SW of Padang, Indonesia",earthquake,,5.1,0.25,,reviewed,iscgem,iscgem
+1970-12-18T23:50:15.090Z,5.148,123.547,527.7,5.75,mw,,,,,iscgem,iscgem789300,2022-04-26T21:27:48.420Z,"137 km SSW of Palimbang, Philippines",earthquake,,6.3,0.62,,reviewed,iscgem,iscgem
+1970-12-13T12:46:59.090Z,-4.21,103.343,95.4,5.5,mw,,,,,iscgem,iscgem789154,2022-04-26T21:27:30.820Z,"23 km SSE of Pagar Alam, Indonesia",earthquake,,5.4,0.34,,reviewed,iscgem,iscgem
+1970-12-10T20:05:36.600Z,1.506,127.276,115,5.65,mw,,,,,iscgem,iscgem789056,2022-04-26T21:27:12.985Z,"80 km N of Ternate, Indonesia",earthquake,,24.2,0.2,,reviewed,iscgem,iscgem
+1970-12-06T04:10:41.650Z,-6.267,130.077,140,5.63,mw,,,,,iscgem,iscgem788940,2022-04-26T21:26:51.975Z,"Banda Sea",earthquake,,5.2,0.56,,reviewed,iscgem,iscgem
+1970-12-05T22:30:22.520Z,-6.4,129.995,140,5.85,mw,,,,,iscgem,iscgem788926,2022-04-26T21:26:46.848Z,"Banda Sea",earthquake,,5.3,0.51,,reviewed,iscgem,iscgem
+1970-12-03T07:02:48.620Z,-1.015,126.749,25,5.77,mw,,,,,iscgem,iscgem788860,2022-04-26T21:26:34.072Z,"211 km SSW of Ternate, Indonesia",earthquake,,25,0.22,,reviewed,iscgem,iscgem
+1970-11-28T00:56:06.260Z,-0.972,126.791,15,5.66,mw,,,,,iscgemsup,iscgemsup790607,2022-05-09T19:13:35.173Z,"205 km SSW of Ternate, Indonesia",earthquake,,3.7,0.98,,reviewed,iscgemsup,iscgemsup
+1970-11-25T18:57:46.250Z,-2.02,134.169,25,5.69,mw,,,,,iscgem,iscgem790538,2022-04-26T21:29:56.083Z,"128 km S of Manokwari, Indonesia",earthquake,,8.6,0.2,,reviewed,iscgem,iscgem
+1970-11-21T02:51:07.710Z,2.199,128.322,125,5.57,mw,,,,,iscgem,iscgem790414,2022-04-26T21:29:30.791Z,"62 km NE of Tobelo, Indonesia",earthquake,,35.7,0.53,,reviewed,iscgem,iscgem
+1970-11-18T02:13:41.920Z,-6.476,125.627,15,5.6,mw,,,,,iscgem,iscgem790300,2022-04-26T21:29:22.265Z,"227 km N of Metinaro, Timor Leste",earthquake,,15.3,0.2,,reviewed,iscgem,iscgem
+1970-11-16T21:32:58.760Z,-1.019,126.814,15,5.62,mw,,,,,iscgem,iscgem790274,2022-04-26T21:29:20.956Z,"209 km SSW of Ternate, Indonesia",earthquake,,12.6,0.38,,reviewed,iscgem,iscgem
+1970-11-08T22:35:48.620Z,-3.428,135.544,35,6.7,mw,,,,,iscgem,iscgem790008,2022-04-26T21:29:05.957Z,"8 km SSE of Nabire, Indonesia",earthquake,,5,0.2,,reviewed,iscgem,iscgem
+1970-10-04T16:56:53.740Z,-6.809,130.481,80,5.76,mw,,,,,iscgem,iscgem790806,2022-04-26T21:30:11.811Z,"283 km WSW of Tual, Indonesia",earthquake,,31.1,0.44,,reviewed,iscgem,iscgem
+1970-09-14T00:53:05.150Z,-0.606,121.81,18.8,5.52,mw,,,,,iscgem,iscgem791982,2022-04-26T21:31:30.935Z,"115 km WNW of Luwuk, Indonesia",earthquake,,3.9,0.43,,reviewed,iscgem,iscgem
+1970-08-18T16:52:27.740Z,4.521,123.113,574.1,5.86,mw,,,,,iscgem,iscgem792982,2022-04-26T21:33:33.641Z,"214 km SE of Tabiauan, Philippines",earthquake,,6.3,0.1,,reviewed,iscgem,iscgem
+1970-08-13T04:22:37.090Z,-8.991,117.933,99.1,5.8,mw,,,,,iscgem,iscgem792844,2022-04-26T21:33:28.213Z,"77 km SW of Dompu, Indonesia",earthquake,,5.1,0.2,,reviewed,iscgem,iscgem
+1970-08-08T21:04:09.280Z,1.1,126.177,35,5.99,mw,,,,,iscgem,iscgem792675,2022-04-26T21:32:48.837Z,"138 km WNW of Ternate, Indonesia",earthquake,,4.8,0.2,,reviewed,iscgem,iscgem
+1970-08-08T07:55:47.820Z,3.193,128.621,35,5.62,mw,,,,,iscgem,iscgem792656,2022-04-26T21:32:42.988Z,"175 km NNE of Tobelo, Indonesia",earthquake,,25,0.27,,reviewed,iscgem,iscgem
+1970-08-03T22:30:06.660Z,2.644,97.867,62.8,5.6,mw,,,,,iscgem,iscgem792530,2022-04-26T21:32:26.789Z,"40 km NNE of Singkil, Indonesia",earthquake,,5.1,0.2,,reviewed,iscgem,iscgem
+1970-08-01T01:17:56.890Z,-2.944,102.302,118.9,5.5,mw,,,,,iscgem,iscgem792454,2022-04-26T21:32:17.675Z,"63 km NNW of Curup, Indonesia",earthquake,,5.2,0.43,,reviewed,iscgem,iscgem
+1970-07-04T19:01:44.990Z,-4.417,127.671,31.7,5.5,mw,,,,,iscgem,iscgem793496,2022-04-26T21:34:29.073Z,"97 km SW of Ambon, Indonesia",earthquake,,25,0.29,,reviewed,iscgem,iscgem
+1970-07-02T19:13:59.850Z,4.511,97.634,10,5.57,mw,,,,,iscgem,iscgem793435,2022-04-26T21:34:21.256Z,"37 km W of Langsa, Indonesia",earthquake,,17,0.46,,reviewed,iscgem,iscgem
+1970-07-01T06:27:13.700Z,2.067,126.439,35,5.62,mw,,,,,iscgem,iscgem793379,2022-04-26T21:34:02.638Z,"175 km ENE of Laikit, Laikit II (Dimembe), Indonesia",earthquake,,20,0.4,,reviewed,iscgem,iscgem
+1970-07-01T04:27:01.160Z,-9.063,123.999,41,5.55,mw,,,,,iscgem,iscgem793377,2022-04-26T21:33:56.835Z,"44 km WNW of Pante Makasar, Timor Leste",earthquake,,27.1,0.22,,reviewed,iscgem,iscgem
+1970-06-28T01:30:18.880Z,-8.683,124,85.8,6.6,mw,,,,,iscgem,iscgem794912,2022-04-26T21:38:46.488Z,"71 km NW of Pante Makasar, Timor Leste",earthquake,,37.9,0.2,,reviewed,iscgem,iscgem
+1970-06-27T13:13:02.860Z,4.131,126.215,98.4,5.62,mw,,,,,iscgem,iscgem794899,2022-04-26T21:38:45.101Z,"163 km SSE of Sarangani, Philippines",earthquake,,5,0.35,,reviewed,iscgem,iscgem
+1970-06-17T07:57:56.560Z,-7.539,128.62,55,5.53,mw,,,,,iscgem,iscgem794657,2022-04-26T21:37:59.027Z,"209 km ENE of Lospalos, Timor Leste",earthquake,,17.1,0.49,,reviewed,iscgem,iscgem
+1970-06-12T08:06:20.130Z,-2.927,139.129,45,5.9,mw,,,,,iscgem,iscgem794533,2022-04-26T21:37:49.152Z,"171 km WSW of Abepura, Indonesia",earthquake,,15.9,0.2,,reviewed,iscgem,iscgem
+1970-05-09T13:16:44.830Z,-0.116,129.96,20,5.53,mw,,,,,iscgem,iscgem795419,2022-04-26T21:39:40.882Z,"167 km WNW of Sorong, Indonesia",earthquake,,18.2,0.22,,reviewed,iscgem,iscgem
+1970-05-03T05:14:38.110Z,-6.816,125.34,545,5.62,mw,,,,,iscgemsup,iscgemsup795134,2022-05-09T19:19:50.048Z,"Banda Sea",earthquake,,28.9,1.1,,reviewed,iscgemsup,iscgemsup
+1970-04-20T21:43:00.680Z,-9.971,119.065,25,5.75,mw,,,,,iscgem,iscgem796971,2022-04-26T21:43:44.389Z,"136 km WSW of Waingapu, Indonesia",earthquake,,14.5,0.2,,reviewed,iscgem,iscgem
+1970-03-27T18:36:50.440Z,0.288,119.364,25,6.63,mw,,,,,iscgem,iscgem798465,2022-04-26T21:46:54.908Z,"143 km NNW of Palu, Indonesia",earthquake,,4.7,0.32,,reviewed,iscgem,iscgem
+1970-03-21T11:56:41.590Z,2.545,127.111,68.9,5.53,mw,,,,,iscgem,iscgem798257,2022-04-26T21:46:24.858Z,"134 km NW of Tobelo, Indonesia",earthquake,,17.1,0.51,,reviewed,iscgem,iscgem
+1970-03-20T11:07:35.700Z,5.008,125.339,50,5.67,mw,,,,,iscgem,iscgem798224,2022-04-26T21:46:17.089Z,"45 km SSW of Sarangani, Philippines",earthquake,,4.8,0.2,,reviewed,iscgem,iscgem
+1970-03-08T11:51:23.270Z,1.77,126.612,47.5,5.71,mw,,,,,iscgem,iscgem797653,2022-04-26T21:44:49.698Z,"138 km NW of Ternate, Indonesia",earthquake,,20,0.3,,reviewed,iscgem,iscgem
+1970-03-07T22:30:05.270Z,-0.019,124.17,94.9,5.53,mw,,,,,iscgem,iscgem797630,2022-04-26T21:44:48.072Z,"137 km ESE of Gorontalo, Indonesia",earthquake,,26.4,0.51,,reviewed,iscgem,iscgem
+1970-02-27T10:47:53.900Z,-8.012,119.726,175.6,5.68,mw,,,,,iscgem,iscgem799492,2022-04-26T21:49:40.811Z,"56 km NNW of Labuan Bajo, Indonesia",earthquake,,5.1,0.41,,reviewed,iscgem,iscgem
+1970-02-21T16:52:09.040Z,-8.625,124.167,140,5.52,mw,,,,,iscgem,iscgem799295,2022-04-26T21:49:00.734Z,"67 km NNW of Pante Makasar, Timor Leste",earthquake,,37.9,0.42,,reviewed,iscgem,iscgem
+1970-02-19T22:55:06.550Z,-4.557,140.049,30,5.3,mw,,,,,iscgem,iscgem799250,2022-04-26T21:48:59.614Z,"221 km NW of Kiunga, Papua New Guinea",earthquake,,20.8,0.2,,reviewed,iscgem,iscgem
+1970-02-15T12:36:36.650Z,-0.045,122.999,138.3,5.86,mw,,,,,iscgem,iscgem799142,2022-04-26T21:48:45.569Z,"64 km S of Gorontalo, Indonesia",earthquake,,5.3,0.34,,reviewed,iscgem,iscgem
+1970-02-13T15:43:28.240Z,-5.923,112.997,622.8,6.46,mw,,,,,iscgem,iscgem799077,2022-04-26T21:48:40.876Z,"125 km NNE of Paciran, Indonesia",earthquake,,6.7,0.1,,reviewed,iscgem,iscgem
+1970-02-10T19:34:05.740Z,-5.936,130.638,125,5.76,mw,,,,,iscgem,iscgem799014,2022-04-26T21:48:37.540Z,"236 km W of Tual, Indonesia",earthquake,,6,0.31,,reviewed,iscgem,iscgem
+1970-01-14T02:22:36.250Z,-10.169,123.233,25,5.98,mw,,,,,iscgem,iscgem800066,2022-04-26T21:50:24.187Z,"40 km W of Kupang, Indonesia",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1970-01-09T23:16:22.670Z,-9.166,117.235,66.6,5.8,mw,,,,,iscgem,iscgem799928,2022-04-26T21:50:17.258Z,"77 km SSW of Sumbawa Besar, Indonesia",earthquake,,5.2,0.2,,reviewed,iscgem,iscgem
+1970-01-04T08:31:22.530Z,0.312,121.919,146.4,5.54,mw,,,,,iscgem,iscgem799702,2022-04-26T21:49:59.679Z,"129 km W of Gorontalo, Indonesia",earthquake,,6.1,0.25,,reviewed,iscgem,iscgem
+1969-12-14T02:42:10.020Z,1.956,126.827,35,6.07,mw,,,,,iscgem,iscgem801038,2022-04-26T21:51:13.402Z,"133 km W of Tobelo, Indonesia",earthquake,,4.7,0.2,,reviewed,iscgem,iscgem
+1969-12-13T04:03:56.510Z,1.354,126.408,45,5.62,mw,,,,,iscgem,iscgem801009,2022-04-26T21:51:10.735Z,"125 km WNW of Ternate, Indonesia",earthquake,,20.8,0.33,,reviewed,iscgem,iscgem
+1969-12-08T05:04:22.730Z,1.734,127.282,115,5.63,mw,,,,,iscgem,iscgem800842,2022-04-26T21:51:05.161Z,"80 km W of Tobelo, Indonesia",earthquake,,4.5,0.45,,reviewed,iscgem,iscgem
+1969-12-07T13:32:53.750Z,-6.753,129.429,187.2,5.53,mw,,,,,iscgem,iscgem800816,2022-04-26T21:51:03.867Z,"Banda Sea",earthquake,,30.2,0.2,,reviewed,iscgem,iscgem
+1969-10-12T03:31:11.370Z,0.089,123.675,135.8,5.51,mw,,,,,iscgem,iscgem803321,2022-04-26T21:54:37.090Z,"84 km SE of Gorontalo, Indonesia",earthquake,,6,0.28,,reviewed,iscgem,iscgem
+1969-10-03T15:39:41.070Z,-3.655,101.869,58.9,5.53,mw,,,,,iscgem,iscgem803048,2022-04-26T21:54:19.479Z,"46 km WNW of Bengkulu, Indonesia",earthquake,,5.3,0.34,,reviewed,iscgem,iscgem
+1969-09-29T16:19:59.930Z,-7.195,128.747,131,5.79,mw,,,,,iscgem,iscgem804997,2022-04-26T21:58:18.002Z,"242 km NE of Lospalos, Timor Leste",earthquake,,5.3,0.47,,reviewed,iscgem,iscgem
+1969-09-27T19:13:48.520Z,-9.341,107.769,18.9,5.54,mw,,,,,iscgem,iscgem804937,2022-04-26T21:58:11.782Z,"222 km SSW of Kawalu, Indonesia",earthquake,,4.6,0.55,,reviewed,iscgem,iscgem
+1969-09-22T01:46:15.740Z,2.922,95.795,30,6,mw,,,,,iscgem,iscgem804761,2022-04-26T21:57:36.691Z,"81 km NW of Sinabang, Indonesia",earthquake,,5.3,0.2,,reviewed,iscgem,iscgem
+1969-09-18T11:57:32.340Z,-3.284,136.284,28.5,5.54,mw,,,,,iscgem,iscgem804611,2022-04-26T21:57:10.072Z,"87 km E of Nabire, Indonesia",earthquake,,25,0.32,,reviewed,iscgem,iscgem
+1969-08-27T13:23:14.810Z,-4.352,104.591,194.6,5.58,mw,,,,,iscgem,iscgem806430,2022-04-26T22:03:06.830Z,"53 km ESE of Baturaja, Indonesia",earthquake,,6.1,0.23,,reviewed,iscgem,iscgem
+1969-08-25T19:07:20.980Z,-5.169,131.319,25,5.53,mw,,,,,iscgem,iscgem806355,2022-04-26T22:02:48.698Z,"166 km WNW of Tual, Indonesia",earthquake,,16.3,0.25,,reviewed,iscgem,iscgem
+1969-08-12T12:21:21.280Z,1.702,126.323,35,5.81,mw,,,,,iscgem,iscgem805603,2022-04-26T22:00:23.404Z,"151 km E of Laikit, Laikit II (Dimembe), Indonesia",earthquake,,20.8,0.33,,reviewed,iscgem,iscgem
+1969-08-11T23:52:57.580Z,1.848,126.371,29.2,6.64,mw,,,,,iscgem,iscgem805483,2022-05-09T22:49:35.616Z,"160 km ENE of Laikit, Laikit II (Dimembe), Indonesia",earthquake,,4.7,0.54,,reviewed,iscgem,iscgem
+1969-08-08T20:44:20.250Z,-6.069,129.569,176.1,6.59,mw,,,,,iscgem,iscgem805322,2022-04-26T21:59:24.566Z,"Banda Sea",earthquake,,5.2,0.1,,reviewed,iscgem,iscgem
+1969-08-05T02:13:11.510Z,1.138,126.181,26.9,6.91,mw,,,,,iscgem,iscgem805214,2022-04-26T21:58:59.781Z,"139 km WNW of Ternate, Indonesia",earthquake,,4,0.36,,reviewed,iscgem,iscgem
+1969-08-04T17:19:20.230Z,-5.639,125.331,525.1,6.35,mw,,,,,iscgem,iscgem805203,2022-04-26T21:58:53.247Z,"Banda Sea",earthquake,,6.5,0.1,,reviewed,iscgem,iscgem
+1969-07-25T13:34:10.700Z,2.6,126.532,30,5.62,mw,,,,,iscgem,iscgem807426,2022-04-26T22:04:41.769Z,"190 km WNW of Tobelo, Indonesia",earthquake,,18,0.33,,reviewed,iscgem,iscgem
+1969-07-21T22:06:57.380Z,2.905,124.813,212.8,5.58,mw,,,,,iscgem,iscgem807297,2022-04-26T22:04:34.438Z,"157 km N of Manado, Indonesia",earthquake,,6.1,0.48,,reviewed,iscgem,iscgem
+1969-07-08T04:06:40.700Z,2.097,126.65,15,5.6,mw,,,,,iscgem,iscgem806815,2022-04-26T22:03:59.113Z,"156 km WNW of Tobelo, Indonesia",earthquake,,20,0.36,,reviewed,iscgem,iscgem
+1969-07-05T01:44:01.530Z,-3.843,131.523,25,5.81,mw,,,,,iscgem,iscgem806738,2022-04-26T22:03:53.404Z,"239 km NW of Tual, Indonesia",earthquake,,7,0.33,,reviewed,iscgem,iscgem
+1969-06-21T15:12:10.500Z,-5.405,109.603,557.1,5.71,mw,,,,,iscgem,iscgem808220,2022-04-26T22:05:16.060Z,"164 km N of Pekalongan, Indonesia",earthquake,,6.4,0.58,,reviewed,iscgem,iscgem
+1969-05-27T09:27:03.020Z,-0.176,124.98,18,5.52,mw,,,,,iscgem,iscgem809329,2022-04-26T22:06:53.891Z,"163 km S of Tondano, Indonesia",earthquake,,14.6,0.2,,reviewed,iscgem,iscgem
+1969-05-13T14:30:22.080Z,-7.221,120.792,631.7,6.38,mw,,,,,iscgem,iscgem808893,2022-04-26T22:06:05.406Z,"157 km NNE of Ruteng, Indonesia",earthquake,,7.5,0.1,,reviewed,iscgem,iscgem
+1969-05-04T17:18:40.920Z,0.029,123.318,165.7,5.49,mw,,,,,iscgem,iscgem808604,2022-04-26T22:05:39.517Z,"63 km SSE of Gorontalo, Indonesia",earthquake,,6.1,0.44,,reviewed,iscgem,iscgem
+1969-04-27T01:37:19.030Z,0.777,119.99,35,5.58,mw,,,,,iscgem,iscgem810215,2022-04-26T22:09:51.245Z,"186 km N of Palu, Indonesia",earthquake,,6.8,0.3,,reviewed,iscgem,iscgem
+1969-04-19T08:45:17.390Z,-6.153,103.898,39.2,5.55,mw,,,,,iscgemsup,iscgemsup809991,2022-05-09T19:20:31.068Z,"southwest of Sumatra, Indonesia",earthquake,,5,0.78,,reviewed,iscgemsup,iscgemsup
+1969-04-18T12:32:04.160Z,-4.524,132.699,30,5.7,mw,,,,,iscgem,iscgem809970,2022-04-26T22:09:19.357Z,"122 km N of Tual, Indonesia",earthquake,,25,0.62,,reviewed,iscgem,iscgem
+1969-04-15T22:15:11.350Z,-6.006,113.079,588.3,5.62,mw,,,,,iscgem,iscgem809889,2022-04-26T20:29:20.247Z,"121 km NNE of Bangkalan, Indonesia",earthquake,,6.5,0.48,,reviewed,iscgem,iscgem
+1969-04-13T23:33:18.110Z,-6.162,129.789,167.5,6.41,mw,,,,,iscgem,iscgem809833,2022-04-26T22:08:42.593Z,"Banda Sea",earthquake,,5.2,0.1,,reviewed,iscgem,iscgem
+1969-03-30T07:55:06.620Z,4.421,127.989,15,5.59,mw,,,,,iscgem,iscgem811688,2022-04-26T22:11:21.925Z,"293 km SE of Pondaguitan, Philippines",earthquake,,4,0.28,,reviewed,iscgem,iscgem
+1969-03-27T12:41:40.440Z,4.575,127.609,50,6.58,mw,,,,,iscgem,iscgem811592,2022-04-26T22:11:04.901Z,"253 km SE of Pondaguitan, Philippines",earthquake,,4.8,0.2,,reviewed,iscgem,iscgem
+1969-03-27T04:46:25.530Z,3.745,128.299,15,6.01,mw,,,,,iscgem,iscgem811574,2022-04-26T22:11:02.175Z,"225 km N of Tobelo, Indonesia",earthquake,,19.5,0.24,,reviewed,iscgem,iscgem
+1969-03-15T11:44:42.510Z,-2.736,126.589,20,5.79,mw,,,,,iscgem,iscgem810950,2022-04-26T22:10:28.226Z,"206 km WNW of Ambon, Indonesia",earthquake,,25,0.64,,reviewed,iscgem,iscgem
+1969-03-09T14:39:04.300Z,-4.103,135.64,20,5.65,mw,,,,,iscgem,iscgem810746,2022-04-26T22:10:19.812Z,"83 km S of Nabire, Indonesia",earthquake,,7.8,0.2,,reviewed,iscgem,iscgem
+1969-03-09T13:48:04.300Z,-4.193,135.504,20,6.3,mw,,,,,iscgem,iscgem810744,2022-04-26T22:10:18.704Z,"Near the south coast of Papua, Indonesia",earthquake,,7.8,0.2,,reviewed,iscgem,iscgem
+1969-03-09T13:06:25.460Z,1.542,126.305,15,5.56,mw,,,,,iscgem,iscgem810741,2022-04-26T22:10:17.536Z,"146 km NW of Ternate, Indonesia",earthquake,,20.8,0.2,,reviewed,iscgem,iscgem
+1969-03-07T22:55:33.050Z,4.998,127.658,70,5.56,mw,,,,,iscgemsup,iscgemsup810670,2022-05-09T19:20:32.522Z,"222 km SE of Pondaguitan, Philippines",earthquake,,31.3,1.06,,reviewed,iscgemsup,iscgemsup
+1969-03-05T13:52:05.490Z,4.031,128.112,35,6.15,mw,,,,,iscgem,iscgem810572,2022-04-26T22:10:14.060Z,"254 km N of Tobelo, Indonesia",earthquake,,5.3,0.2,,reviewed,iscgem,iscgem
+1969-02-25T01:35:04.650Z,5.255,126.512,65,5.73,mw,,,,,iscgem,iscgem812554,2022-04-26T22:12:48.265Z,"117 km E of Sarangani, Philippines",earthquake,,24,0.34,,reviewed,iscgem,iscgem
+1969-02-24T00:08:46.480Z,-6.122,130.946,35,6.2,mw,,,,,iscgem,iscgem812527,2022-04-26T22:12:41.827Z,"207 km WSW of Tual, Indonesia",earthquake,,29.2,0.2,,reviewed,iscgem,iscgem
+1969-02-23T00:36:58.920Z,-3.201,118.904,15,7.03,mw,,,,,iscgem,iscgem812497,2022-04-26T22:12:40.020Z,"38 km N of Majene, Indonesia",earthquake,,25,0.29,,reviewed,iscgem,iscgem
+1969-02-20T16:58:15.630Z,3.509,128.311,35,6.01,mw,,,,,iscgem,iscgem812421,2022-04-26T22:12:36.603Z,"199 km N of Tobelo, Indonesia",earthquake,,4.8,0.22,,reviewed,iscgem,iscgem
+1969-02-20T10:30:21.770Z,3.337,128.176,55,6.27,mw,,,,,iscgem,iscgem812402,2022-04-26T22:12:31.029Z,"178 km N of Tobelo, Indonesia",earthquake,,41.9,0.24,,reviewed,iscgem,iscgem
+1969-02-20T09:55:36.850Z,3.478,128.109,35,6.32,mw,,,,,iscgem,iscgem812400,2022-04-26T22:12:25.630Z,"193 km N of Tobelo, Indonesia",earthquake,,41.9,0.2,,reviewed,iscgem,iscgem
+1969-02-17T01:26:05.330Z,3.746,128.56,15,5.45,mw,,,,,iscgem,iscgem812297,2022-04-26T22:12:22.622Z,"231 km NNE of Tobelo, Indonesia",earthquake,,19.5,0.2,,reviewed,iscgem,iscgem
+1969-02-17T00:43:04.620Z,3.65,128.351,40,6.35,mw,,,,,iscgem,iscgem812293,2022-04-26T22:12:21.290Z,"215 km N of Tobelo, Indonesia",earthquake,,19.5,0.2,,reviewed,iscgem,iscgem
+1969-02-11T22:16:13.050Z,-6.784,126.581,430.5,7.22,mw,,,,,iscgem,iscgem812115,2022-04-26T22:12:00.903Z,"187 km N of Baukau, Timor Leste",earthquake,,6.6,0.1,,reviewed,iscgem,iscgem
+1969-02-04T01:38:30.410Z,-0.717,121.631,45,6.12,mw,,,,,iscgem,iscgem811849,2022-04-26T22:11:37.124Z,"123 km NE of Poso, Indonesia",earthquake,,10.5,0.23,,reviewed,iscgem,iscgem
+1969-02-03T21:41:43.470Z,4.738,127.374,35,6.78,mw,,,,,iscgem,iscgem811844,2022-04-26T22:11:35.820Z,"223 km SE of Pondaguitan, Philippines",earthquake,,4.5,0.2,,reviewed,iscgem,iscgem
+1969-02-03T19:01:31.340Z,4.254,128.102,30,5.81,mw,,,,,iscgem,iscgem811839,2022-04-26T22:11:33.143Z,"279 km N of Tobelo, Indonesia",earthquake,,35.6,0.2,,reviewed,iscgem,iscgem
+1969-02-02T05:21:29.540Z,3.882,128.371,45,5.69,mw,,,,,iscgem,iscgem811783,2022-04-26T22:11:30.292Z,"241 km N of Tobelo, Indonesia",earthquake,,11.7,0.41,,reviewed,iscgem,iscgem
+1969-02-02T02:07:00.150Z,4.026,128.281,15,5.46,mw,,,,,iscgem,iscgem811776,2022-04-26T22:11:28.960Z,"255 km N of Tobelo, Indonesia",earthquake,,11.7,0.36,,reviewed,iscgem,iscgem
+1969-02-02T01:38:48.100Z,3.8,128.255,45,6.03,mw,,,,,iscgem,iscgem811775,2022-04-26T22:11:27.482Z,"230 km N of Tobelo, Indonesia",earthquake,,4.5,0.24,,reviewed,iscgem,iscgem
+1969-01-31T20:37:52.820Z,4.242,128.065,45,5.52,mw,,,,,iscgem,iscgem813746,2022-04-26T22:14:39.363Z,"278 km N of Tobelo, Indonesia",earthquake,,31.1,0.23,,reviewed,iscgem,iscgem
+1969-01-31T13:48:24.960Z,4.356,128.231,40,5.96,mw,,,,,iscgem,iscgem813732,2022-04-26T22:14:31.884Z,"291 km N of Tobelo, Indonesia",earthquake,,35.6,0.2,,reviewed,iscgem,iscgem
+1969-01-31T08:56:46.300Z,4.174,128.076,48.9,5.53,mw,,,,,iscgem,iscgem813724,2022-04-26T22:14:26.543Z,"270 km N of Tobelo, Indonesia",earthquake,,31.1,0.25,,reviewed,iscgem,iscgem
+1969-01-31T00:44:16.980Z,4.192,128.186,43.3,6.39,mw,,,,,iscgem,iscgem813710,2022-04-26T22:14:20.828Z,"273 km N of Tobelo, Indonesia",earthquake,,5,0.21,,reviewed,iscgem,iscgem
+1969-01-30T18:36:39.460Z,3.936,123.006,532.9,5.53,mw,,,,,iscgem,iscgem813703,2022-04-26T22:14:09.373Z,"262 km SSE of Tabiauan, Philippines",earthquake,,24.8,0.37,,reviewed,iscgem,iscgem
+1969-01-30T10:29:41.930Z,4.569,127.306,60,7.6,mw,,,,,iscgem,iscgem813688,2022-04-26T22:14:03.690Z,"224 km ESE of Sarangani, Philippines",earthquake,,4.9,0.3,,reviewed,iscgem,iscgem
+1969-01-25T05:19:20.550Z,0.836,126.005,35,5.96,mw,,,,,iscgem,iscgem813514,2022-04-26T22:13:54.070Z,"132 km ESE of Tondano, Indonesia",earthquake,,23.1,0.2,,reviewed,iscgem,iscgem
+1969-01-15T12:59:08.940Z,-3.268,118.877,35,5.53,mw,,,,,iscgem,iscgem813204,2022-04-26T22:13:40.227Z,"31 km NNW of Majene, Indonesia",earthquake,,16,0.46,,reviewed,iscgem,iscgem
+1969-01-05T16:50:50.540Z,-9.086,123.242,81.6,5.52,mw,,,,,iscgem,iscgem812908,2022-04-26T22:13:26.584Z,"81 km NW of Naisano Dua, Indonesia",earthquake,,39.5,0.33,,reviewed,iscgem,iscgem
+1969-01-04T22:36:48.980Z,-6.85,129.821,105,5.8,mw,,,,,iscgem,iscgem812879,2022-04-26T22:13:13.940Z,"Banda Sea",earthquake,,32.4,0.39,,reviewed,iscgem,iscgem
+1968-12-19T00:26:39.540Z,-0.138,124.351,45,5.52,mw,,,,,iscgem,iscgem814282,2022-04-26T22:16:23.483Z,"161 km ESE of Gorontalo, Indonesia",earthquake,,18.8,0.22,,reviewed,iscgem,iscgem
+1968-12-10T04:25:24.720Z,-6.321,130.418,90,5.73,mw,,,,,iscgem,iscgem814031,2022-04-26T22:15:26.315Z,"269 km WSW of Tual, Indonesia",earthquake,,28.8,0.57,,reviewed,iscgem,iscgem
+1968-11-25T18:36:57.210Z,5.122,126.847,50,6.36,mw,,,,,iscgem,iscgem815369,2022-04-26T22:18:28.480Z,"155 km SSE of Pondaguitan, Philippines",earthquake,,4.8,0.24,,reviewed,iscgem,iscgem
+1968-11-22T10:31:55.410Z,1.388,125.711,76,5.75,mw,,,,,iscgem,iscgem815289,2022-04-26T22:18:23.508Z,"82 km E of Laikit, Laikit II (Dimembe), Indonesia",earthquake,,40.3,0.35,,reviewed,iscgem,iscgem
+1968-11-17T05:18:57.220Z,-3.201,128.862,35,5.6,mw,,,,,iscgem,iscgem815164,2022-04-26T22:18:09.872Z,"16 km NNW of Amahai, Indonesia",earthquake,,11.6,0.2,,reviewed,iscgem,iscgem
+1968-11-09T20:30:45.290Z,2.358,126.856,42.2,6.12,mw,,,,,iscgem,iscgem814969,2022-04-26T22:17:28.930Z,"145 km WNW of Tobelo, Indonesia",earthquake,,4.6,0.2,,reviewed,iscgem,iscgem
+1968-10-31T09:06:38.130Z,1.191,126.23,35,6.07,mw,,,,,iscgem,iscgem816498,2022-04-26T22:19:57.217Z,"135 km WNW of Ternate, Indonesia",earthquake,,23.1,0.4,,reviewed,iscgem,iscgem
+1968-10-29T17:00:40.550Z,1.767,126.394,25,5.53,mw,,,,,iscgem,iscgem816409,2022-04-26T22:19:37.500Z,"154 km NW of Ternate, Indonesia",earthquake,,4.7,0.25,,reviewed,iscgem,iscgem
+1968-10-25T10:29:28.580Z,4.336,95.402,61,5.46,mw,,,,,iscgem,iscgem816275,2022-04-26T22:19:18.257Z,"83 km WNW of Meulaboh, Indonesia",earthquake,,5.2,0.2,,reviewed,iscgem,iscgem
+1968-10-24T15:51:17.340Z,5.909,127.031,45,6.35,mw,,,,,iscgem,iscgem816258,2022-04-26T22:19:14.373Z,"106 km ESE of Pondaguitan, Philippines",earthquake,,4.8,0.2,,reviewed,iscgem,iscgem
+1968-10-15T02:10:38.990Z,-0.499,100.689,130,5.75,mw,,,,,iscgem,iscgem815957,2022-04-26T22:19:01.921Z,"31 km S of Payakumbuh, Indonesia",earthquake,,18,0.31,,reviewed,iscgem,iscgem
+1968-10-03T08:04:57.690Z,-3.775,128.493,105,5.79,mw,,,,,iscgem,iscgem815575,2022-04-26T22:18:40.053Z,"35 km ESE of Ambon, Indonesia",earthquake,,5,0.36,,reviewed,iscgem,iscgem
+1968-09-30T14:15:59.860Z,3.08,128.176,161,5.53,mw,,,,,iscgem,iscgem817530,2022-04-26T22:23:15.068Z,"150 km N of Tobelo, Indonesia",earthquake,,5.5,0.4,,reviewed,iscgem,iscgem
+1968-09-27T03:58:58.530Z,-6.909,129.083,150.6,6.05,mw,,,,,iscgem,iscgem817421,2022-04-26T22:22:46.342Z,"291 km NE of Lospalos, Timor Leste",earthquake,,5.2,0.39,,reviewed,iscgem,iscgem
+1968-09-26T08:06:55.310Z,-5.76,105.358,15,5.55,mw,,,,,iscgem,iscgem817381,2022-04-26T22:22:31.955Z,"Sunda Strait, Indonesia",earthquake,,16.8,0.48,,reviewed,iscgem,iscgem
+1968-08-30T06:18:27.580Z,1.444,126.311,15,5.52,mw,,,,,iscgem,iscgem818458,2022-04-26T22:25:46.042Z,"Molucca Sea",earthquake,,20.8,0.32,,reviewed,iscgem,iscgem
+1968-08-25T13:23:08.160Z,1.099,126.2,16.3,5.54,mw,,,,,iscgem,iscgem818330,2022-04-26T22:25:32.053Z,"136 km WNW of Ternate, Indonesia",earthquake,,4.7,0.37,,reviewed,iscgem,iscgem
+1968-08-18T18:56:50.510Z,1.159,126.1,35,5.83,mw,,,,,iscgem,iscgem818137,2022-04-26T22:24:48.261Z,"130 km ESE of Laikit, Laikit II (Dimembe), Indonesia",earthquake,,23.1,0.2,,reviewed,iscgem,iscgem
+1968-08-18T05:43:57.270Z,1.39,126.34,20,5.53,mw,,,,,iscgem,iscgem818120,2022-04-26T22:24:39.340Z,"133 km WNW of Ternate, Indonesia",earthquake,,4.8,0.2,,reviewed,iscgem,iscgem
+1968-08-17T18:47:29.720Z,2.084,126.779,20,5.5,mw,,,,,iscgem,iscgem818104,2022-04-26T22:24:38.090Z,"142 km WNW of Tobelo, Indonesia",earthquake,,37.4,0.53,,reviewed,iscgem,iscgem
+1968-08-17T04:00:38.460Z,1.364,126.268,35,6.01,mw,,,,,iscgem,iscgem818083,2022-04-26T22:24:36.926Z,"139 km WNW of Ternate, Indonesia",earthquake,,4.8,0.28,,reviewed,iscgem,iscgem
+1968-08-15T11:40:33.000Z,-0.241,119.952,35,5.51,mw,,,,,iscgem,iscgem818041,2022-04-26T22:24:25.960Z,"74 km N of Palu, Indonesia",earthquake,,21,0.28,,reviewed,iscgem,iscgem
+1968-08-14T22:14:23.290Z,0.157,119.802,20,7.21,mw,,,,,iscgem,iscgem818025,2022-04-26T22:24:18.653Z,"118 km N of Palu, Indonesia",earthquake,,3.9,0.28,,reviewed,iscgem,iscgem
+1968-08-13T02:52:51.720Z,1.704,126.477,30,5.85,mw,,,,,iscgem,iscgem817959,2022-04-26T22:24:14.838Z,"142 km NW of Ternate, Indonesia",earthquake,,20.8,0.36,,reviewed,iscgem,iscgem
+1968-08-12T13:43:45.670Z,1.561,126.356,20,5.5,mw,,,,,iscgem,iscgem817937,2022-04-26T22:24:09.487Z,"142 km NW of Ternate, Indonesia",earthquake,,20.8,0.34,,reviewed,iscgem,iscgem
+1968-08-11T20:00:44.590Z,1.584,126.483,30,6.01,mw,,,,,iscgem,iscgem817918,2022-04-26T22:24:03.968Z,"133 km NW of Ternate, Indonesia",earthquake,,20.8,0.2,,reviewed,iscgem,iscgem
+1968-08-10T08:10:17.690Z,1.619,126.297,30,5.86,mw,,,,,iscgem,iscgem817862,2022-04-26T22:23:49.933Z,"147 km E of Laikit, Laikit II (Dimembe), Indonesia",earthquake,,3.8,0.2,,reviewed,iscgem,iscgem
+1968-08-10T05:51:48.400Z,1.402,126.182,25,6.5,mw,,,,,iscgem,iscgem817856,2022-04-26T22:23:48.575Z,"Molucca Sea",earthquake,,4.5,0.2,,reviewed,iscgem,iscgem
+1968-08-10T04:05:50.340Z,1.328,126.478,20,5.81,mw,,,,,iscgem,iscgem817849,2022-04-26T22:23:42.801Z,"117 km WNW of Ternate, Indonesia",earthquake,,3.9,0.2,,reviewed,iscgem,iscgem
+1968-08-10T02:07:06.390Z,1.514,126.234,23,7.61,mw,,,,,iscgem,iscgem817844,2022-04-26T22:23:41.596Z,"140 km E of Laikit, Laikit II (Dimembe), Indonesia",earthquake,,3.9,0.38,,reviewed,iscgem,iscgem
+1968-07-29T23:52:18.220Z,-0.291,133.409,20,6.23,mw,,,,,iscgem,iscgem819494,2022-04-26T22:27:48.294Z,"96 km NW of Manokwari, Indonesia",earthquake,,8.1,0.46,,reviewed,iscgem,iscgem
+1968-07-17T05:24:15.840Z,-8.619,125.008,12.4,5.9,mw,,,,,iscgem,iscgem819094,2022-04-26T22:26:52.216Z,"21 km W of Maubara, Timor Leste",earthquake,,3.4,0.2,,reviewed,iscgem,iscgem
+1968-07-06T19:28:58.140Z,-6.482,133.894,35,5.81,mw,,,,,iscgemsup,iscgemsup818727,2022-05-09T19:20:42.178Z,"Kepulauan Aru region, Indonesia",earthquake,,5.2,1.19,,reviewed,iscgemsup,iscgemsup
+1968-07-02T18:40:10.360Z,-2.712,138.891,45,5.96,mw,,,,,iscgem,iscgem818568,2022-04-26T22:25:56.572Z,"194 km W of Abepura, Indonesia",earthquake,,16,0.2,,reviewed,iscgem,iscgem
+1968-06-12T20:15:49.500Z,-0.591,132.909,35,5.67,mw,,,,,iscgem,iscgem820257,2022-04-26T22:29:01.482Z,"132 km WNW of Manokwari, Indonesia",earthquake,,9.5,0.33,,reviewed,iscgem,iscgem
+1968-06-07T21:30:55.060Z,-2.078,120.462,38,6.2,mw,,,,,iscgem,iscgem819969,2022-04-26T22:28:22.937Z,"82 km SSW of Poso, Indonesia",earthquake,,4.7,0.2,,reviewed,iscgem,iscgem
+1968-06-07T11:57:34.030Z,-1.916,120.094,35,6.74,mw,,,,,iscgem,iscgem819942,2022-04-26T22:28:17.326Z,"93 km SW of Poso, Indonesia",earthquake,,4.5,0.33,,reviewed,iscgem,iscgem
+1968-05-30T09:55:30.970Z,-6.728,129.508,15,5.54,mw,,,,,iscgem,iscgem823267,2022-04-26T22:34:10.827Z,"Banda Sea",earthquake,,40.6,0.3,,reviewed,iscgem,iscgem
+1968-05-28T13:27:19.180Z,-2.85,139.353,45,7.5,mw,,,,,iscgem,iscgem823104,2022-04-26T22:33:57.944Z,"145 km W of Abepura, Indonesia",earthquake,,16.3,0.2,,reviewed,iscgem,iscgem
+1968-05-24T15:43:56.100Z,-6.799,118.853,619.1,6.23,mw,,,,,iscgem,iscgem822753,2022-04-26T22:33:51.694Z,"173 km SSW of Galesong, Indonesia",earthquake,,6.9,0.1,,reviewed,iscgem,iscgem
+1968-05-02T23:26:04.470Z,-6.348,129.915,125.3,5.67,mw,,,,,iscgem,iscgem821518,2022-04-26T22:31:52.473Z,"Banda Sea",earthquake,,5,0.46,,reviewed,iscgem,iscgem
+1968-04-11T00:19:53.680Z,-3.962,127.665,47,5.53,mw,,,,,iscgem,iscgem823766,2022-04-26T22:34:49.225Z,"64 km WSW of Ambon, Indonesia",earthquake,,13,0.34,,reviewed,iscgem,iscgem
+1968-04-01T06:35:47.130Z,-2.821,133.932,15,5.58,mw,,,,,iscgem,iscgem823401,2022-04-26T22:34:31.577Z,"184 km WNW of Nabire, Indonesia",earthquake,,15.7,0.37,,reviewed,iscgem,iscgem
+1968-03-27T22:36:43.370Z,-4.178,133.149,17.5,5.66,mw,,,,,iscgem,iscgem825483,2022-04-26T22:37:18.136Z,"166 km NNE of Tual, Indonesia",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1968-03-26T00:42:00.620Z,-6.626,116.161,554.4,6.1,mw,,,,,iscgem,iscgem825405,2022-04-26T22:37:09.948Z,"191 km N of Gili Air, Indonesia",earthquake,,6.5,0.1,,reviewed,iscgem,iscgem
+1968-03-17T20:14:34.170Z,3.204,128.182,65,6.1,mw,,,,,iscgemsup,iscgemsup825125,2022-05-09T19:20:50.537Z,"164 km N of Tobelo, Indonesia",earthquake,,37.6,0.92,,reviewed,iscgemsup,iscgemsup
+1968-03-03T22:55:36.910Z,1.584,122.452,422.7,5.71,mw,,,,,iscgemsup,iscgemsup824599,2022-05-09T19:20:46.839Z,"134 km NNW of Gorontalo, Indonesia",earthquake,,6.3,0.89,,reviewed,iscgemsup,iscgemsup
+1968-02-21T08:57:53.650Z,-4.04,128.531,35,5.62,mw,,,,,iscgem,iscgem826443,2022-04-26T22:38:51.312Z,"54 km SE of Ambon, Indonesia",earthquake,,25,0.44,,reviewed,iscgem,iscgem
+1968-02-13T02:12:35.090Z,-5.48,131.26,85,5.68,mw,,,,,iscgem,iscgem826118,2022-04-26T22:38:29.645Z,"166 km W of Tual, Indonesia",earthquake,,4.6,0.2,,reviewed,iscgem,iscgem
+1968-02-06T04:37:19.780Z,-0.135,124.145,100,5.62,mw,,,,,iscgem,iscgem825838,2022-04-26T22:38:00.991Z,"141 km ESE of Gorontalo, Indonesia",earthquake,,26.4,0.31,,reviewed,iscgem,iscgem
+1968-01-31T02:58:37.670Z,-6.774,130.395,77.2,5.53,mw,,,,,iscgem,iscgem827910,2022-04-26T22:40:45.547Z,"289 km WSW of Tual, Indonesia",earthquake,,31.1,0.42,,reviewed,iscgem,iscgem
+1968-01-30T03:44:25.570Z,-6.066,113.373,596,6.26,mw,,,,,iscgem,iscgem827844,2022-04-26T22:40:44.362Z,"117 km NNW of Sumenep, Indonesia",earthquake,,6.5,0.1,,reviewed,iscgem,iscgem
+1968-01-26T04:45:44.750Z,-8.875,120.265,30.6,6.8,mw,,,,,iscgem,iscgem827666,2022-04-26T22:40:08.374Z,"36 km SW of Ruteng, Indonesia",earthquake,,4,0.2,,reviewed,iscgem,iscgem
+1968-01-19T14:12:02.750Z,-7.108,108.571,141.1,5.54,mw,,,,,iscgem,iscgem827435,2022-04-26T22:39:58.714Z,"17 km SSE of Kuningan, Indonesia",earthquake,,25,0.3,,reviewed,iscgem,iscgem
+1968-01-14T12:25:11.780Z,-7.552,127.871,116,5.98,mw,,,,,iscgemsup,iscgemsup827261,2022-05-09T19:21:00.897Z,"144 km NE of Lospalos, Timor Leste",earthquake,,5.2,1.1,,reviewed,iscgemsup,iscgemsup
+1967-12-01T07:18:24.610Z,2.416,127.304,98.6,5.51,mw,,,,,iscgem,iscgem827969,2022-04-26T22:40:47.831Z,"109 km NW of Tobelo, Indonesia",earthquake,,31.3,0.3,,reviewed,iscgem,iscgem
+1967-11-26T10:53:24.970Z,-1.919,127.719,15,5.4,mw,,,,,iscgem,iscgem829737,2022-04-26T22:44:18.859Z,"203 km NNW of Ambon, Indonesia",earthquake,,25,0.34,,reviewed,iscgem,iscgem
+1967-11-26T02:54:05.840Z,-8.046,112.981,145,5.72,mw,,,,,iscgemsup,iscgemsup829723,2022-05-09T19:21:06.155Z,"28 km WNW of Lumajang, Indonesia",earthquake,,34.5,0.9,,reviewed,iscgemsup,iscgemsup
+1967-11-09T02:18:48.620Z,-7.163,123.752,584.2,6.18,mw,,,,,iscgem,iscgem829200,2022-04-26T22:43:17.545Z,"226 km NW of Maubara, Timor Leste",earthquake,,7.6,0.1,,reviewed,iscgem,iscgem
+1967-11-08T06:07:22.850Z,-5.233,133.932,30,5.62,mw,,,,,iscgemsup,iscgemsup829171,2022-05-09T19:21:04.934Z,"137 km ENE of Tual, Indonesia",earthquake,,3.8,1,,reviewed,iscgemsup,iscgemsup
+1967-11-01T18:56:55.960Z,-4.624,135.649,15,5.71,mw,,,,,iscgem,iscgem828992,2022-04-26T22:42:41.112Z,"140 km S of Nabire, Indonesia",earthquake,,10.8,0.62,,reviewed,iscgem,iscgem
+1967-10-24T10:51:14.510Z,-3.152,101.398,46.2,5.53,mw,,,,,iscgem,iscgem830593,2022-04-26T22:46:46.325Z,"120 km NW of Bengkulu, Indonesia",earthquake,,4.9,0.39,,reviewed,iscgem,iscgem
+1967-10-16T16:58:03.990Z,1.715,127.493,125,5.7,mw,,,,,iscgem,iscgem830365,2022-04-26T22:46:24.851Z,"57 km W of Tobelo, Indonesia",earthquake,,24.2,0.66,,reviewed,iscgem,iscgem
+1967-10-12T18:31:43.600Z,-7.131,129.828,88.2,6,mw,,,,,iscgem,iscgem830257,2022-04-26T22:45:47.674Z,"Kepulauan Babar, Indonesia",earthquake,,5.3,0.2,,reviewed,iscgem,iscgem
+1967-10-09T04:04:55.000Z,1.523,127.202,105,5.6,mw,,,,,iscgem,iscgem830140,2022-04-26T22:45:31.406Z,"Halmahera, Indonesia",earthquake,,31.1,0.27,,reviewed,iscgem,iscgem
+1967-09-25T17:03:55.740Z,3.257,125.515,118.6,5.57,mw,,,,,iscgem,iscgem831654,2022-04-26T22:48:00.413Z,"204 km NNE of Laikit, Laikit II (Dimembe), Indonesia",earthquake,,47.4,0.24,,reviewed,iscgem,iscgem
+1967-09-24T00:57:09.430Z,4.632,128.667,16.9,5.58,mw,,,,,iscgem,iscgem831599,2022-04-26T22:47:56.085Z,"north of Halmahera, Indonesia",earthquake,,4.5,0.66,,reviewed,iscgem,iscgem
+1967-09-07T07:12:37.500Z,2.626,124.226,275,5.93,mw,,,,,iscgem,iscgem830991,2022-04-26T22:47:10.833Z,"144 km NNW of Manado, Indonesia",earthquake,,5.4,0.35,,reviewed,iscgem,iscgem
+1967-08-21T07:33:03.610Z,3.697,95.669,39.1,6.57,mw,,,,,iscgem,iscgem832453,2022-04-26T22:48:59.253Z,"70 km SW of Meulaboh, Indonesia",earthquake,,4.8,0.45,,reviewed,iscgem,iscgem
+1967-08-16T19:19:04.500Z,0.873,98.876,75.1,5.71,mw,,,,,iscgem,iscgem832324,2022-04-26T22:48:48.621Z,"71 km SW of Padangsidempuan, Indonesia",earthquake,,4.8,0.6,,reviewed,iscgem,iscgem
+1967-08-09T08:20:06.850Z,-6.499,130.556,106.3,5.93,mw,,,,,iscgem,iscgem832085,2022-05-09T22:49:31.559Z,"261 km WSW of Tual, Indonesia",earthquake,,5.4,0.67,,reviewed,iscgem,iscgem
+1967-07-16T13:34:33.010Z,-0.869,132.73,30,6.22,mw,,,,,iscgem,iscgem833382,2022-04-26T22:50:21.038Z,"148 km W of Manokwari, Indonesia",earthquake,,25,0.36,,reviewed,iscgem,iscgem
+1967-07-10T19:18:11.060Z,4.894,126.855,75,5.72,mw,,,,,iscgem,iscgem833193,2022-04-26T22:50:06.736Z,"164 km ESE of Sarangani, Philippines",earthquake,,24.9,0.2,,reviewed,iscgem,iscgem
+1967-07-01T07:28:59.240Z,-0.858,98.674,27.1,5.56,mw,,,,,iscgem,iscgem832830,2022-04-26T22:49:15.400Z,"163 km W of Pariaman, Indonesia",earthquake,,4.8,0.52,,reviewed,iscgem,iscgem
+1967-06-29T16:36:20.020Z,-7.249,128.596,150,5.55,mw,,,,,iscgem,iscgem835041,2022-04-26T22:53:33.021Z,"225 km NE of Lospalos, Timor Leste",earthquake,,25,0.46,,reviewed,iscgem,iscgem
+1967-06-23T05:05:06.530Z,-5.859,130.325,90,5.76,mw,,,,,iscgem,iscgem834808,2022-04-26T22:53:09.769Z,"270 km W of Tual, Indonesia",earthquake,,30.5,0.46,,reviewed,iscgem,iscgem
+1967-06-12T21:17:49.500Z,-3.09,100.445,28,5.56,mw,,,,,iscgem,iscgem834401,2022-04-26T22:52:03.220Z,"155 km SW of Sungai Penuh, Indonesia",earthquake,,4.6,0.4,,reviewed,iscgem,iscgem
+1967-06-12T03:07:39.590Z,-3.055,100.484,27.4,5.5,mw,,,,,iscgem,iscgem834372,2022-04-26T22:51:51.059Z,"149 km SW of Sungai Penuh, Indonesia",earthquake,,6.9,0.2,,reviewed,iscgem,iscgem
+1967-05-21T18:45:13.560Z,-0.897,101.313,179.3,6.72,mw,,,,,iscgem,iscgem835857,2022-04-26T22:54:49.552Z,"43 km ESE of Sijunjung, Indonesia",earthquake,,5.1,0.1,,reviewed,iscgem,iscgem
+1967-05-09T21:30:07.290Z,5.161,127.412,90,5.71,mw,,,,,iscgem,iscgem835410,2022-04-26T22:54:02.912Z,"190 km SE of Pondaguitan, Philippines",earthquake,,4.7,0.36,,reviewed,iscgem,iscgem
+1967-04-30T16:59:00.870Z,-1.808,138.694,20,5.81,mw,,,,,iscgem,iscgem837261,2022-04-26T22:56:24.757Z,"232 km WNW of Abepura, Indonesia",earthquake,,14.5,0.22,,reviewed,iscgem,iscgem
+1967-04-22T19:42:06.040Z,-7.101,129.6,140,5.51,mw,,,,,iscgem,iscgem837019,2022-04-26T22:56:06.485Z,"Kepulauan Babar, Indonesia",earthquake,,30.2,0.48,,reviewed,iscgem,iscgem
+1967-04-22T13:07:36.100Z,5.112,96.37,14.2,5.64,mw,,,,,iscgem,iscgem837010,2022-04-26T22:56:04.231Z,"15 km SE of Reuleuet, Indonesia",earthquake,,3.7,0.47,,reviewed,iscgem,iscgem
+1967-04-21T08:14:24.310Z,-5.401,126.688,10,6.2,mw,,,,,iscgem,iscgem836974,2022-04-26T22:56:03.165Z,"251 km SW of Ambon, Indonesia",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1967-04-20T00:01:27.180Z,-5.605,129.639,175,5.71,mw,,,,,iscgemsup,iscgemsup836920,2022-05-09T19:21:16.781Z,"262 km SSE of Amahai, Indonesia",earthquake,,25,1.07,,reviewed,iscgemsup,iscgemsup
+1967-04-12T05:11:18.630Z,5.349,96.483,50,5.63,mw,,,,,iscgem,iscgem836610,2022-04-26T22:55:53.909Z,"26 km ENE of Reuleuet, Indonesia",earthquake,,25,0.49,,reviewed,iscgem,iscgem
+1967-04-12T04:51:42.870Z,5.121,96.286,50,6.7,mw,,,,,iscgem,iscgem836599,2022-04-26T22:55:52.759Z,"10 km S of Reuleuet, Indonesia",earthquake,,25,0.4,,reviewed,iscgem,iscgem
+1967-04-09T17:41:54.860Z,-6.934,129.674,105,5.6,mw,,,,,iscgem,iscgem836498,2022-04-26T22:55:44.523Z,"Banda Sea",earthquake,,30.2,0.2,,reviewed,iscgem,iscgem
+1967-04-09T00:05:10.200Z,-3.989,135.677,15,6,mw,,,,,iscgem,iscgem836469,2022-04-26T22:55:43.466Z,"72 km SSE of Nabire, Indonesia",earthquake,,7.8,0.2,,reviewed,iscgem,iscgem
+1967-04-04T00:37:29.060Z,-2.452,138.614,13.9,5.54,mw,,,,,iscgem,iscgem836282,2022-04-26T22:55:30.837Z,"225 km W of Abepura, Indonesia",earthquake,,20.5,0.2,,reviewed,iscgem,iscgem
+1967-03-29T10:33:36.400Z,-2.399,138.681,10,5.53,mw,,,,,iscgem,iscgem838346,2022-04-26T22:58:50.658Z,"218 km W of Abepura, Indonesia",earthquake,,20.5,0.22,,reviewed,iscgem,iscgem
+1967-03-24T11:46:14.790Z,-5.952,112.294,606,5.56,mw,,,,,iscgem,iscgem838182,2022-04-26T22:58:23.478Z,"102 km N of Paciran, Indonesia",earthquake,,6.9,0.28,,reviewed,iscgem,iscgem
+1967-03-24T09:00:20.130Z,-5.972,112.225,598,6.71,mw,,,,,iscgem,iscgem838174,2022-04-26T22:58:17.921Z,"101 km N of Paciran, Indonesia",earthquake,,6.5,0.1,,reviewed,iscgem,iscgem
+1967-03-23T15:00:28.130Z,-4.686,101.716,22.7,5.53,mw,,,,,iscgem,iscgem838143,2022-04-26T22:58:16.320Z,"115 km SSW of Bengkulu, Indonesia",earthquake,,4.2,0.2,,reviewed,iscgem,iscgem
+1967-03-19T01:10:51.190Z,-6.727,129.744,97.7,6.18,mw,,,,,iscgemsup,iscgemsup837961,2022-05-09T19:21:24.254Z,"Banda Sea",earthquake,,4.8,0.91,,reviewed,iscgemsup,iscgemsup
+1967-03-13T19:00:59.920Z,3.695,126.627,15,5.5,mw,,,,,iscgem,iscgem837803,2022-04-26T22:57:13.287Z,"228 km SE of Sarangani, Philippines",earthquake,,19.1,0.2,,reviewed,iscgem,iscgem
+1967-02-25T11:38:45.710Z,-0.114,123.969,80,5.9,mw,,,,,iscgem,iscgem839107,2022-04-26T23:00:59.226Z,"123 km SE of Gorontalo, Indonesia",earthquake,,26.4,0.56,,reviewed,iscgem,iscgem
+1967-02-25T11:20:50.160Z,-0.077,123.947,75,5.93,mw,,,,,iscgemsup,iscgemsup839104,2022-05-09T19:21:26.852Z,"Sulawesi, Indonesia",earthquake,,5.1,0.71,,reviewed,iscgemsup,iscgemsup
+1967-02-21T18:42:07.060Z,1.427,127.11,110,5.55,mw,,,,,iscgem,iscgem839015,2022-04-26T23:00:39.502Z,"76 km NNW of Ternate, Indonesia",earthquake,,31.1,0.22,,reviewed,iscgem,iscgem
+1967-02-19T23:28:29.720Z,-0.072,124.213,95,5.94,mw,,,,,iscgemsup,iscgemsup838961,2022-05-09T19:21:25.628Z,"144 km ESE of Gorontalo, Indonesia",earthquake,,5.2,0.89,,reviewed,iscgemsup,iscgemsup
+1967-02-19T22:14:37.300Z,-9.045,112.956,85.4,6.35,mw,,,,,iscgem,iscgem838960,2022-05-09T22:49:30.772Z,"94 km SSE of Dampit, Indonesia",earthquake,,5.3,0.68,,reviewed,iscgem,iscgem
+1967-02-17T00:37:40.150Z,4.352,125.365,35,5.67,mw,,,,,iscgem,iscgem838867,2022-04-26T23:00:11.431Z,"116 km S of Sarangani, Philippines",earthquake,,24.6,0.6,,reviewed,iscgem,iscgem
+1967-02-10T11:29:46.010Z,-7.364,128.388,15,5.54,mw,,,,,iscgem,iscgem838653,2022-04-26T22:59:25.050Z,"199 km NE of Lospalos, Timor Leste",earthquake,,17.1,0.2,,reviewed,iscgem,iscgem
+1967-02-03T12:48:09.830Z,-5.542,110.478,550,5.61,mw,,,,,iscgem,iscgem838491,2022-04-26T22:59:08.194Z,"107 km NNW of Batang, Indonesia",earthquake,,6.8,0.51,,reviewed,iscgem,iscgem
+1967-02-01T15:20:01.060Z,-4.8,103.098,59.3,5.5,mw,,,,,iscgem,iscgem838435,2022-04-26T22:58:59.399Z,"87 km S of Pagar Alam, Indonesia",earthquake,,5.3,0.39,,reviewed,iscgem,iscgem
+1967-01-23T09:19:35.310Z,0.531,122.272,120,5.55,mw,,,,,iscgem,iscgem840065,2022-04-26T23:03:28.592Z,"87 km W of Gorontalo, Indonesia",earthquake,,24.4,0.2,,reviewed,iscgem,iscgem
+1967-01-11T05:54:03.870Z,-0.149,120.033,35,5.73,mw,,,,,iscgem,iscgem839637,2022-04-26T23:02:17.287Z,"85 km NNE of Palu, Indonesia",earthquake,,21,0.3,,reviewed,iscgem,iscgem
+1967-01-06T10:03:05.430Z,-1.461,126.477,30,5.58,mw,,,,,iscgem,iscgem839476,2022-04-26T23:02:02.639Z,"268 km SSW of Ternate, Indonesia",earthquake,,3.4,0.5,,reviewed,iscgem,iscgem
+1966-12-02T09:31:18.510Z,3.251,128.174,75,5.71,mw,,,,,iscgem,iscgem840351,2022-04-26T23:04:18.299Z,"169 km N of Tobelo, Indonesia",earthquake,,41.9,0.3,,reviewed,iscgem,iscgem
+1966-10-07T04:28:29.400Z,4.402,126.062,70,5.58,mw,,,,,iscgem,iscgem842252,2022-04-26T23:08:02.933Z,"129 km SSE of Sarangani, Philippines",earthquake,,43.9,0.2,,reviewed,iscgem,iscgem
+1966-09-09T12:04:36.600Z,-4.147,102.855,60,5.42,mw,,,,,iscgem,iscgem843252,2022-04-26T23:09:51.284Z,"45 km WSW of Pagar Alam, Indonesia",earthquake,,14.4,0.22,,reviewed,iscgem,iscgem
+1966-09-08T21:15:56.910Z,2.388,128.49,115,7.71,mw,,,,,iscgemsup,iscgemsup843229,2022-05-09T19:21:30.314Z,"90 km NE of Tobelo, Indonesia",earthquake,,5.2,1.64,,reviewed,iscgemsup,iscgemsup
+1966-08-27T02:36:36.670Z,3.087,127.949,190,5.48,mw,,,,,iscgem,iscgem844961,2022-04-26T23:14:04.026Z,"150 km N of Tobelo, Indonesia",earthquake,,37.6,0.47,,reviewed,iscgem,iscgem
+1966-08-22T17:02:06.880Z,-1.741,134.06,25,5.86,mw,,,,,iscgem,iscgem844815,2022-04-26T23:13:26.137Z,"97 km S of Manokwari, Indonesia",earthquake,,12.1,0.2,,reviewed,iscgem,iscgem
+1966-08-18T15:42:42.890Z,-4.281,138.437,143.1,5.59,mw,,,,,iscgem,iscgem844648,2022-04-26T23:12:27.436Z,"Papua, Indonesia",earthquake,,6.7,0.39,,reviewed,iscgem,iscgem
+1966-08-18T14:37:55.160Z,-0.007,125.026,32.5,6.02,mw,,,,,iscgem,iscgem844646,2022-04-26T23:12:25.221Z,"145 km S of Tondano, Indonesia",earthquake,,5.2,0.2,,reviewed,iscgem,iscgem
+1966-08-18T14:34:02.470Z,-0.111,125.071,55,6.07,mw,,,,,iscgem,iscgem844645,2022-04-26T23:12:23.693Z,"157 km S of Tondano, Indonesia",earthquake,,14.6,0.22,,reviewed,iscgem,iscgem
+1966-08-17T19:54:10.690Z,-5.026,125.119,540,5.71,mw,,,,,iscgem,iscgem844607,2022-04-26T23:12:19.113Z,"288 km E of Katabu, Indonesia",earthquake,,9,0.66,,reviewed,iscgem,iscgem
+1966-07-13T14:40:24.100Z,-0.124,122.8,92.3,5.52,mw,,,,,iscgem,iscgem845481,2022-04-26T23:14:38.569Z,"78 km SSW of Gorontalo, Indonesia",earthquake,,5.4,0.35,,reviewed,iscgem,iscgem
+1966-06-22T20:29:07.410Z,-7.24,124.583,531.8,6.98,mw,,,,,iscgem,iscgem846755,2022-04-26T23:16:22.718Z,"166 km NNW of Maubara, Timor Leste",earthquake,,6.5,0.1,,reviewed,iscgem,iscgem
+1966-06-14T16:39:50.830Z,-5.338,124.366,636.4,5.55,mw,,,,,iscgem,iscgem846446,2022-04-26T23:15:53.808Z,"209 km ESE of Katabu, Indonesia",earthquake,,8.4,0.7,,reviewed,iscgem,iscgem
+1966-06-02T07:08:05.190Z,-0.047,123.13,140,5.78,mw,,,,,iscgem,iscgem846032,2022-04-26T23:15:25.189Z,"65 km S of Gorontalo, Indonesia",earthquake,,5.1,0.2,,reviewed,iscgem,iscgem
+1966-05-25T08:29:03.090Z,-6.384,131.044,65,5.73,mw,,,,,iscgem,iscgem847783,2022-04-26T23:19:16.197Z,"206 km WSW of Tual, Indonesia",earthquake,,39.9,0.67,,reviewed,iscgem,iscgem
+1966-05-16T02:46:42.440Z,-6.974,129.352,201.1,5.67,mw,,,,,iscgem,iscgem847502,2022-04-26T23:18:28.827Z,"Banda Sea",earthquake,,6.7,0.44,,reviewed,iscgem,iscgem
+1966-05-02T16:39:45.780Z,-8.495,114.967,105,5.62,mw,,,,,iscgem,iscgem847094,2022-04-26T23:17:20.031Z,"18 km WNW of Tabanan, Indonesia",earthquake,,13,0.48,,reviewed,iscgem,iscgem
+1966-04-23T08:56:43.050Z,-0.57,122.235,35,6.08,mw,,,,,iscgem,iscgem848649,2022-04-26T23:22:34.811Z,"74 km NW of Luwuk, Indonesia",earthquake,,24.5,0.2,,reviewed,iscgem,iscgem
+1966-04-23T00:09:35.790Z,-0.711,122.191,20,6.55,mw,,,,,iscgem,iscgem848634,2022-04-26T23:22:32.187Z,"71 km WNW of Luwuk, Indonesia",earthquake,,3.8,0.28,,reviewed,iscgem,iscgem
+1966-03-08T06:00:07.510Z,1.742,126.337,35,5.62,mw,,,,,iscgem,iscgem849034,2022-04-26T23:23:14.902Z,"154 km E of Laikit, Laikit II (Dimembe), Indonesia",earthquake,,20.8,0.2,,reviewed,iscgem,iscgem
+1966-03-08T05:41:06.750Z,1.903,126.334,35,6.15,mw,,,,,iscgem,iscgem849033,2022-04-26T23:23:09.366Z,"158 km ENE of Laikit, Laikit II (Dimembe), Indonesia",earthquake,,20,0.25,,reviewed,iscgem,iscgem
+1966-02-13T06:36:01.150Z,-6.561,132.642,35,5.95,mw,,,,,iscgem,iscgem850145,2022-04-26T23:27:03.983Z,"103 km S of Tual, Indonesia",earthquake,,4.8,0.24,,reviewed,iscgem,iscgem
+1966-02-09T07:18:50.300Z,-9.851,116.376,45,5.79,mw,,,,,iscgem,iscgem850037,2022-04-26T23:26:54.257Z,"127 km S of Praya, Indonesia",earthquake,,31.9,0.45,,reviewed,iscgem,iscgem
+1966-02-03T05:48:11.110Z,0.211,123.555,158.6,5.71,mw,,,,,iscgem,iscgem849825,2022-04-26T23:25:44.042Z,"65 km ESE of Gorontalo, Indonesia",earthquake,,5.1,0.44,,reviewed,iscgem,iscgem
+1966-01-11T03:10:54.880Z,0.586,120.141,35,5.9,mw,,,,,iscgem,iscgem850772,2022-04-26T23:27:55.972Z,"167 km N of Palu, Indonesia",earthquake,,9.3,0.42,,reviewed,iscgem,iscgem
+1965-12-15T08:22:22.120Z,-0.01,123.599,145,5.55,mw,,,,,iscgem,iscgem851756,2022-04-26T23:29:55.600Z,"85 km SE of Gorontalo, Indonesia",earthquake,,6.2,0.5,,reviewed,iscgem,iscgem
+1965-12-13T03:44:48.700Z,-5.803,133.675,15,5.71,mw,,,,,iscgem,iscgem851697,2022-04-26T23:29:40.914Z,"104 km E of Tual, Indonesia",earthquake,,11.9,0.3,,reviewed,iscgem,iscgem
+1965-11-29T13:47:18.270Z,0.034,123.476,175.9,5.54,mw,,,,,iscgem,iscgem852765,2022-04-26T23:31:48.696Z,"72 km SE of Gorontalo, Indonesia",earthquake,,5.5,0.24,,reviewed,iscgem,iscgem
+1965-11-28T21:31:45.810Z,-4.841,103.103,60,5.85,mw,,,,,iscgemsup,iscgemsup852752,2022-05-09T19:22:00.602Z,"southern Sumatra, Indonesia",earthquake,,9.9,0.98,,reviewed,iscgemsup,iscgemsup
+1965-11-23T16:31:06.880Z,-8.666,111.103,55,5.76,mw,,,,,iscgem,iscgem852636,2022-04-26T23:31:34.631Z,"86 km S of Jatiroto, Indonesia",earthquake,,14.7,0.25,,reviewed,iscgem,iscgem
+1965-11-23T01:17:30.570Z,2.983,124.831,20,6.2,mw,,,,,iscgem,iscgem852620,2022-04-26T23:31:27.576Z,"165 km N of Manado, Indonesia",earthquake,,25,0.28,,reviewed,iscgem,iscgem
+1965-11-21T10:31:55.460Z,-6.193,130.402,133.3,6.55,mw,,,,,iscgem,iscgem852583,2022-04-26T23:31:14.702Z,"267 km WSW of Tual, Indonesia",earthquake,,4.9,0.1,,reviewed,iscgem,iscgem
+1965-11-20T16:06:11.670Z,-5.13,102.15,30.4,5.55,mw,,,,,iscgem,iscgem852558,2022-04-26T23:31:13.004Z,"147 km S of Bengkulu, Indonesia",earthquake,,7.2,0.68,,reviewed,iscgem,iscgem
+1965-11-20T15:05:42.160Z,-7.225,129.12,147.9,5.83,mw,,,,,iscgem,iscgem852557,2022-04-26T23:31:11.640Z,"Kepulauan Babar, Indonesia",earthquake,,4.6,0.66,,reviewed,iscgem,iscgem
+1965-11-18T17:17:20.160Z,-7.058,129.347,160,5.6,mw,,,,,iscgem,iscgem852520,2022-04-26T23:30:46.459Z,"Kepulauan Babar, Indonesia",earthquake,,3.8,0.23,,reviewed,iscgem,iscgem
+1965-10-28T08:58:27.640Z,-1.257,127.735,25,5.59,mw,,,,,iscgemsup,iscgemsup853445,2022-05-09T19:22:01.756Z,"221 km S of Sofifi, Indonesia",earthquake,,12.4,0.84,,reviewed,iscgemsup,iscgemsup
+1965-10-27T15:40:58.480Z,1.04,127.056,100,5.53,mw,,,,,iscgem,iscgem853428,2022-04-26T23:33:13.054Z,"Halmahera, Indonesia",earthquake,,27.1,0.25,,reviewed,iscgem,iscgem
+1965-10-24T14:32:11.580Z,4.203,125.787,145.1,5.88,mw,,,,,iscgem,iscgem853357,2022-04-26T23:33:08.233Z,"137 km SSE of Sarangani, Philippines",earthquake,,5,0.1,,reviewed,iscgem,iscgem
+1965-10-18T21:50:07.210Z,-1.28,127.725,25,6.31,mw,,,,,iscgem,iscgem853224,2022-04-26T23:32:55.409Z,"223 km S of Sofifi, Indonesia",earthquake,,3.5,0.27,,reviewed,iscgem,iscgem
+1965-10-16T08:22:55.920Z,3.113,128.558,192.4,5.73,mw,,,,,iscgem,iscgem853158,2022-04-26T23:32:44.600Z,"164 km NNE of Tobelo, Indonesia",earthquake,,5.4,0.45,,reviewed,iscgem,iscgem
+1965-10-05T00:52:52.390Z,-5.749,130.552,100,5.55,mw,,,,,iscgem,iscgem852899,2022-04-26T23:32:16.003Z,"244 km W of Tual, Indonesia",earthquake,,48.8,0.34,,reviewed,iscgem,iscgem
+1965-09-22T09:35:27.400Z,-1.27,134.023,16.4,5.53,mw,,,,,iscgem,iscgem854030,2022-04-26T23:34:10.301Z,"45 km S of Manokwari, Indonesia",earthquake,,12.1,0.51,,reviewed,iscgem,iscgem
+1965-08-30T18:09:44.240Z,-6.428,104.667,55,5.71,mw,,,,,iscgemsup,iscgemsup855043,2022-05-09T19:22:15.147Z,"128 km SSW of Bandar Lampung, Indonesia",earthquake,,15.2,1.4,,reviewed,iscgemsup,iscgemsup
+1965-08-21T15:04:20.960Z,-5.921,103.993,45,5.62,mw,,,,,iscgem,iscgem854827,2022-04-26T23:36:21.207Z,"150 km WSW of Bandar Lampung, Indonesia",earthquake,,9.7,0.65,,reviewed,iscgem,iscgem
+1965-08-20T05:54:51.410Z,-5.714,128.493,330,6.71,mw,,,,,iscgem,iscgem854799,2022-04-26T23:36:18.595Z,"225 km S of Ambon, Indonesia",earthquake,,5.2,0.1,,reviewed,iscgem,iscgem
+1965-08-17T10:35:06.580Z,4.93,95.844,35,6.14,mw,,,,,iscgem,iscgem854696,2022-04-26T23:36:11.844Z,"51 km SSW of Sigli, Indonesia",earthquake,,8.6,0.2,,reviewed,iscgem,iscgem
+1965-07-28T22:29:09.350Z,-2.335,101.767,140,5.63,mw,,,,,iscgem,iscgem855664,2022-04-26T23:37:22.501Z,"51 km SE of Sungai Penuh, Indonesia",earthquake,,4.7,0.56,,reviewed,iscgem,iscgem
+1965-07-25T03:40:45.620Z,1.831,99.217,130,5.51,mw,,,,,iscgem,iscgem855580,2022-04-26T23:37:17.259Z,"49 km ENE of Sibolga, Indonesia",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1965-07-07T23:00:00.280Z,-6.819,105.505,35,5.68,mw,,,,,iscgem,iscgem855208,2022-04-26T23:36:46.945Z,"60 km SW of Labuan, Indonesia",earthquake,,30.3,0.39,,reviewed,iscgem,iscgem
+1965-06-30T02:53:16.540Z,-1.734,126.53,30,5.85,mw,,,,,iscgem,iscgem856531,2022-04-26T23:38:50.825Z,"284 km NW of Ambon, Indonesia",earthquake,,3.4,0.2,,reviewed,iscgem,iscgem
+1965-06-05T03:49:03.480Z,-1.649,126.552,20,5.62,mw,,,,,iscgem,iscgem855868,2022-04-26T23:37:38.935Z,"285 km SSW of Ternate, Indonesia",earthquake,,3.4,0.2,,reviewed,iscgem,iscgem
+1965-05-31T11:38:31.470Z,-7.543,128.554,60,5.9,mw,,,,,iscgem,iscgem857305,2022-04-26T23:40:24.767Z,"202 km ENE of Lospalos, Timor Leste",earthquake,,17.1,0.2,,reviewed,iscgem,iscgem
+1965-05-22T03:05:46.410Z,1.309,126.239,35,5.67,mw,,,,,iscgem,iscgem857068,2022-04-26T23:40:09.366Z,"139 km WNW of Ternate, Indonesia",earthquake,,22.4,0.25,,reviewed,iscgem,iscgem
+1965-05-19T06:03:56.250Z,-6.575,105.311,35,5.62,mw,,,,,iscgem,iscgem856984,2022-04-26T23:40:05.841Z,"61 km WSW of Labuan, Indonesia",earthquake,,17.8,0.64,,reviewed,iscgem,iscgem
+1965-05-18T08:14:32.240Z,0.162,123.771,124,5.47,mw,,,,,iscgem,iscgem856938,2022-04-26T23:40:02.176Z,"89 km ESE of Gorontalo, Indonesia",earthquake,,26.4,0.41,,reviewed,iscgem,iscgem
+1965-05-16T11:35:47.430Z,5.268,125.467,35,5.9,mw,,,,,iscgem,iscgem856902,2022-04-26T23:39:56.186Z,"14 km S of Sarangani, Philippines",earthquake,,4.8,0.2,,reviewed,iscgem,iscgem
+1965-05-15T23:58:36.100Z,-4.131,134.946,25,5.85,mw,,,,,iscgem,iscgem856887,2022-04-26T23:39:49.924Z,"105 km SW of Nabire, Indonesia",earthquake,,10.2,0.2,,reviewed,iscgem,iscgem
+1965-05-12T10:33:47.260Z,-6.174,130.358,153.1,6.06,mw,,,,,iscgem,iscgem856810,2022-04-26T23:39:46.022Z,"271 km WSW of Tual, Indonesia",earthquake,,5.4,0.47,,reviewed,iscgem,iscgem
+1965-05-12T08:05:56.040Z,-3.523,137.924,50,5.72,mw,,,,,iscgem,iscgem856806,2022-04-26T23:39:43.505Z,"269 km E of Nabire, Indonesia",earthquake,,20.2,0.2,,reviewed,iscgem,iscgem
+1965-04-29T15:48:55.920Z,-5.548,110.332,480,5.98,mw,,,,,iscgemsup,iscgemsup858144,2022-05-09T19:22:21.175Z,"111 km NNW of Batang, Indonesia",earthquake,,23,1.05,,reviewed,iscgemsup,iscgemsup
+1965-04-27T10:54:32.900Z,-6.949,129.605,110,5.92,mw,,,,,iscgem,iscgem858070,2022-04-26T23:41:42.503Z,"Banda Sea",earthquake,,30.2,0.21,,reviewed,iscgem,iscgem
+1965-04-26T09:47:29.090Z,-1.733,126.568,25,5.71,mw,,,,,iscgem,iscgem858039,2022-04-26T23:41:38.812Z,"281 km NW of Ambon, Indonesia",earthquake,,3.4,0.3,,reviewed,iscgem,iscgem
+1965-04-19T08:06:02.040Z,1.658,98.296,56.2,5.63,mw,,,,,iscgem,iscgem857868,2022-04-26T23:41:28.384Z,"54 km W of Sibolga, Indonesia",earthquake,,5.4,0.41,,reviewed,iscgem,iscgem
+1965-04-06T09:42:29.230Z,-0.463,120.039,25,6.15,mw,,,,,iscgem,iscgem857510,2022-04-26T23:40:55.765Z,"52 km NNE of Palu, Indonesia",earthquake,,19.8,0.25,,reviewed,iscgem,iscgem
+1965-03-27T23:56:57.210Z,-2.662,126.06,15,5.55,mw,,,,,iscgem,iscgem858924,2022-04-26T23:43:25.312Z,"262 km WNW of Ambon, Indonesia",earthquake,,17.6,0.38,,reviewed,iscgem,iscgem
+1965-03-21T11:08:19.420Z,-1.547,126.623,28.9,6.29,mw,,,,,iscgem,iscgem858755,2022-04-26T23:43:15.121Z,"272 km SSW of Ternate, Indonesia",earthquake,,4,0.21,,reviewed,iscgem,iscgem
+1965-03-19T22:58:36.830Z,-0.031,123.438,173.6,5.51,mw,,,,,iscgem,iscgem858729,2022-04-26T23:43:14.002Z,"75 km SSE of Gorontalo, Indonesia",earthquake,,17.8,0.35,,reviewed,iscgem,iscgem
+1965-03-19T16:20:53.230Z,-1.887,119.836,40,6.05,mw,,,,,iscgem,iscgem858722,2022-04-26T23:43:12.887Z,"108 km S of Palu, Indonesia",earthquake,,5,0.24,,reviewed,iscgem,iscgem
+1965-03-05T10:03:33.810Z,-5.287,134.257,15,5.53,mw,,,,,iscgem,iscgem858347,2022-04-26T23:42:26.733Z,"170 km ENE of Tual, Indonesia",earthquake,,25,0.51,,reviewed,iscgem,iscgem
+1965-02-18T22:39:48.390Z,-7.251,126.715,35,5.92,mw,,,,,iscgem,iscgem860339,2022-04-26T23:47:37.778Z,"138 km NNE of Baukau, Timor Leste",earthquake,,25,0.33,,reviewed,iscgem,iscgem
+1965-02-15T10:43:29.100Z,3.026,125.951,100,5.93,mw,,,,,iscgemsup,iscgemsup860207,2022-05-09T19:13:39.589Z,"201 km NNE of Laikit, Laikit II (Dimembe), Indonesia",earthquake,,5,0.76,,reviewed,iscgemsup,iscgemsup
+1965-01-24T02:31:18.780Z,-2.6,126.004,11.9,5.62,mw,,,,,iscgem,iscgem861305,2022-04-26T23:50:06.730Z,"270 km WNW of Ambon, Indonesia",earthquake,,17.6,0.4,,reviewed,iscgem,iscgem
+1965-01-24T00:11:17.260Z,-2.608,125.952,20,8.2,mw,,,,,iscgem,iscgem861299,2022-04-26T23:50:01.288Z,"275 km WNW of Ambon, Indonesia",earthquake,,17.6,0.3,,reviewed,iscgem,iscgem
+1965-01-17T20:57:41.270Z,-6.807,108.988,227.9,5.89,mw,,,,,iscgem,iscgem861155,2022-04-26T23:49:45.410Z,"8 km NNE of Bulakamba, Indonesia",earthquake,,5.3,0.63,,reviewed,iscgem,iscgem
+1965-01-05T00:51:32.710Z,-7.366,106.637,71.3,5.51,mw,,,,,iscgem,iscgem860749,2022-04-26T23:48:28.569Z,"42 km SSE of Pelabuhanratu, Indonesia",earthquake,,22.7,0.2,,reviewed,iscgem,iscgem
+1965-01-04T11:29:49.500Z,1.863,127.352,80,5.76,mw,,,,,iscgem,iscgem860737,2022-04-26T23:48:26.514Z,"74 km WNW of Tobelo, Indonesia",earthquake,,15.4,0.31,,reviewed,iscgem,iscgem
+1964-12-15T05:06:23.630Z,2.268,126.559,35,5.59,mw,,,,,iscgem,iscgem861899,2022-04-26T23:51:17.129Z,"172 km WNW of Tobelo, Indonesia",earthquake,,18,0.2,,reviewed,iscgem,iscgem
+1964-11-25T09:24:10.830Z,-4.361,122.157,617.5,6.02,mw,,,,,iscgem,iscgem863039,2022-04-26T23:54:26.447Z,"58 km SW of Kendari, Indonesia",earthquake,,7.6,0.1,,reviewed,iscgem,iscgem
+1964-11-24T10:41:32.820Z,-6.845,107.244,110,5.81,mw,,,,,iscgemsup,iscgemsup863009,2022-05-09T19:22:28.971Z,"3 km SSW of Ciranjang-hilir, Indonesia",earthquake,,4.8,0.97,,reviewed,iscgemsup,iscgemsup
+1964-11-23T22:15:49.530Z,-0.235,124.327,75,5.66,mw,,,,,iscgem,iscgem862992,2022-04-26T23:54:15.160Z,"164 km ESE of Gorontalo, Indonesia",earthquake,,5.4,0.64,,reviewed,iscgem,iscgem
+1964-11-21T02:16:45.950Z,1.049,123.948,247.5,5.51,mw,,,,,iscgem,iscgem862899,2022-04-26T23:54:12.187Z,"99 km WSW of Tomohon, Indonesia",earthquake,,6.4,0.69,,reviewed,iscgem,iscgem
+1964-11-16T22:40:46.420Z,0.983,118.932,35,5.74,mw,,,,,iscgem,iscgem862786,2022-04-26T23:53:39.801Z,"186 km ENE of Bontang, Indonesia",earthquake,,25,0.27,,reviewed,iscgem,iscgem
+1964-11-07T18:37:45.760Z,0.236,99.954,100,6.1,mw,,,,,iscgem,iscgem862538,2022-04-26T23:52:43.514Z,"76 km NW of Bukittinggi, Indonesia",earthquake,,39.1,0.2,,reviewed,iscgem,iscgem
+1964-11-03T12:43:05.800Z,0.047,123.755,145.7,5.53,mw,,,,,iscgem,iscgem862437,2022-04-26T23:52:15.646Z,"94 km SE of Gorontalo, Indonesia",earthquake,,6.3,0.25,,reviewed,iscgem,iscgem
+1964-11-01T12:26:07.000Z,3.131,128.096,60,5.87,mw,,,,,iscgem,iscgem862370,2022-04-26T23:52:03.493Z,"155 km N of Tobelo, Indonesia",earthquake,,5.1,0.2,,reviewed,iscgem,iscgem
+1964-10-26T14:22:57.890Z,2.011,126.678,35,5.69,mw,,,,,iscgem,iscgem863876,2022-04-26T23:57:02.836Z,"151 km WNW of Tobelo, Indonesia",earthquake,,20,0.35,,reviewed,iscgem,iscgem
+1964-10-18T12:32:26.290Z,-7.22,123.832,586.3,6.94,mw,,,,,iscgem,iscgem863666,2022-04-26T23:56:05.758Z,"215 km NW of Maubara, Timor Leste",earthquake,,6.8,0.1,,reviewed,iscgem,iscgem
+1964-10-17T03:17:27.120Z,0.637,119.263,35,5.69,mw,,,,,iscgem,iscgem863615,2022-04-26T23:55:58.732Z,"183 km NNW of Palu, Indonesia",earthquake,,7.9,0.51,,reviewed,iscgem,iscgem
+1964-10-12T15:42:56.210Z,2.994,126.532,60,5.96,mw,,,,,iscgem,iscgem863462,2022-04-26T23:55:22.301Z,"215 km NW of Tobelo, Indonesia",earthquake,,5.1,0.2,,reviewed,iscgem,iscgem
+1964-10-11T21:15:04.770Z,-0.639,121.632,25,6.21,mw,,,,,iscgem,iscgem863441,2022-04-26T23:55:20.976Z,"128 km NE of Poso, Indonesia",earthquake,,4.5,0.2,,reviewed,iscgem,iscgem
+1964-09-15T05:37:52.600Z,-0.11,124.624,75,5.73,mw,,,,,iscgem,iscgem864409,2022-04-26T23:58:19.059Z,"159 km S of Tomohon, Indonesia",earthquake,,18.8,0.2,,reviewed,iscgem,iscgem
+1964-09-04T10:34:15.220Z,-3.952,131.478,35,6.1,mw,,,,,iscgem,iscgem864133,2022-04-26T23:57:38.203Z,"Ceram Sea, Indonesia",earthquake,,4.5,0.2,,reviewed,iscgem,iscgem
+1964-08-24T17:26:20.130Z,0.008,123.595,155,5.5,mw,,,,,iscgem,iscgem865392,2022-04-26T23:59:58.780Z,"83 km SE of Gorontalo, Indonesia",earthquake,,6.4,0.24,,reviewed,iscgem,iscgem
+1964-07-18T12:45:51.700Z,0.031,123.74,115,5.77,mw,,,,,iscgem,iscgem866128,2022-04-27T00:01:42.141Z,"93 km SE of Gorontalo, Indonesia",earthquake,,5.2,0.48,,reviewed,iscgem,iscgem
+1964-07-08T11:55:42.260Z,-5.581,129.768,190,6.9,mw,,,,,iscgem,iscgem865858,2022-04-27T00:01:02.483Z,"265 km SSE of Amahai, Indonesia",earthquake,,5.1,0.1,,reviewed,iscgem,iscgem
+1964-07-08T07:45:48.430Z,3.219,128.293,35,5.65,mw,,,,,iscgem,iscgem865851,2022-04-27T00:01:01.293Z,"167 km N of Tobelo, Indonesia",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1964-07-06T14:19:48.590Z,-6.908,129.711,110,5.62,mw,,,,,iscgem,iscgem865799,2022-04-27T00:00:58.870Z,"Banda Sea",earthquake,,30.2,0.43,,reviewed,iscgem,iscgem
+1964-06-30T13:46:21.400Z,-0.614,122.552,20,6.64,mw,,,,,iscgem,iscgem867344,2022-04-27T00:05:17.171Z,"45 km NW of Luwuk, Indonesia",earthquake,,35.9,0.2,,reviewed,iscgem,iscgem
+1964-06-15T00:05:34.380Z,5.223,96.742,35,6.23,mw,,,,,iscgem,iscgem866819,2022-04-27T00:04:12.726Z,"5 km ENE of Bireun, Indonesia",earthquake,,4.6,0.2,,reviewed,iscgem,iscgem
+1964-06-11T17:01:51.500Z,-2.142,140.911,20,6.04,mw,,,,,iscgem,iscgem866727,2022-04-27T00:03:53.080Z,"48 km NNE of Jayapura, Indonesia",earthquake,,14.7,0.2,,reviewed,iscgem,iscgem
+1964-06-10T22:16:40.940Z,5.031,127.34,92.5,5.95,mw,,,,,iscgemsup,iscgemsup866709,2022-05-09T19:22:30.911Z,"195 km SE of Pondaguitan, Philippines",earthquake,,4.9,1.13,,reviewed,iscgemsup,iscgemsup
+1964-06-10T19:48:31.670Z,-6.206,104.86,80,5.69,mw,,,,,iscgem,iscgem866708,2022-04-27T00:03:44.222Z,"96 km SSW of Bandar Lampung, Indonesia",earthquake,,25.5,0.2,,reviewed,iscgem,iscgem
+1964-05-28T23:28:31.900Z,1.623,127.145,125,5.93,mw,,,,,iscgem,iscgem868116,2022-04-27T00:08:24.942Z,"95 km NNW of Ternate, Indonesia",earthquake,,31.1,0.35,,reviewed,iscgem,iscgem
