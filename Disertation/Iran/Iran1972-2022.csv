@@ -1,0 +1,66 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-01T23:25:13.465Z,26.8878,55.3213,9,6,mwb,379,20,2.091,0.6,us,us6000hz9v,2024-01-18T16:38:57.725Z,"57 km NE of Bandar-e Lengeh, Iran",earthquake,7.08,1.722,0.028,126,reviewed,us,us
+2022-07-01T21:32:07.977Z,26.9061,55.2389,16,6,mww,191,19,2.137,0.67,us,us6000hz8x,2022-09-03T21:03:27.040Z,"52 km NE of Bandar-e Lengeh, Iran",earthquake,7.1,1.707,0.057,30,reviewed,us,us
+2021-11-14T12:08:38.812Z,27.7266,56.0716,10,6.4,mwb,,52,2.772,0.9,us,us7000fu12,2022-07-01T23:37:15.394Z,"63 km NNW of Bandar Abbas, Iran",earthquake,7.4,1.8,0.029,118,reviewed,us,us
+2021-11-14T12:07:03.595Z,27.7158,56.0743,9,6,mwb,,32,2.761,0.75,us,us7000fu0x,2022-01-22T20:51:51.040Z,"62 km NNW of Bandar Abbas, Iran",earthquake,7.3,1.8,0.031,98,reviewed,us,us
+2020-02-23T16:00:31.626Z,38.4958,44.3732,10,6,mww,,18,1.049,0.92,us,us70007v9g,2022-03-10T05:06:48.661Z,"37 km ESE of Özalp, Turkey",earthquake,3.5,1.8,0.05,38,reviewed,us,us
+2018-11-25T16:37:32.830Z,34.3609,45.7443,18,6.3,mww,,22,0.754,0.86,us,us1000hwdw,2023-10-20T08:36:59.937Z,"15 km SW of Sarpol-e Z?ah?b, Iran",earthquake,5.7,1.8,0.059,28,reviewed,us,us
+2018-08-25T22:13:25.620Z,34.6111,46.2422,10,6,mww,,28,0.662,0.79,us,us1000ghda,2023-10-20T08:39:32.454Z,"32 km SW of Jav?nr?d, Iran",earthquake,6,1.8,0.065,23,reviewed,us,us
+2017-12-12T21:41:31.140Z,30.8275,57.2982,8,6,mww,,24,5.477,0.78,us,us2000c3mi,2022-08-07T22:08:55.465Z,"63 km NNE of Kerman, Iran",earthquake,7.2,1.8,0.05,38,reviewed,us,us
+2017-12-12T08:43:18.320Z,30.7372,57.2795,12,6,mww,,49,5.549,0.79,us,us2000c3ag,2022-05-03T19:52:39.469Z,"53 km NNE of Kerman, Iran",earthquake,7.3,1.8,0.052,35,reviewed,us,us
+2017-12-01T02:32:46.040Z,30.7464,57.307,9,6.1,mww,,23,5.526,0.89,us,us1000bjnz,2022-08-07T21:46:20.750Z,"55 km NNE of Kerman, Iran",earthquake,7.1,1.7,0.06,27,reviewed,us,us
+2017-11-12T18:18:17.180Z,34.9109,45.9592,19,7.3,mww,,33,0.284,1.29,us,us2000bmcg,2023-10-20T08:36:14.044Z,"29 km S of ?alabja, Iraq",earthquake,4.9,1.7,0.044,50,reviewed,us,us
+2017-04-05T06:09:12.200Z,35.7755,60.4363,13,6.1,mww,,43,2.029,1.07,us,us10008ei0,2022-05-03T19:41:10.926Z,"61 km NNW of Torbat-e J?m, Iran",earthquake,4.9,1.7,0.05,38,reviewed,us,us
+2017-02-07T22:03:56.390Z,25.1912,63.2644,29.07,6.3,mww,,28,4.655,0.76,us,us20008ic7,2022-05-03T19:52:26.476Z,"22 km WSW of Pasni, Pakistan",earthquake,7.5,3.3,,,reviewed,us,us
+2014-08-18T18:08:22.750Z,32.5827,47.7037,5,6,mww,,29,6.858,0.63,us,usb000s3t7,2022-07-26T22:39:15.231Z,"42 km ESE of Dehlor?n, Iran",earthquake,,1.7,,,reviewed,us,us
+2014-08-18T02:32:05.350Z,32.703,47.695,10.2,6.2,mww,,,,0.46,us,usb000s3np,2022-07-26T22:35:15.173Z,"40 km E of Dehlor?n, Iran",earthquake,,3,,,reviewed,teh,us
+2013-05-11T02:08:08.500Z,26.56,57.77,15,6.1,mww,351,33.1,,,us,usc000gtvs,2022-07-25T02:01:04.711Z,"92 km SE of M?n?b, Iran",earthquake,,,,,reviewed,thr,us
+2013-04-16T10:44:20.180Z,28.033,61.996,80,7.7,mww,506,26.6,,1.09,us,usb000g7x7,2022-07-24T23:40:43.236Z,"79 km ESE of Kh?sh, Iran",earthquake,,,,,reviewed,us,us
+2013-04-09T11:52:49.920Z,28.428,51.593,12,6.4,mww,427,20.6,,0.83,us,usb000g2y5,2022-08-06T14:45:16.847Z,"95 km SE of Bushehr, Iran",earthquake,,,,,reviewed,us,us
+2012-08-11T12:34:35.900Z,38.389,46.745,12,6.2,mww,522,19.9,,0.98,us,usp000jq5r,2022-05-03T16:56:39.289Z,"30 km WSW of Ahar, Iran",earthquake,,,,,reviewed,us,us
+2012-08-11T12:23:18.190Z,38.329,46.826,11,6.4,mww,510,21.2,,1.23,us,usp000jq5p,2022-05-03T16:44:12.644Z,"26 km SW of Ahar, Iran",earthquake,,,,,reviewed,us,us
+2011-01-27T08:38:28.340Z,28.195,59.015,10,6.2,mww,296,24.1,,1.05,us,usp000htpz,2022-07-19T03:06:05.439Z,"119 km SSE of Bam, Iran",earthquake,,,,,reviewed,us,us
+2010-12-20T18:41:59.200Z,28.412,59.18,12,6.7,mwc,279,24.3,,1.21,us,usp000hr7k,2022-07-19T01:38:06.287Z,"111 km SE of Bam, Iran",earthquake,,,,,reviewed,us,us
+2008-09-10T11:00:34.090Z,26.743,55.828,12,6.1,mwc,500,20.3,,1,us,usp000ggsg,2022-05-02T21:03:00.462Z,"49 km WSW of Qeshm, Iran",earthquake,,,,,reviewed,us,gcmt
+2006-03-31T01:17:00.960Z,33.5,48.78,7,6.1,mwc,586,28.6,,1.06,us,usp000edad,2022-07-14T12:04:18.568Z,"18 km SW of Azn?, Iran",earthquake,,,,,reviewed,us,hrv
+2006-02-28T07:31:02.650Z,28.12,56.865,18,6,mwb,480,33.4,,1.26,us,usp000eb19,2022-05-02T18:13:35.638Z,"111 km NNW of M?n?b, Iran",earthquake,,,,,reviewed,us,us
+2005-03-13T03:31:23.080Z,27.095,61.887,54,6,mwb,591,26.6,,0.9,us,usp000dj38,2022-05-02T17:50:07.349Z,"119 km E of Iranshahr, Iran",earthquake,,,,,reviewed,us,us
+2005-02-22T02:25:22.920Z,30.754,56.816,14,6.4,mwc,652,27.7,,1.31,us,usp000dgpx,2022-07-14T17:58:16.794Z,"24 km ESE of Zarand, Iran",earthquake,,,,,reviewed,us,hrv
+2004-05-28T12:38:44.470Z,36.29,51.61,17,6.3,mwc,732,21.5,,0.92,us,usp000cwf9,2022-05-02T17:12:45.251Z,"41 km SSE of Nowshahr, Iran",earthquake,,,,,reviewed,us,hrv
+2003-12-26T01:56:52.440Z,28.995,58.311,10,6.6,mwc,552,44.8,,1.11,us,usp000cg2d,2022-05-02T16:57:05.773Z,"13 km SSW of Bam, Iran",earthquake,,,,,reviewed,us,hrv
+2002-06-22T02:58:21.300Z,35.626,49.047,10,6.5,mwc,555,,,1.11,us,usp000b6pk,2022-05-02T16:01:41.789Z,"59 km SSW of Abhar, Iran",earthquake,,,,,reviewed,us,hrv
+1999-05-06T23:00:53.120Z,29.501,51.88,33,6.2,mwc,,,,0.99,us,usp00097fp,2022-04-29T18:23:58.465Z,"25 km ESE of K?zer?n, Iran",earthquake,,,,,reviewed,us,hrv
+1999-03-04T05:38:26.520Z,28.343,57.193,33,6.6,mwc,,,,0.92,us,usp00093tj,2022-04-29T18:03:06.918Z,"110 km SSE of K?h Sef?d, Iran",earthquake,,,,,reviewed,us,hrv
+1998-07-09T14:19:18.410Z,38.717,48.507,26,6,mwc,,,,0.98,us,usp0008r85,2022-04-29T17:34:17.226Z,"10 km SE of Lerik, Azerbaijan",earthquake,,,,,reviewed,us,hrv
+1998-03-14T19:40:27.050Z,30.154,57.605,9,6.6,mwc,,,,1.2,us,usp0008hg7,2022-04-29T17:21:21.057Z,"52 km ESE of Kerman, Iran",earthquake,,,,,reviewed,us,hrv
+1997-05-10T07:57:29.720Z,33.825,59.809,10,7.3,mwb,,,,1.12,us,usp000820p,2022-04-29T16:53:18.341Z,"58 km E of Q?’en, Iran",earthquake,,,,,reviewed,us,us
+1997-02-28T12:57:18.640Z,38.075,48.05,10,6.1,mwc,,,,1.14,us,usp0007y0b,2022-04-29T16:43:53.834Z,"24 km SSW of Om?dcheh, Iran",earthquake,,,,,reviewed,us,hrv
+1997-02-04T10:37:47.140Z,37.661,57.291,10,6.5,mwc,,,,1.14,us,usp0007wrr,2022-04-29T16:42:51.110Z,"Turkmenistan-Iran border region",earthquake,,,,,reviewed,us,hrv
+1994-03-01T03:49:00.830Z,29.096,52.617,12.9,6.1,mw,,,,1.1,us,usp000693t,2022-04-28T17:47:09.374Z,"22 km SW of Akbar?b?d, Iran",earthquake,,,,,reviewed,us,hrv
+1994-02-26T02:31:11.090Z,30.897,60.549,9.4,6.1,mw,,,,1.2,us,usp0006907,2022-04-28T17:51:27.733Z,"91 km W of Z?bol, Iran",earthquake,,,,,reviewed,us,hrv
+1994-02-24T00:11:12.320Z,30.775,60.495,9.6,6.3,mw,,,,0.9,us,usp00068xd,2022-04-28T17:51:22.885Z,"99 km WSW of Z?bol, Iran",earthquake,,,,,reviewed,us,hrv
+1994-02-23T08:02:04.720Z,30.853,60.596,6,6.1,mw,,,,1,us,usp00068wd,2022-04-28T17:51:10.388Z,"88 km WSW of Z?bol, Iran",earthquake,,,,,reviewed,us,hrv
+1990-11-06T18:45:52.230Z,28.251,55.462,10.6,6.6,mw,,,,1,us,usp0004gkf,2022-04-28T19:33:06.147Z,"105 km ESE of D?r?b, Iran",earthquake,,,,,reviewed,us,hrv
+1990-06-20T21:00:09.980Z,36.957,49.409,18.5,7.4,mw,,,,1.2,us,usp0004arq,2022-04-28T19:47:30.083Z,"23 km N of P?deg?n-e Manj?l, Iran",earthquake,,,,,reviewed,us,hrv
+1990-01-20T01:27:09.800Z,35.832,52.954,24.5,6,mw,,,,1,us,usp00044fv,2022-04-28T20:02:33.062Z,"36 km E of Soleh Bon, Iran",earthquake,,,,,reviewed,us,hrv
+1989-12-07T12:59:33.560Z,25.917,58.971,15.6,6,mw,,,,1.2,us,usp00042ud,2022-04-28T20:03:51.164Z,"98 km SW of Fann?j, Iran",earthquake,,,,,reviewed,us,hrv
+1989-05-27T20:08:37.310Z,30.167,50.921,30.5,6,mw,,,,1,us,usp0003vq3,2022-04-28T20:19:09.083Z,"24 km SSE of Dogonbadan, Iran",earthquake,,5.3,,,reviewed,us,hrv
+1988-08-11T16:04:45.610Z,29.974,51.679,33,6.1,mw,,,,1.3,us,usp0003jw2,2022-04-28T20:37:46.474Z,"21 km SE of N?r?b?d, Iran",earthquake,,,,,reviewed,us,hrv
+1985-10-29T13:13:44.620Z,36.681,54.75,52.9,6.3,mw,,,,1,us,usp0002m8u,2022-04-27T22:35:07.999Z,"21 km SE of Qarn?b?d, Iran",earthquake,,4.5,,,reviewed,us,nc
+1983-04-18T10:58:51.260Z,27.793,62.054,64,7,mw,,,,1.2,us,usp0001uj8,2022-04-28T00:07:26.078Z,"95 km ESE of Kh?sh, Iran",earthquake,,3.2,,,reviewed,us,nc
+1981-07-28T17:22:24.620Z,30.013,57.794,33,7.1,ms,,,,1.2,us,usp0001ezf,2022-04-27T23:02:18.160Z,"75 km ESE of Kerman, Iran",earthquake,,,,13,reviewed,us,us
+1981-06-11T07:24:25.230Z,29.913,57.715,33,6.7,ms,,,,1,us,usp0001e35,2022-04-28T01:02:39.264Z,"73 km SE of Kerman, Iran",earthquake,,,,20,reviewed,us,us
+1980-05-04T18:35:20.400Z,38.053,48.985,46,6.2,ms,,,,,us,usp0001720,2022-04-28T01:35:49.960Z,"29 km NNE of Hashtpar, Iran",earthquake,,,,,reviewed,us,us
+1979-12-07T09:24:00.200Z,34.033,59.817,31,6,ms,,,,,us,usp00014c8,2022-04-27T14:43:02.937Z,"67 km ENE of Q?’en, Iran",earthquake,,,,,reviewed,us,us
+1979-11-27T17:10:32.900Z,33.962,59.726,10,7.1,ms,,,,,us,usp000147t,2022-04-27T14:49:38.489Z,"56 km ENE of Q?’en, Iran",earthquake,,,,,reviewed,us,us
+1979-11-14T02:21:22.100Z,33.918,59.741,33,6.6,ms,,,,,us,usp000140d,2022-04-27T14:47:59.375Z,"55 km ENE of Q?’en, Iran",earthquake,,,,,reviewed,us,us
+1979-01-16T09:50:10.100Z,33.897,59.472,33,6.7,ms,,,,,us,usp0000yf2,2022-04-27T15:16:41.949Z,"32 km NE of Q?’en, Iran",earthquake,,,,,reviewed,us,us
+1978-12-14T07:05:20.600Z,32.139,49.646,33,6.2,ms,,,,,us,usp0000xxb,2022-04-27T15:19:16.245Z,"39 km NE of Masjed Soleym?n, Iran",earthquake,,,,,reviewed,us,us
+1978-11-04T15:22:19.300Z,37.674,48.901,34,6.1,mb,,,,,us,usp0000x8y,2022-04-27T15:21:08.361Z,"13 km S of Hashtpar, Iran",earthquake,,,,,reviewed,us,us
+1978-09-16T15:35:56.600Z,33.386,57.434,33,7.4,ms,,,,,us,usp0000wjx,2022-04-27T15:26:58.855Z,"52 km ESE of Tabas, Iran",earthquake,,,,,reviewed,us,us
+1977-04-01T13:36:24.700Z,27.545,56.329,29,6.2,mb,,,,,us,usp0000n7n,2022-04-27T16:27:54.175Z,"40 km N of Bandar Abbas, Iran",earthquake,,,,,reviewed,us,us
+1977-03-21T21:18:54.200Z,27.609,56.393,29,6.9,ms,,,,,us,usp0000n1c,2022-04-27T16:33:55.102Z,"48 km NNE of Bandar Abbas, Iran",earthquake,,,,,reviewed,us,us
+1976-11-07T04:00:51.600Z,33.802,59.155,13,6.2,ms,,,,,us,usp0000k7t,2022-04-27T16:46:04.508Z,"8 km NNW of Q?’en, Iran",earthquake,,,,,reviewed,us,us
+1976-04-22T17:03:07.900Z,28.714,52.128,24,6,mb,,,,,us,usp0000g09,2022-04-27T15:44:22.592Z,"45 km WSW of F?r?z?b?d, Iran",earthquake,,,,,reviewed,us,us
+1975-03-07T07:04:42.600Z,27.497,56.26,27,6.1,ms,,,,,us,usp0000a50,2022-04-27T17:49:33.458Z,"34 km N of Bandar Abbas, Iran",earthquake,,,,,reviewed,us,us
+1972-04-10T02:06:51.850Z,28.415,52.765,10,6.6,mw,,,,,iscgem,iscgem774291,2022-04-26T20:52:21.494Z,"51 km SSE of F?r?z?b?d, Iran",earthquake,,3.8,0.2,,reviewed,iscgem,iscgem
