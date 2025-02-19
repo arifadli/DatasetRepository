@@ -1,0 +1,376 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-31T15:18:02.588Z,30.1555,57.6751,10,4.2,mb,80,62,5.352,0.58,us,us6000pgnx,2025-01-23T21:29:29.040Z,"59 km ESE of Kerman, Iran",earthquake,6.48,1.842,0.062,78,reviewed,us,us
+2024-12-23T06:31:52.077Z,27.3972,52.4805,10,4.1,mb,14,114,4.142,0.34,us,us6000phmz,2025-01-24T13:51:36.040Z,"43 km WSW of Mohr, Iran",earthquake,8.92,1.952,0.233,5,reviewed,us,us
+2024-12-21T07:10:15.578Z,26.8599,55.1583,10,4.8,mb,88,96,2.127,0.43,us,us7000p0kc,2025-01-11T13:42:03.868Z,"43 km NE of Bandar-e Lengeh, Iran",earthquake,8.79,1.875,0.06,86,reviewed,us,us
+2024-12-20T23:31:51.533Z,33.979,60.3844,10,4.3,mb,22,209,7.265,0.7,us,us7000p0i7,2025-01-13T02:34:07.040Z,"91 km SSW of Tāybād, Iran",earthquake,14.69,1.998,0.189,8,reviewed,us,us
+2024-12-20T23:01:54.465Z,39.7421,45.8729,8.254,4.4,mwr,39,51,0.514,0.52,us,us7000p0hz,2025-01-24T04:16:38.040Z,"20 km NNW of Angeghakot’, Armenia",earthquake,3.5,5.432,0.061,26,reviewed,us,us
+2024-12-20T13:45:19.572Z,31.6022,49.652,10,4.1,mb,23,208,4.733,0.84,us,us7000p0b0,2025-01-09T09:43:28.040Z,"36 km N of Rāmhormoz, Iran",earthquake,8.21,2,0.123,18,reviewed,us,us
+2024-12-13T18:28:15.318Z,36.2935,53.0388,10,4.7,mb,120,88,4.287,0.6,us,us7000nyjb,2025-02-18T20:02:58.040Z,"30 km S of Sari, Iran",earthquake,6.64,1.871,0.054,106,reviewed,us,us
+2024-12-09T04:27:05.381Z,30.2473,50.7665,10,4.2,mb,25,161,6.354,0.6,us,us7000p0db,2025-02-18T20:02:49.040Z,"12 km SSW of Dogonbadan, Iran",earthquake,11.99,1.972,0.136,15,reviewed,us,us
+2024-12-06T12:18:46.170Z,27.972,57.539,49.917,4.1,mb,36,88,3.243,0.64,us,us7000nwjs,2025-02-15T18:30:23.040Z,"103 km NNE of Mīnāb, Iran",earthquake,7.54,9.24,0.127,17,reviewed,us,us
+2024-12-05T17:38:46.403Z,28.4171,51.7405,10,4.4,mb,62,55,5.282,0.56,us,us7000nw71,2025-02-15T18:29:49.040Z,"93 km WSW of Fīrūzābād, Iran",earthquake,7,1.865,0.073,54,reviewed,us,us
+2024-12-05T13:42:24.289Z,28.3695,51.629,10,4.2,mb,23,101,5.327,0.76,us,us7000nw46,2025-02-15T18:29:46.040Z,"102 km SE of Bushehr, Iran",earthquake,9.63,1.948,0.124,18,reviewed,us,us
+2024-12-05T13:25:58.388Z,28.4397,51.8171,10,4.9,mb,91,55,5.245,0.58,us,us7000nw43,2025-02-15T18:29:45.040Z,"86 km WSW of Fīrūzābād, Iran",earthquake,7.44,1.842,0.049,134,reviewed,us,us
+2024-12-05T05:38:47.481Z,31.8637,49.5366,10,5,mww,166,59,4.491,0.59,us,us7000nw1s,2025-02-15T18:29:39.040Z,"23 km ESE of Masjed Soleymān, Iran",earthquake,9.85,1.861,0.073,18,reviewed,us,us
+2024-12-05T04:23:18.175Z,31.5833,49.4878,10,4.9,mb,113,68,4.64,0.92,us,us7000nw1i,2025-02-15T18:29:37.040Z,"35 km NNW of Rāmhormoz, Iran",earthquake,7.42,1.876,0.067,69,reviewed,us,us
+2024-12-05T04:02:40.681Z,31.7601,49.569,17,5.4,mww,141,25,4.577,0.73,us,us7000nw1c,2025-02-15T18:29:36.040Z,"31 km SE of Masjed Soleymān, Iran",earthquake,7.05,1.837,0.089,12,reviewed,us,us
+2024-11-27T15:46:15.608Z,27.7339,52.2669,10,4.5,mb,93,63,4.493,0.58,us,us7000nuiu,2025-02-02T00:52:35.040Z,"63 km WNW of Mohr, Iran",earthquake,4.8,1.856,0.057,90,reviewed,us,us
+2024-11-23T08:10:12.520Z,39.6596,46.5478,10,4.4,mb,47,100,0.349,0.6,us,us6000p77p,2025-01-30T17:00:32.040Z,"6 km N of Laçın, Azerbaijan",earthquake,4.12,1.899,0.086,39,reviewed,us,us
+2024-11-21T04:59:15.218Z,29.2777,51.2977,10,5,mb,137,70,6.142,0.57,us,us6000p6pu,2025-01-30T17:00:31.040Z,"7 km E of Borāzjān, Iran",earthquake,8.17,1.856,0.05,126,reviewed,us,us
+2024-11-21T00:31:31.401Z,29.4028,51.1977,10,4.2,mb,14,93,6.292,0.46,us,us7000nwir,2025-01-30T17:00:36.040Z,"14 km N of Borāzjān, Iran",earthquake,10.58,1.971,0.215,6,reviewed,us,us
+2024-11-19T12:53:06.814Z,28.2902,57.5959,10,4.3,mb,78,83,3.557,0.44,us,us7000nsly,2025-01-30T17:00:35.040Z,"117 km SW of Bam, Iran",earthquake,9.13,1.89,0.071,57,reviewed,us,us
+2024-11-15T05:31:46.526Z,35.7428,59.1017,10,4.2,mb,20,210,2.321,0.53,us,us7000nrx0,2025-01-26T16:29:58.040Z,"53 km NNW of Torbat-e Ḩeydarīyeh, Iran",earthquake,7.1,2.005,0.152,12,reviewed,us,us
+2024-11-15T00:15:17.434Z,30.6451,50.4894,10,4.2,mb,44,132,5.906,0.89,us,us7000nrw8,2025-01-26T16:29:55.040Z,"18 km SSW of Dehdasht, Iran",earthquake,9.71,1.968,0.105,25,reviewed,us,us
+2024-11-14T21:08:22.972Z,31.0634,47.846,10,4,mb,15,152,4.147,0.69,us,us7000nuyk,2025-01-26T16:31:02.040Z,"53 km N of Al Hārithah, Iraq",earthquake,10.67,1.978,0.26,4,reviewed,us,us
+2024-11-14T01:55:37.126Z,35.5503,59.0018,10,4.2,mb,20,181,2.478,0.66,us,us7000nrn1,2025-01-26T16:29:42.040Z,"36 km NNW of Torbat-e Ḩeydarīyeh, Iran",earthquake,8.76,1.983,0.146,13,reviewed,us,us
+2024-11-11T19:21:51.530Z,28.1223,50.0137,10,4.4,mb,61,87,6.383,0.45,us,us7000nr8x,2025-01-26T16:29:16.040Z,"123 km SW of Bushehr, Iran",earthquake,9.9,1.896,0.078,47,reviewed,us,us
+2024-11-09T05:21:23.246Z,34.3565,46.2756,10,4.1,mb,17,230,0.847,0.51,us,us7000nua5,2025-01-24T19:51:33.040Z,"39 km ESE of Sarpol-e Z̄ahāb, Iran",earthquake,4.65,1.936,0.151,12,reviewed,us,us
+2024-11-08T07:07:17.926Z,30.6477,49.8791,10,4,mb,20,155,5.534,1,us,us7000nu4q,2025-01-24T19:51:32.040Z,"7 km SE of Aghajari, Iran",earthquake,12.79,1.969,0.139,14,reviewed,us,us
+2024-11-03T17:58:30.443Z,29.8398,56.3442,10,4.2,mb,31,94,4.877,0.56,us,us7000npr5,2025-01-16T18:48:07.040Z,"24 km WSW of Bardsīr, Iran",earthquake,7.13,1.737,0.112,22,reviewed,us,us
+2024-11-03T01:46:07.662Z,35.1753,52.388,10,4.6,mb,61,95,4.862,0.95,us,us7000npmi,2025-01-16T18:47:40.040Z,"9 km SE of Īstgāh-e Rāh Āhan-e Garmsār, Iran",earthquake,8.81,1.87,0.065,72,reviewed,us,us
+2024-10-26T17:08:17.442Z,29.2756,51.5136,10,4.2,mb,52,50,6.006,0.57,us,us7000nncw,2025-01-04T23:08:19.040Z,"28 km E of Borāzjān, Iran",earthquake,9.43,1.884,0.088,37,reviewed,us,us
+2024-10-24T06:46:17.940Z,32.5393,49.1197,10,4.3,mb,18,166,3.823,0.67,us,us7000nre1,2025-01-04T23:08:49.040Z,"60 km NNE of Shūshtar, Iran",earthquake,10.27,1.919,0.161,12,reviewed,us,us
+2024-10-24T00:38:44.197Z,28.6033,52.2189,10,5,mb,173,51,5.095,0.55,us,us7000nms2,2025-01-04T23:07:48.040Z,"43 km SW of Fīrūzābād, Iran",earthquake,8.14,1.77,0.044,165,reviewed,us,us
+2024-10-18T01:10:24.518Z,34.5527,46.1727,10,4.2,mb,15,176,0.675,0.6,us,us7000nqej,2024-12-26T23:04:14.040Z,"30 km ENE of Sarpol-e Z̄ahāb, Iran",earthquake,7.1,1.933,0.187,8,reviewed,us,us
+2024-10-17T22:37:18.780Z,37.6024,54.0875,10,4.2,mb,37,149,3.21,0.63,us,us6000nzfk,2024-12-26T23:04:04.040Z,"90 km NNW of Gorgān, Iran",earthquake,6.4,1.82,0.105,25,reviewed,us,us
+2024-10-17T22:17:57.825Z,27.3171,54.3107,10,4.2,mb,16,148,2.911,0.58,us,us7000nq8f,2024-12-26T23:04:13.040Z,"42 km SSE of Gerāsh, Iran",earthquake,8.84,1.931,0.175,9,reviewed,us,us
+2024-10-16T12:26:21.242Z,33.2232,48.2627,10,4.3,mb,39,218,2.83,0.74,us,us6000nz1h,2024-12-26T23:04:00.040Z,"30 km SSW of Khorramabad, Iran",earthquake,13.79,1.993,0.102,27,reviewed,us,us
+2024-10-05T19:15:34.493Z,35.3765,52.8908,10,4.5,mb,61,99,4.917,0.98,us,us6000nwr9,2024-12-14T14:50:37.040Z,"50 km WSW of Semnan, Iran",earthquake,8.74,1.899,0.086,40,reviewed,us,us
+2024-10-05T03:29:25.939Z,32.294,56.4074,10,4.1,mb,28,86,5.794,0.76,us,us6000nwn6,2024-12-14T14:50:34.040Z,"120 km NNW of Rāvar, Iran",earthquake,9.68,1.95,0.099,28,reviewed,us,us
+2024-09-28T12:14:10.043Z,39.0526,56.027,10,4.6,mb,33,126,1.987,0.71,us,us7000ngz3,2024-12-06T19:30:17.040Z,"23 km WNW of Serdar, Turkmenistan",earthquake,8.24,1.925,0.105,27,reviewed,us,us
+2024-09-27T19:10:42.623Z,27.2679,52.4761,10,4,mb,14,189,4.072,0.65,us,us6000nzkf,2024-12-06T19:30:14.040Z,"51 km SW of Mohr, Iran",earthquake,11.6,1.994,0.182,8,reviewed,us,us
+2024-09-22T12:43:35.275Z,37.7851,57.33,10,4.8,mb,81,103,0.639,1.04,us,us6000ntp4,2024-11-23T23:26:49.040Z,"34 km N of Bojnūrd, Iran",earthquake,8.75,1.817,0.067,73,reviewed,us,us
+2024-09-21T23:58:46.023Z,37.6784,57.3172,10,4.6,mb,49,104,0.681,0.7,us,us6000ntkf,2024-11-23T23:26:41.040Z,"22 km N of Bojnūrd, Iran",earthquake,7.16,1.905,0.081,45,reviewed,us,us
+2024-09-21T23:51:49.201Z,37.6412,57.3162,10,4.3,mb,32,180,0.697,0.85,us,us6000ntkd,2024-11-23T23:26:40.040Z,"18 km N of Bojnūrd, Iran",earthquake,7.91,1.958,0.113,22,reviewed,us,us
+2024-09-20T21:16:31.742Z,28.1095,57.1584,10,4.5,mb,92,81,3.265,0.78,us,us6000ntdx,2024-11-23T23:26:28.040Z,"108 km N of Mīnāb, Iran",earthquake,9.53,1.898,0.057,91,reviewed,us,us
+2024-09-20T17:31:27.428Z,33.1662,58.8825,10,4,mb,21,102,8.519,0.74,us,us6000ntcl,2024-11-23T23:26:27.040Z,"45 km NW of Bīrjand, Iran",earthquake,8.55,1.985,0.143,14,reviewed,us,us
+2024-09-16T23:58:41.047Z,26.2617,57.8421,10,4,mb,22,189,1.976,0.53,us,us7000ng9r,2024-11-23T23:27:40.040Z,"122 km SE of Mīnāb, Iran",earthquake,11.86,1.976,0.144,13,reviewed,us,us
+2024-09-10T22:16:15.703Z,37.4258,57.0543,10,4,mb,34,197,0.982,0.97,us,us7000ncym,2024-11-21T22:58:55.040Z,"24 km WSW of Bojnūrd, Iran",earthquake,10.22,1.995,0.164,10,reviewed,us,us
+2024-09-09T00:03:46.599Z,31.9629,47.433,10,4,mb,39,160,3.199,0.74,us,us6000nqje,2024-11-21T22:58:51.040Z,"30 km ENE of Al ‘Amārah, Iraq",earthquake,8.17,1.94,0.111,22,reviewed,us,us
+2024-09-08T21:45:17.230Z,30.2858,50.4944,10,4.2,mb,58,143,6.161,0.53,us,us6000nqiw,2024-11-15T16:20:08.040Z,"30 km WSW of Dogonbadan, Iran",earthquake,6.35,1.934,0.088,36,reviewed,us,us
+2024-09-07T20:13:33.303Z,38.7752,55.4988,10,4.7,mb,74,52,2.225,1.04,us,us6000nqch,2024-11-15T16:20:04.040Z,"52 km S of Bereket, Turkmenistan",earthquake,5.27,1.859,0.054,103,reviewed,us,us
+2024-09-06T13:38:55.491Z,26.4185,59.481,18.308,4.4,mb,25,188,3.3,0.68,us,us6000nq1n,2024-11-15T16:19:59.040Z,"23 km SW of Fannūj, Iran",earthquake,12.19,6.076,0.088,37,reviewed,us,us
+2024-09-05T06:45:38.769Z,39.5905,48.4007,56.072,3.9,mwr,58,90,0.682,0.72,us,us6000npt3,2024-11-15T16:19:56.040Z,"19 km NW of Pushkino, Azerbaijan",earthquake,6.22,8.082,0.057,30,reviewed,us,us
+2024-08-21T19:01:44.095Z,26.3771,59.7788,10,4.4,mb,69,80,3.294,0.73,us,us7000n8j0,2024-11-02T21:28:39.040Z,"26 km SSE of Fannūj, Iran",earthquake,6.19,1.669,0.073,54,reviewed,us,us
+2024-08-18T22:57:18.836Z,32.5483,48.9933,10,4.4,mb,66,71,3.712,0.62,us,us7000n7uk,2024-10-26T15:49:37.040Z,"53 km ENE of Shahrak-e Kūlūrī, Iran",earthquake,3.02,1.872,0.078,47,reviewed,us,us
+2024-08-17T21:13:13.783Z,28.1209,49.923,10,4.1,mb,37,175,6.453,0.68,us,us7000ncuw,2024-10-26T15:49:43.040Z,"118 km E of As Saffānīyah, Saudi Arabia",earthquake,5.98,1.962,0.131,16,reviewed,us,us
+2024-08-15T04:22:33.461Z,39.044,49.879,10,4.2,mb,31,88,0.591,1.26,us,us6000nq3g,2024-10-26T15:48:13.040Z,"65 km SE of Neftçala, Azerbaijan",earthquake,6.36,1.911,0.136,15,reviewed,us,us
+2024-08-14T03:48:08.952Z,27.8663,52.0334,10,4.4,mb,81,132,4.738,0.52,us,us6000njzr,2024-10-26T15:47:46.040Z,"90 km WNW of Mohr, Iran",earthquake,7.24,1.873,0.079,46,reviewed,us,us
+2024-08-12T06:12:35.625Z,28.7455,53.5978,10,4.3,mb,83,50,4.443,0.37,us,us6000njjz,2024-10-26T15:47:20.040Z,"21 km SSW of Fasā, Iran",earthquake,3.11,1.838,0.076,49,reviewed,us,us
+2024-08-09T22:54:46.907Z,31.7198,49.3445,10,4.3,mb,87,75,4.459,0.76,us,us6000nj8f,2024-10-24T17:57:53.040Z,"24 km S of Masjed Soleymān, Iran",earthquake,7.89,1.445,0.076,49,reviewed,us,us
+2024-08-09T03:20:08.527Z,27.8496,51.9611,20.149,4.2,mb,50,91,4.779,0.78,us,us6000nj0e,2024-10-24T17:57:39.040Z,"96 km WNW of Mohr, Iran",earthquake,9.76,5.44,0.098,29,reviewed,us,us
+2024-08-08T21:46:59.756Z,27.7658,56.005,10,4,mb,49,70,2.815,0.64,us,us6000nizj,2024-10-24T17:57:36.040Z,"61 km S of Ḩājjīābād, Iran",earthquake,5.37,1.871,0.09,33,reviewed,us,us
+2024-08-02T07:17:56.200Z,28.2093,52.019,10,4.1,mb,18,176,4.96,0.99,us,us7000n8l8,2024-10-11T19:39:12.040Z,"88 km SW of Fīrūzābād, Iran",earthquake,13.13,1.984,0.174,9,reviewed,us,us
+2024-07-30T19:46:43.966Z,34.6254,45.2133,10,4.2,mb,63,153,0.074,0.61,us,us7000n77b,2024-10-11T19:39:12.040Z,"24 km ESE of Kifrī, Iraq",earthquake,2.53,1.89,0.098,29,reviewed,us,us
+2024-07-29T20:27:48.196Z,26.3004,59.7064,10,4.7,mb,76,99,3.437,0.8,us,us6000ngrs,2024-10-11T19:39:06.040Z,"31 km SSE of Fannūj, Iran",earthquake,8.92,1.88,0.056,97,reviewed,us,us
+2024-07-25T21:35:41.359Z,34.2629,46.3668,10,4.8,mww,102,36,0.951,0.62,us,us6000nfyf,2024-10-08T21:49:12.005Z,"51 km ESE of Sarpol-e Z̄ahāb, Iran",earthquake,5.45,1.776,0.061,26,reviewed,us,us
+2024-07-25T14:04:29.790Z,27.6422,56.3208,10,4.4,mb,29,86,2.688,0.62,us,us6000nfnd,2024-10-08T21:49:12.005Z,"50 km N of Bandar Abbas, Iran",earthquake,5.73,1.898,0.098,30,reviewed,us,us
+2024-07-25T04:27:01.639Z,30.6625,47.7912,10,4,mb,24,164,4.474,0.55,us,us6000nivx,2024-10-08T21:49:14.005Z,"9 km NNE of Al Hārithah, Iraq",earthquake,7.08,1.985,0.184,8,reviewed,us,us
+2024-07-22T03:05:48.988Z,34.4491,46.4151,9.684,4.3,mb,87,64,0.878,0.68,us,us7000n0rg,2024-10-08T21:49:16.005Z,"39 km SSW of Javānrūd, Iran",earthquake,5.37,4.674,0.079,45,reviewed,us,us
+2024-07-21T06:59:39.072Z,31.9347,49.6794,10,4.1,mb,39,77,4.542,0.91,us,us7000n0m8,2024-09-28T22:42:53.040Z,"35 km E of Masjed Soleymān, Iran",earthquake,6.01,1.77,0.114,21,reviewed,us,us
+2024-07-21T01:12:09.999Z,33.0546,60.4401,16.254,4.4,mb,62,87,5.22,0.73,us,us7000n0jx,2024-09-28T22:42:47.040Z,"115 km E of Bīrjand, Iran",earthquake,5.3,4.113,0.08,46,reviewed,us,us
+2024-07-20T20:12:28.418Z,30.2787,50.1801,10,4.2,mb,25,175,5.981,0.47,us,us6000nhe8,2024-09-28T22:41:22.040Z,"35 km S of Behbahān, Iran",earthquake,9.9,1.975,0.167,10,reviewed,us,us
+2024-07-19T23:42:08.276Z,27.7971,57.3864,38.9,4,mb,24,122,3.032,0.43,us,us7000n0e7,2024-09-28T22:42:36.040Z,"79 km NNE of Mīnāb, Iran",earthquake,14.16,13.327,0.11,22,reviewed,us,us
+2024-07-16T15:40:46.348Z,32.5291,48.9875,18.301,4.5,mb,152,51,3.719,0.51,us,us7000mzll,2024-09-28T22:42:02.040Z,"52 km ENE of Shahrak-e Kūlūrī, Iran",earthquake,8.63,3.913,0.047,139,reviewed,us,us
+2024-07-16T02:42:05.110Z,31.4713,49.6679,10,4.1,mb,50,128,4.913,0.96,us,us7000mzgz,2024-09-28T22:41:54.040Z,"22 km NNE of Rāmhormoz, Iran",earthquake,8.84,1.901,0.105,25,reviewed,us,us
+2024-07-16T01:19:06.793Z,30.0369,57.7541,10,4.6,mb,68,110,5.255,0.58,us,us7000mzgq,2024-09-28T22:41:54.040Z,"70 km ESE of Kerman, Iran",earthquake,5.49,1.852,0.055,98,reviewed,us,us
+2024-07-12T15:02:20.709Z,29.156,56.965,12.102,4.4,mb,36,103,4.248,0.58,us,us7000mywh,2024-09-20T16:00:55.040Z,"20 km SE of Kūh Sefīd, Iran",earthquake,9.37,4.779,0.094,33,reviewed,us,us
+2024-06-30T20:57:36.825Z,34.4881,45.5961,7.64,4.9,mww,80,105,0.278,0.7,us,us6000n9he,2024-09-04T21:57:45.040Z,"24 km W of Sarpol-e Z̄ahāb, Iran",earthquake,4.72,3.972,0.098,10,reviewed,us,us
+2024-06-28T23:00:14.148Z,32.7988,49.4721,10,4.3,mb,65,61,3.881,0.59,us,us6000n91q,2024-09-04T21:57:43.040Z,"62 km WSW of Fereydūnshahr, Iran",earthquake,6.92,1.879,0.091,34,reviewed,us,us
+2024-06-28T03:43:23.250Z,38.7363,48.5051,10,4.8,mb,46,79,0.817,0.86,us,us6000n8tc,2024-09-04T21:57:43.040Z,"8 km ESE of Lerik, Azerbaijan",earthquake,7.43,1.866,0.072,61,reviewed,us,us
+2024-06-18T23:25:11.348Z,29.7903,59.79,10,4,mb,45,80,5.783,0.83,us,us7000mtb6,2024-08-30T18:17:08.040Z,"22 km WSW of Noşratābād, Iran",earthquake,9.41,1.923,0.106,24,reviewed,us,us
+2024-06-18T09:54:49.077Z,35.1924,58.5136,10,4.9,mb,88,58,2.75,1.05,us,us7000mt58,2024-08-30T18:17:09.040Z,"6 km SE of Kāshmar, Iran",earthquake,7.07,1.783,0.044,161,reviewed,us,us
+2024-06-14T13:18:48.453Z,27.6831,51.6088,10,4.1,mb,12,151,4.943,0.36,us,us6000n8cy,2024-08-23T18:02:39.040Z,"126 km W of Mohr, Iran",earthquake,12.35,1.957,0.213,6,reviewed,us,us
+2024-06-13T11:38:09.080Z,28.3842,53.0169,10,4.6,mb,59,50,4.456,0.49,us,us7000ms44,2024-08-23T18:03:45.040Z,"67 km SE of Fīrūzābād, Iran",earthquake,8.98,1.833,0.052,109,reviewed,us,us
+2024-06-08T17:33:13.031Z,29.8784,51.7509,16.238,4.3,mb,91,86,6.309,0.74,us,us7000mr7r,2024-08-16T21:59:18.040Z,"30 km NNE of Kāzerūn, Iran",earthquake,9.24,3.982,0.068,67,reviewed,us,us
+2024-06-05T16:55:38.803Z,27.5218,53.568,10,4,mb,19,158,3.491,0.94,us,us7000mryk,2024-08-16T21:59:18.040Z,"58 km WSW of Gerāsh, Iran",earthquake,7.67,1.978,0.196,7,reviewed,us,us
+2024-06-02T20:24:38.718Z,28.637,52.7173,10,4,mb,26,163,4.819,0.64,us,us7000mppp,2024-08-06T20:32:50.040Z,"27 km SSE of Fīrūzābād, Iran",earthquake,10.18,1.967,0.11,22,reviewed,us,us
+2024-06-02T07:59:59.910Z,36.6756,55.2613,48.78,4.5,mb,67,104,2.598,0.89,us,us7000mpla,2024-08-06T20:32:50.040Z,"38 km NE of Shahrud, Iran",earthquake,7.77,7.592,0.061,80,reviewed,us,us
+2024-05-30T01:07:46.406Z,31.2988,57.1239,14.392,4.3,mb,79,107,6.381,0.66,us,us7000mnw3,2024-08-06T20:32:48.040Z,"30 km E of Rāvar, Iran",earthquake,9.23,5.109,0.075,51,reviewed,us,us
+2024-05-28T12:22:28.000Z,28.3211,52.5565,10,4.1,mb,20,124,4.686,0.39,us,us7000mqa6,2024-08-06T20:32:51.040Z,"57 km S of Fīrūzābād, Iran",earthquake,7.9,1.872,0.151,12,reviewed,us,us
+2024-05-26T16:23:25.754Z,26.9929,54.5427,10,4.1,mb,32,91,2.529,0.46,us,us6000n14f,2024-08-06T02:10:16.040Z,"58 km NW of Bandar-e Lengeh, Iran",earthquake,11.38,1.902,0.099,28,reviewed,us,us
+2024-05-25T23:39:35.477Z,32.361,48.9447,10,4.1,mb,32,137,3.789,1.11,us,us7000mp91,2024-08-06T02:10:21.040Z,"35 km NNE of Shūshtar, Iran",earthquake,9.44,1.972,0.213,6,reviewed,us,us
+2024-05-24T10:33:30.363Z,27.9985,57.7931,10,4.1,mb,33,142,3.358,0.37,us,us7000mp6p,2024-08-06T02:10:20.040Z,"118 km NE of Mīnāb, Iran",earthquake,8.17,1.933,0.124,18,reviewed,us,us
+2024-05-23T17:10:31.147Z,27.2473,53.6136,10,4.2,mb,22,177,3.268,0.64,us,us7000mp1h,2024-08-06T02:10:20.040Z,"69 km SW of Gerāsh, Iran",earthquake,11.29,1.884,0.167,10,reviewed,us,us
+2024-05-23T17:07:30.637Z,27.192,53.6491,8.617,5.1,mb,95,74,3.207,0.66,us,us6000n0iw,2024-08-06T02:10:23.040Z,"71 km SW of Gerāsh, Iran",earthquake,6.87,4.468,0.043,177,reviewed,us,us
+2024-05-18T12:38:14.259Z,27.3179,53.6433,10,4.4,mb,12,109,3.299,1.03,us,us6000n0qz,2024-07-26T23:58:12.040Z,"62 km SW of Gerāsh, Iran",earthquake,7.83,1.939,0.203,7,reviewed,us,us
+2024-05-13T23:59:59.934Z,33.4375,45.6862,11.478,4.2,mb,39,52,1.227,0.68,us,us6000myej,2024-07-26T23:58:08.040Z,"36 km SSE of Mandalī, Iraq",earthquake,6.36,4.528,0.121,19,reviewed,us,us
+2024-05-11T13:21:52.546Z,38.864,48.7298,65.131,4.9,mb,77,75,0.605,0.68,us,us6000mxyc,2024-07-20T22:20:07.040Z,"7 km SSE of Boradigah, Azerbaijan",earthquake,7.14,5.881,0.053,124,reviewed,us,us
+2024-05-11T10:43:32.936Z,31.6193,51.1545,10,4.4,mb,28,81,5.729,0.75,us,us6000mxxz,2024-07-20T22:20:07.040Z,"40 km SSW of Borūjen, Iran",earthquake,12.35,1.913,0.12,20,reviewed,us,us
+2024-05-11T10:26:36.534Z,27.2699,53.5842,10,4.8,mb,52,74,3.302,0.48,us,us6000mxxx,2024-07-20T22:20:07.040Z,"70 km SW of Gerāsh, Iran",earthquake,8.69,1.881,0.086,42,reviewed,us,us
+2024-05-10T06:53:46.951Z,31.0824,49.1576,10,4.3,mb,26,155,4.796,0.74,us,us6000myzn,2024-07-20T22:20:05.040Z,"31 km NW of Rāmshīr, Iran",earthquake,7.03,1.91,0.133,16,reviewed,us,us
+2024-05-03T12:07:29.562Z,37.2146,58.3044,11.645,4.2,mb,51,138,7.901,0.81,us,us6000mvzf,2024-07-15T03:58:12.040Z,"21 km WNW of Qūchān, Iran",earthquake,9.53,5.13,0.092,33,reviewed,us,us
+2024-05-02T04:23:44.388Z,28.2027,57.5423,10,4.6,mb,85,54,3.458,0.69,us,us6000mvlu,2024-07-15T03:58:30.040Z,"126 km NNE of Mīnāb, Iran",earthquake,9.87,1.875,0.063,75,reviewed,us,us
+2024-05-01T13:34:01.000Z,30.3807,57.4781,10,4.3,mb,70,54,5.531,0.67,us,us6000mvgj,2024-07-15T03:58:37.040Z,"39 km ENE of Kerman, Iran",earthquake,9.18,1.881,0.077,48,reviewed,us,us
+2024-04-24T09:34:01.223Z,27.5961,52.3543,10,4.2,mb,22,111,4.349,0.65,us,us6000mvsw,2024-07-02T22:12:49.040Z,"52 km W of Mohr, Iran",earthquake,5.31,1.957,0.199,7,reviewed,us,us
+2024-04-22T01:11:57.461Z,27.6919,56.0664,10,4,mb,49,103,2.738,0.9,us,us7000mdr9,2024-07-02T22:12:57.040Z,"59 km NNW of Bandar Abbas, Iran",earthquake,3.84,1.931,0.102,26,reviewed,us,us
+2024-04-20T18:01:55.984Z,38.4885,45.1208,18.932,4.4,mb,143,41,1.122,0.71,us,us7000mdi6,2024-06-25T21:03:16.040Z,"16 km ESE of Khowy, Iran",earthquake,3.87,3.934,0.049,125,reviewed,us,us
+2024-04-20T00:08:04.408Z,26.6153,55.0292,10,4.1,mb,23,105,1.972,0.43,us,us6000mu0c,2024-06-25T21:02:31.040Z,"16 km ENE of Bandar-e Lengeh, Iran",earthquake,8.86,1.921,0.144,13,reviewed,us,us
+2024-04-18T23:09:28.479Z,35.5841,57.5778,10,4.4,mb,28,164,9.191,0.41,us,us7000md15,2024-06-25T21:03:04.040Z,"50 km NW of Bardaskan, Iran",earthquake,6.95,1.888,0.099,29,reviewed,us,us
+2024-04-18T22:32:01.938Z,36.3339,54.0689,10,4.3,mb,60,77,4.87,0.6,us,us7000md12,2024-06-25T21:03:04.040Z,"30 km NW of Dāmghān, Iran",earthquake,5.6,1.892,0.079,45,reviewed,us,us
+2024-04-17T10:29:32.015Z,28.0952,56.2574,23.474,4.2,mb,29,140,3.137,0.61,us,us6000mtqe,2024-06-25T21:02:27.040Z,"42 km SE of Ḩājjīābād, Iran",earthquake,10.81,4.818,0.136,15,reviewed,us,us
+2024-04-16T20:59:50.431Z,27.9651,59.3291,10,4.3,mb,68,63,4.11,0.9,us,us7000mciq,2024-06-25T21:02:52.040Z,"156 km NNW of Fannūj, Iran",earthquake,6.01,1.636,0.075,50,reviewed,us,us
+2024-04-11T05:50:35.024Z,27.2329,53.6203,10,4.4,mb,31,66,3.254,0.45,us,us7000md55,2024-06-17T02:15:09.040Z,"70 km SW of Gerāsh, Iran",earthquake,4.34,1.904,0.12,20,reviewed,us,us
+2024-04-07T11:39:50.352Z,30.424,57.5726,10,4.3,mb,23,142,5.591,1.33,us,us7000mcga,2024-06-12T21:52:00.040Z,"49 km ENE of Kerman, Iran",earthquake,8.07,1.938,0.099,29,reviewed,us,us
+2024-04-06T04:54:50.908Z,26.6288,54.2423,10,4.3,mb,50,75,2.437,1.03,us,us7000mada,2024-06-12T21:51:55.040Z,"23 km ENE of Kīsh, Iran",earthquake,6.34,1.708,0.096,31,reviewed,us,us
+2024-04-05T09:01:35.973Z,31.2242,49.5241,10,4.4,mb,89,68,4.909,0.55,us,us7000ma2f,2024-06-12T21:51:54.040Z,"9 km SW of Rāmhormoz, Iran",earthquake,7.02,1.85,0.069,60,reviewed,us,us
+2024-04-05T08:58:34.603Z,31.1293,49.4586,10,4.3,mb,35,153,4.937,1.17,us,us7000mbpz,2024-06-12T21:51:59.040Z,"21 km SW of Rāmhormoz, Iran",earthquake,11.44,1.961,0.122,19,reviewed,us,us
+2024-04-05T08:54:08.832Z,31.0438,49.4231,10,4.5,mb,115,80,4.978,0.78,us,us7000ma25,2024-06-12T21:51:54.040Z,"16 km N of Rāmshīr, Iran",earthquake,8.59,1.856,0.056,94,reviewed,us,us
+2024-04-05T08:45:53.926Z,31.03,49.417,10,4.7,mb,152,65,4.984,0.51,us,us7000ma24,2024-06-12T21:51:54.040Z,"15 km N of Rāmshīr, Iran",earthquake,7.2,1.866,0.047,137,reviewed,us,us
+2024-04-05T05:05:38.302Z,28.0107,54.3287,10,4.2,mb,46,57,3.485,0.64,us,us7000ma1n,2024-06-12T21:51:54.040Z,"42 km NNE of Gerāsh, Iran",earthquake,7.21,1.848,0.081,43,reviewed,us,us
+2024-04-03T06:56:22.134Z,26.98,54.0211,10,4,mb,22,112,2.823,0.65,us,us7000mbfu,2024-06-12T21:51:58.040Z,"46 km N of Kīsh, Iran",earthquake,9.37,1.958,0.258,4,reviewed,us,us
+2024-03-29T22:10:09.655Z,30.7921,49.9164,10,4.1,mb,56,70,5.452,0.37,us,us7000m8ui,2024-06-01T21:55:49.040Z,"13 km NE of Aghajari, Iran",earthquake,3.29,1.884,0.102,26,reviewed,us,us
+2024-03-26T08:58:50.535Z,32.492,48.7944,10,4.5,mb,57,76,3.609,0.66,us,us7000m81u,2024-06-01T21:55:47.040Z,"34 km ENE of Shahrak-e Kūlūrī, Iran",earthquake,5.35,1.855,0.084,42,reviewed,us,us
+2024-03-24T00:12:20.658Z,27.5529,55.6347,17.894,4.2,mb,56,108,2.647,1.15,us,us6000mkva,2024-05-27T14:19:23.040Z,"75 km WNW of Bandar Abbas, Iran",earthquake,7.87,3.294,0.098,29,reviewed,us,us
+2024-03-23T19:57:40.534Z,28.0698,54.322,16.977,4.2,mb,64,91,3.539,0.51,us,us6000mksr,2024-05-27T14:19:23.040Z,"47 km NNE of Gerāsh, Iran",earthquake,7.97,2.957,0.081,42,reviewed,us,us
+2024-03-18T20:23:25.439Z,34.6436,53.748,10,4.3,mb,54,156,4.817,0.44,us,us6000mjnc,2024-05-27T14:19:19.040Z,"108 km SSE of Semnan, Iran",earthquake,9.78,1.929,0.078,46,reviewed,us,us
+2024-03-17T21:03:44.164Z,27.7131,53.4818,10,4.9,mb,183,42,3.683,0.58,us,us6000mjhl,2024-05-18T21:23:40.040Z,"61 km ENE of Mohr, Iran",earthquake,7.6,1.787,0.043,166,reviewed,us,us
+2024-03-14T22:03:15.365Z,26.8319,53.2178,15.461,4.6,mb,25,89,3.281,0.49,us,us6000mjzl,2024-05-18T21:24:04.040Z,"85 km WNW of Kīsh, Iran",earthquake,6.82,4.656,0.146,14,reviewed,us,us
+2024-03-12T00:27:57.057Z,34.5489,46.2003,10,4.2,mb,71,105,0.691,0.81,us,us7000m4s3,2024-05-18T21:24:35.040Z,"32 km ENE of Sarpol-e Z̄ahāb, Iran",earthquake,3.33,1.848,0.08,43,reviewed,us,us
+2024-03-11T02:18:29.548Z,27.3308,53.9082,10,4,mb,31,106,3.147,0.65,us,us7000m4lw,2024-05-18T21:24:25.040Z,"43 km SSW of Gerāsh, Iran",earthquake,10.5,1.974,0.118,19,reviewed,us,us
+2024-03-09T18:07:48.831Z,27.2068,53.876,17.593,4.3,mb,58,109,3.075,0.43,us,us6000mj17,2024-05-15T17:35:01.040Z,"57 km SSW of Gerāsh, Iran",earthquake,9.11,4.34,0.082,49,reviewed,us,us
+2024-03-08T11:00:17.875Z,27.3124,53.8751,13.78,4.2,mb,34,107,3.153,0.76,us,us6000miv2,2024-05-15T17:35:02.040Z,"47 km SSW of Gerāsh, Iran",earthquake,9.37,5.39,0.116,21,reviewed,us,us
+2024-03-05T04:20:14.814Z,27.0556,59.3526,38.577,5.1,mww,102,66,3.527,0.43,us,us6000mgt8,2024-05-15T17:35:06.040Z,"60 km NNW of Fannūj, Iran",earthquake,8.31,4.781,0.093,11,reviewed,us,us
+2024-03-01T17:25:38.263Z,27.1358,55.9532,16.601,4.6,mb,165,41,2.193,0.6,us,us6000mg56,2024-05-10T21:25:57.040Z,"32 km W of Bandar Abbas, Iran",earthquake,7.2,3.582,0.044,166,reviewed,us,us
+2024-02-28T17:49:52.925Z,33.941,57.2698,10,4,mb,33,69,4.039,0.94,us,us6000mfnf,2024-05-10T21:25:55.040Z,"16 km WNW of Boshrūyeh, Iran",earthquake,6.14,1.823,0.164,10,reviewed,us,us
+2024-02-24T07:34:33.177Z,27.6842,56.1356,16.972,5,mb,115,53,2.728,0.49,us,us7000m1al,2024-05-02T15:50:14.040Z,"56 km NNW of Bandar Abbas, Iran",earthquake,4.58,3.935,0.052,117,reviewed,us,us
+2024-02-24T00:47:10.412Z,32.7241,46.1082,15.417,4.3,mb,26,159,2.012,0.39,us,us6000mfu1,2024-05-02T15:50:11.040Z,"35 km NE of Al Kūt, Iraq",earthquake,12.48,6.251,0.201,7,reviewed,us,us
+2024-02-22T00:06:12.022Z,33.9307,45.8412,10,4.2,mb,52,167,0.824,0.7,us,us7000m0ns,2024-05-02T15:50:12.040Z,"33 km NE of Mandalī, Iraq",earthquake,3.63,1.864,0.103,26,reviewed,us,us
+2024-02-11T04:36:31.898Z,37.3176,43.9832,10,4.4,mb,57,55,1.003,0.89,us,us7000lyed,2024-04-20T19:35:29.040Z,"33 km ENE of Çukurca, Turkey",earthquake,5.22,1.904,0.102,29,reviewed,us,us
+2024-02-03T03:09:29.213Z,37.3233,43.9311,10,4.3,mb,34,46,0.968,0.92,us,us7000lwlk,2024-04-13T19:35:44.040Z,"29 km ENE of Çukurca, Turkey",earthquake,4.37,1.888,0.177,9,reviewed,us,us
+2024-01-29T08:27:23.367Z,30.6834,49.8289,10,4.3,mb,52,75,5.479,0.32,us,us7000lup1,2024-04-13T19:26:19.040Z,"1 km S of Aghajari, Iran",earthquake,8.25,1.895,0.105,26,reviewed,us,us
+2024-01-25T06:39:11.963Z,30.4408,47.4905,7.22,4.1,mb,42,76,4.563,0.62,us,us7000lv0j,2024-03-30T22:35:04.040Z,"21 km WNW of Az Zubayr, Iraq",earthquake,8.16,3.338,0.135,16,reviewed,us,us
+2024-01-22T07:58:21.159Z,30.3771,57.4862,10,4.2,mb,29,69,5.529,0.35,us,us7000lu2e,2024-03-30T22:33:52.040Z,"40 km ENE of Kerman, Iran",earthquake,7.45,1.911,0.127,17,reviewed,us,us
+2024-01-22T04:53:29.054Z,38.6139,44.161,10,4,mb,33,87,0.916,0.52,us,us7000lu28,2024-03-30T22:33:50.040Z,"15 km ESE of Özalp, Turkey",earthquake,4.07,1.934,0.172,9,reviewed,us,us
+2024-01-21T18:14:00.877Z,34.7521,61.9548,10,4.3,mb,34,171,4.432,0.5,us,us6000m59x,2024-03-29T17:37:55.040Z,"26 km SE of Qarah Bāgh, Afghanistan",earthquake,8.63,1.942,0.122,19,reviewed,us,us
+2024-01-19T18:05:56.359Z,39.8359,48.8025,50.837,4.8,mwr,173,40,1.978,0.78,us,us6000m4sd,2024-03-29T17:37:54.040Z,"11 km W of Qaraçala, Azerbaijan",earthquake,6.49,5.115,0.078,16,reviewed,us,us
+2024-01-08T19:33:40.764Z,32.4464,55.7983,10,4.4,mb,60,78,5.79,0.64,us,us6000m2j5,2024-03-16T19:00:02.040Z,"100 km NNE of Bāfq, Iran",earthquake,7.41,1.905,0.09,36,reviewed,us,us
+2023-12-31T17:06:05.628Z,37.3763,43.9859,10,4.4,mwr,77,29,1.032,0.72,us,us6000m0uq,2024-03-02T21:39:35.040Z,"30 km SE of Hakkâri, Turkey",earthquake,4.4,1.818,0.055,32,reviewed,us,us
+2023-12-31T16:37:53.833Z,37.329,43.9618,10,4.4,mb,60,45,0.993,0.88,us,us6000m0ug,2024-03-02T21:39:34.040Z,"32 km ENE of Çukurca, Turkey",earthquake,4.6,1.849,0.086,39,reviewed,us,us
+2023-12-27T19:56:20.252Z,34.4841,62.1198,9.976,4.3,mb,64,117,4.722,0.78,us,us6000m01w,2024-03-02T21:39:32.040Z,"16 km NNW of Herāt, Afghanistan",earthquake,7.64,3.722,0.085,39,reviewed,us,us
+2023-12-25T17:26:54.374Z,29.8364,51.561,10,4.2,mb,50,84,6.384,1.06,us,us7000lle4,2024-03-02T21:39:40.040Z,"25 km NNW of Kāzerūn, Iran",earthquake,8.77,1.946,0.093,32,reviewed,us,us
+2023-12-23T08:11:48.715Z,34.7746,62.0904,9.734,4.4,mb,24,103,4.494,0.27,us,us7000ll1q,2024-02-27T22:57:05.040Z,"34 km ESE of Qarah Bāgh, Afghanistan",earthquake,7.37,5.416,0.139,15,reviewed,us,us
+2023-12-23T02:27:22.182Z,38.518,46.722,10,4.6,mb,55,95,0.897,0.91,us,us7000ll0i,2024-02-27T22:57:05.040Z,"30 km W of Ahar, Iran",earthquake,5.66,1.862,0.073,57,reviewed,us,us
+2023-12-22T17:48:53.643Z,32.0746,49.3249,18.048,4.6,mb,65,69,4.219,0.63,us,us6000m1nb,2024-02-27T22:56:57.040Z,"15 km N of Masjed Soleymān, Iran",earthquake,7.04,4.32,0.084,45,reviewed,us,us
+2023-12-21T08:20:52.904Z,27.4593,53.5162,10,4.3,mb,51,72,3.478,0.73,us,us7000lkjq,2024-02-27T22:57:03.040Z,"63 km E of Mohr, Iran",earthquake,8.83,1.866,0.079,47,reviewed,us,us
+2023-12-18T04:18:23.690Z,34.3854,61.9731,10,4.1,mb,33,172,4.716,0.78,us,us6000m14k,2024-02-27T22:56:56.040Z,"21 km W of Herāt, Afghanistan",earthquake,9.73,1.878,0.151,12,reviewed,us,us
+2023-12-16T15:09:48.911Z,29.2521,51.2045,10,4,mb,16,90,6.185,0.62,us,us7000lkll,2024-02-17T22:43:14.040Z,"2 km SW of Borāzjān, Iran",earthquake,8.05,1.949,0.197,8,reviewed,us,us
+2023-12-14T11:00:25.282Z,38.1183,49.194,10,4.4,mb,48,123,2.568,1.17,us,us7000lixz,2024-02-17T22:43:09.040Z,"43 km NE of Hashtpar, Iran",earthquake,7.69,1.935,0.102,28,reviewed,us,us
+2023-12-13T07:33:05.185Z,26.9049,55.314,10,4.3,mb,51,93,2.11,0.7,us,us7000lil6,2024-02-17T22:43:08.040Z,"57 km NE of Bandar-e Lengeh, Iran",earthquake,8.47,1.873,0.099,29,reviewed,us,us
+2023-12-12T08:16:29.560Z,34.6288,62.0591,10.082,4.2,mb,37,117,4.581,0.63,us,us7000lic6,2024-02-17T22:43:06.040Z,"33 km NNW of Herāt, Afghanistan",earthquake,8.87,3.409,0.166,10,reviewed,us,us
+2023-12-07T09:56:25.593Z,26.9362,54.8345,10,4,mb,31,102,2.335,0.78,us,us7000lgvr,2024-02-10T23:47:40.040Z,"42 km N of Bandar-e Lengeh, Iran",earthquake,5.15,1.914,0.164,10,reviewed,us,us
+2023-11-26T10:45:35.232Z,27.1458,55.7477,10,4.5,mb,65,81,2.23,0.6,us,us6000lquq,2024-02-06T21:53:52.040Z,"53 km W of Bandar Abbas, Iran",earthquake,8.42,1.894,0.081,45,reviewed,us,us
+2023-11-25T18:08:35.732Z,26.9213,55.9467,10,4.2,mb,74,56,1.981,0.65,us,us7000letk,2024-02-01T15:13:46.040Z,"32 km W of Qeshm, Iran",earthquake,9.66,1.874,0.081,49,reviewed,us,us
+2023-11-24T06:13:17.129Z,32.7267,47.729,10,4.4,mb,42,85,2.771,0.81,us,us6000lqek,2024-02-01T15:13:43.040Z,"41 km SE of Ābdānān, Iran",earthquake,7.48,1.903,0.093,33,reviewed,us,us
+2023-11-24T04:34:56.022Z,28.0156,55.3519,10,4.3,mb,67,49,3.152,0.96,us,us6000lqe2,2024-02-01T15:13:43.040Z,"63 km WSW of Ḩājjīābād, Iran",earthquake,6.49,1.753,0.083,43,reviewed,us,us
+2023-11-23T07:37:26.126Z,27.7091,56.6855,10,4.3,mb,32,72,2.786,0.3,us,us6000lq8g,2024-02-01T15:13:42.040Z,"70 km NE of Bandar Abbas, Iran",earthquake,8.66,1.803,0.119,22,reviewed,us,us
+2023-11-20T21:14:37.845Z,29.4259,61.0759,10,4.6,mb,101,80,6.223,0.51,us,us6000lpp3,2024-02-01T15:13:41.040Z,"22 km ESE of Zahedan, Iran",earthquake,5.41,1.868,0.057,93,reviewed,us,us
+2023-11-20T18:32:56.201Z,34.4573,62.3646,9.245,4.2,mb,43,110,4.879,0.82,us,us6000lpn1,2024-02-01T15:13:41.040Z,"19 km NE of Herāt, Afghanistan",earthquake,7.78,3.553,0.128,17,reviewed,us,us
+2023-11-20T15:37:56.846Z,27.6649,56.7135,10,4.5,mb,87,73,2.747,0.52,us,us6000lpmb,2024-02-01T15:13:41.040Z,"68 km NE of Bandar Abbas, Iran",earthquake,8.29,1.868,0.061,80,reviewed,us,us
+2023-11-14T21:13:17.254Z,38.2869,47.52,36.961,4.3,mb,40,107,1.69,1.05,us,us6000lnfd,2024-01-26T16:37:41.040Z,"44 km ESE of Ahar, Iran",earthquake,5.16,10.285,0.099,29,reviewed,us,us
+2023-11-13T14:58:06.621Z,39.4045,44.7473,15.041,4.3,mwr,76,58,0.406,0.79,us,us7000lan8,2024-01-26T16:37:59.040Z,"25 km SW of Sharur City, Azerbaijan",earthquake,4.69,3.966,0.059,28,reviewed,us,us
+2023-11-13T05:50:07.611Z,27.7686,56.0578,10,4.5,mb,64,94,2.815,0.71,us,us7000lal4,2024-01-26T16:37:58.040Z,"61 km SSE of Ḩājjīābād, Iran",earthquake,8.6,1.861,0.083,45,reviewed,us,us
+2023-11-11T20:16:50.051Z,37.2529,55.1382,10,4.1,mb,32,176,2.461,0.61,us,us7000ladw,2024-01-13T23:11:38.040Z,"2 km W of Gonbad-e Kāvūs, Iran",earthquake,9.37,1.958,0.13,16,reviewed,us,us
+2023-11-10T15:36:29.451Z,32.7769,47.5962,10,4.8,mww,70,56,2.656,0.8,us,us7000la3j,2024-01-18T21:19:36.966Z,"28 km SE of ?bd?n?n, Iran",earthquake,4.07,1.778,0.093,11,reviewed,us,us
+2023-11-10T13:47:58.336Z,34.2551,50.7137,10,4.1,mb,35,89,4.487,0.78,us,us7000la1t,2024-01-13T23:11:04.040Z,"29 km N of Delījān, Iran",earthquake,6.41,1.891,0.111,22,reviewed,us,us
+2023-11-08T07:09:04.748Z,39.3254,48.203,53.307,4.4,mb,53,110,0.787,1.13,us,us7000l9ib,2024-01-13T23:10:32.040Z,"14 km WSW of Bīleh Savār, Iran",earthquake,5.71,8.24,0.083,42,reviewed,us,us
+2023-11-08T05:18:47.987Z,39.3399,48.2203,42.593,4.9,mb,48,100,0.774,0.77,us,us7000l9ht,2024-01-13T23:10:31.040Z,"12 km WSW of Bīleh Savār, Iran",earthquake,6.54,7.075,0.073,59,reviewed,us,us
+2023-11-05T09:03:32.615Z,33.1702,45.9597,10,4.2,mb,41,181,1.551,0.56,us,us7000l8zk,2024-01-13T23:10:03.040Z,"19 km WNW of Mehrān, Iran",earthquake,8.52,1.958,0.127,17,reviewed,us,us
+2023-11-04T14:07:09.880Z,36.9897,55.0331,10,4.3,mb,24,71,7.261,0.78,us,us7000l8ve,2024-01-10T06:01:57.040Z,"16 km SW of Āzādshahr, Iran",earthquake,7.4,1.879,0.153,12,reviewed,us,us
+2023-11-01T10:39:46.919Z,32.1038,59.6842,10,4.7,mb,65,89,7.76,0.56,us,us7000l81l,2024-01-18T21:11:26.235Z,"95 km SSE of B?rjand, Iran",earthquake,8.92,1.89,0.065,71,reviewed,us,us
+2023-10-31T22:26:08.530Z,34.4712,61.9771,10,4.2,mb,41,117,4.653,0.75,us,us7000l8ns,2024-01-10T06:01:28.040Z,"24 km WNW of Herāt, Afghanistan",earthquake,9.35,1.886,0.098,29,reviewed,us,us
+2023-10-31T09:13:40.844Z,31.9891,59.7557,10,5.1,mww,136,77,6.077,0.44,us,us7000l7qg,2024-01-10T06:01:22.040Z,"109 km SSE of Bīrjand, Iran",earthquake,8.89,1.839,0.098,10,reviewed,us,us
+2023-10-30T12:21:36.698Z,33.5891,45.9723,10,4.2,mb,29,82,1.174,0.5,us,us7000l8lh,2024-01-10T06:01:17.040Z,"42 km W of Īlām, Iran",earthquake,8.01,1.933,0.153,12,reviewed,us,us
+2023-10-29T04:50:32.698Z,34.4655,61.84,10,4.4,mb,33,97,5.948,0.9,us,us7000l7bg,2024-01-10T06:01:07.040Z,"16 km NNE of Zindah Jān, Afghanistan",earthquake,8.83,1.893,0.11,24,reviewed,us,us
+2023-10-29T01:36:11.314Z,30.3793,50.2388,10,4.3,mb,65,78,5.942,0.63,us,us7000l7a6,2024-01-18T21:09:37.802Z,"24 km S of Behbah?n, Iran",earthquake,8.17,1.912,0.092,33,reviewed,us,us
+2023-10-28T19:27:39.308Z,34.5493,62.1142,10,5,mww,160,21,4.67,0.54,us,us7000l78n,2024-01-04T04:22:41.040Z,"23 km NNW of Herāt, Afghanistan",earthquake,7.73,1.747,0.08,15,reviewed,us,us
+2023-10-28T05:45:07.676Z,34.5602,62.1351,9.983,4.5,mb,39,97,5.701,0.47,us,us7000l73z,2024-01-04T04:22:34.040Z,"24 km NNW of Herāt, Afghanistan",earthquake,11.01,4.984,0.096,32,reviewed,us,us
+2023-10-27T12:47:26.995Z,32.1408,59.8414,10,4.2,mb,62,86,7.849,0.35,us,us7000l833,2024-01-04T04:22:25.040Z,"99 km SE of Bīrjand, Iran",earthquake,6.77,1.902,0.084,40,reviewed,us,us
+2023-10-27T12:41:13.340Z,31.8775,48.9666,10,4.3,mb,26,140,4.115,0.47,us,us7000l834,2024-01-04T04:22:25.040Z,"22 km SSE of Shūshtar, Iran",earthquake,6.18,1.924,0.16,11,reviewed,us,us
+2023-10-26T20:34:12.438Z,32.0893,59.7196,10,5.1,mww,101,61,5.973,0.79,us,us7000l6my,2024-01-04T04:22:20.040Z,"98 km SSE of Bīrjand, Iran",earthquake,7.62,1.793,0.078,16,reviewed,us,us
+2023-10-24T11:17:51.933Z,27.3815,56.1035,10,4.4,mb,52,72,2.428,0.71,us,us7000l5yi,2024-01-04T04:22:05.040Z,"27 km NW of Bandar Abbas, Iran",earthquake,8.64,1.854,0.079,46,reviewed,us,us
+2023-10-23T06:05:15.876Z,38.5075,45.0961,10,4.3,mb,68,52,1.105,0.49,us,us6000lhfe,2024-01-04T04:21:55.040Z,"13 km ESE of Khowy, Iran",earthquake,5.04,1.891,0.091,34,reviewed,us,us
+2023-10-22T20:08:55.094Z,29.8261,50.9659,10,4.1,mb,37,83,6.731,0.85,us,us7000l6ar,2024-01-04T04:21:53.040Z,"51 km ENE of Bandar-e Genāveh, Iran",earthquake,8.11,1.903,0.145,13,reviewed,us,us
+2023-10-22T03:11:17.180Z,34.6558,62.0111,10,4.3,mb,39,89,4.535,0.6,us,us7000l6a7,2024-01-04T04:21:50.040Z,"38 km SE of Qarah Bāgh, Afghanistan",earthquake,8.53,1.86,0.148,13,reviewed,us,us
+2023-10-21T12:52:55.349Z,34.3144,45.8443,10,4.1,mb,32,54,0.545,0.6,us,us6000lh5h,2023-12-26T21:24:53.040Z,"16 km S of Sarpol-e Z̄ahāb, Iran",earthquake,3.61,1.914,0.174,13,reviewed,us,us
+2023-10-21T11:12:07.385Z,30.2218,60.5691,10,4.2,mb,18,185,8.359,0.49,us,us7000l69m,2023-12-26T21:25:01.040Z,"66 km ENE of Noşratābād, Iran",earthquake,12.8,1.974,0.159,11,reviewed,us,us
+2023-10-19T22:43:31.992Z,29.6332,52.0668,10,4.8,mb,92,65,5.945,0.6,us,us6000lgre,2023-12-26T21:24:39.040Z,"40 km E of Kāzerūn, Iran",earthquake,6.21,1.858,0.063,78,reviewed,us,us
+2023-10-19T02:49:27.694Z,34.555,61.9683,10,4.1,mb,27,97,4.585,0.91,us,us6000lghy,2023-12-26T21:24:36.040Z,"31 km NE of Zindah Jān, Afghanistan",earthquake,9.95,1.927,0.145,13,reviewed,us,us
+2023-10-18T03:51:28.576Z,28.3353,57.4336,10,4,mb,13,143,3.551,0.81,us,us6000lhi6,2023-12-26T21:24:55.040Z,"121 km SSE of Kūh Sefīd, Iran",earthquake,10.85,1.932,0.231,5,reviewed,us,us
+2023-10-17T19:17:35.222Z,37.0856,62.3305,10,4.5,mb,78,95,3.455,0.54,us,us6000lg7a,2023-12-26T21:24:29.040Z,"23 km S of Yolöten, Turkmenistan",earthquake,7.89,1.887,0.067,67,reviewed,us,us
+2023-10-17T16:26:49.702Z,27.7307,56.1175,10,5.3,mww,147,45,2.775,0.69,us,us6000lg6k,2024-10-09T13:01:17.068Z,"62 km NNW of Bandar Abbas, Iran",earthquake,7.37,1.769,0.089,12,reviewed,us,us
+2023-10-17T08:22:11.361Z,27.6897,56.1309,10,5,mww,115,45,2.734,0.74,us,us6000lg3n,2023-12-26T21:24:27.040Z,"57 km NNW of Bandar Abbas, Iran",earthquake,7.7,1.756,0.089,12,reviewed,us,us
+2023-10-17T05:10:03.169Z,27.704,56.1419,10,5.5,mww,127,38,2.748,0.68,us,us6000lg2t,2023-12-26T21:24:27.040Z,"58 km NNW of Bandar Abbas, Iran",earthquake,6.42,1.813,0.073,18,reviewed,us,us
+2023-10-17T04:59:22.662Z,27.7117,56.1329,10,5.1,mww,132,34,2.756,0.72,us,us6000lg2q,2023-12-26T21:24:26.040Z,"60 km NNW of Bandar Abbas, Iran",earthquake,7.59,1.761,0.08,15,reviewed,us,us
+2023-10-17T04:09:39.514Z,34.5767,62.1831,10,4.1,mb,22,164,5.661,0.88,us,us6000lgy1,2023-12-26T21:24:46.040Z,"25 km N of Herāt, Afghanistan",earthquake,11.01,1.972,0.303,5,reviewed,us,us
+2023-10-15T21:39:17.831Z,34.5299,62.2495,10,4.1,mb,22,193,5.608,0.5,us,us6000lfsn,2023-12-26T21:24:20.040Z,"20 km NNE of Herāt, Afghanistan",earthquake,9.79,1.945,0.197,7,reviewed,us,us
+2023-10-15T11:15:37.220Z,31.0601,49.4494,10,5.3,mww,133,40,5.396,0.59,us,us6000lfq9,2023-12-26T21:24:19.040Z,"18 km NNE of Rāmshīr, Iran",earthquake,7.43,1.833,0.065,23,reviewed,us,us
+2023-10-15T09:01:41.061Z,34.5816,62.1214,9.793,4.2,mb,50,162,5.712,0.51,us,us6000lguk,2023-12-26T21:24:42.040Z,"26 km NNW of Herāt, Afghanistan",earthquake,7.85,5.211,0.107,24,reviewed,us,us
+2023-10-15T08:04:45.229Z,34.7713,62.1887,10,4.3,mb,47,106,5.654,0.47,us,us6000lfpi,2023-12-26T21:24:18.040Z,"42 km ESE of Qarah Bāgh, Afghanistan",earthquake,8.32,1.722,0.094,32,reviewed,us,us
+2023-10-15T07:10:02.350Z,34.4468,62.1342,10,4.1,mb,35,137,6.947,0.71,us,us6000lguf,2023-12-26T21:24:42.040Z,"12 km NNW of Herāt, Afghanistan",earthquake,8.66,1.951,0.117,20,reviewed,us,us
+2023-10-15T06:14:22.065Z,34.5066,62.0049,10,4.3,mb,29,120,7.194,0.75,us,us6000lguj,2023-12-26T21:24:42.040Z,"25 km NW of Herāt, Afghanistan",earthquake,4.64,1.946,0.104,28,reviewed,us,us
+2023-10-15T06:09:56.068Z,34.5455,62.2415,10,4.3,mb,46,94,5.614,0.71,us,us6000lfp2,2023-12-26T21:24:18.040Z,"22 km N of Herāt, Afghanistan",earthquake,7.91,1.653,0.091,34,reviewed,us,us
+2023-10-15T05:41:40.848Z,34.686,62.0486,10,4.3,mb,53,94,5.77,0.44,us,us6000lfny,2023-12-26T21:24:18.040Z,"37 km SE of Qarah Bāgh, Afghanistan",earthquake,8.85,1.868,0.099,30,reviewed,us,us
+2023-10-15T05:20:12.574Z,34.4543,62.2433,10,4.1,mb,24,121,5.616,0.6,us,us6000lfnv,2023-12-26T21:24:18.040Z,"12 km NNE of Herāt, Afghanistan",earthquake,12.53,1.962,0.184,8,reviewed,us,us
+2023-10-15T03:56:28.685Z,34.5747,62.0974,10,5.4,mww,111,22,4.642,0.81,us,us6000lfng,2023-12-26T21:24:18.040Z,"26 km NNW of Herāt, Afghanistan",earthquake,7.3,1.778,0.093,11,reviewed,us,us
+2023-10-15T03:50:41.144Z,34.5704,62.2029,10,4.4,mb,27,208,4.705,0.86,us,us6000lgua,2023-12-26T21:24:42.040Z,"24 km N of Herāt, Afghanistan",earthquake,11.12,1.984,0.17,10,reviewed,us,us
+2023-10-15T03:36:00.454Z,34.6529,62.1244,9,6.3,mww,125,21,5.708,0.92,us,us6000lfn5,2023-12-26T21:24:17.040Z,"34 km NNW of Herāt, Afghanistan",earthquake,7.28,1.739,0.063,24,reviewed,us,us
+2023-10-14T22:06:59.374Z,34.6493,62.1114,10,4,mb,35,117,5.718,0.82,us,us6000lflw,2023-12-16T22:13:09.040Z,"34 km NNW of Herāt, Afghanistan",earthquake,9.83,1.938,0.156,11,reviewed,us,us
+2023-10-13T17:45:03.516Z,34.5931,61.9961,10,4.5,mb,100,92,4.572,0.71,us,us6000lfdf,2023-12-16T22:13:08.040Z,"32 km NW of Herāt, Afghanistan",earthquake,6.4,1.547,0.06,88,reviewed,us,us
+2023-10-13T13:16:27.744Z,37.2825,62.2703,10,4.2,mb,35,102,5.098,0.53,us,us6000lfcc,2023-12-16T22:13:08.040Z,"8 km WSW of Yolöten, Turkmenistan",earthquake,7.93,1.612,0.131,16,reviewed,us,us
+2023-10-13T11:13:30.783Z,34.7766,61.8496,10,4.2,mb,47,115,5.933,0.54,us,us6000lfc3,2023-12-16T22:13:08.040Z,"19 km SSE of Qarah Bāgh, Afghanistan",earthquake,4.37,1.916,0.103,26,reviewed,us,us
+2023-10-13T10:04:46.341Z,34.4277,61.9943,10,4.5,mb,47,70,4.695,0.52,us,us6000lgk1,2023-12-16T22:13:10.040Z,"20 km WNW of Herāt, Afghanistan",earthquake,7.29,1.652,0.112,24,reviewed,us,us
+2023-10-13T07:28:16.367Z,34.5365,61.9815,10,4,mb,14,169,5.828,0.41,us,us6000lgk2,2023-12-16T22:13:10.040Z,"28 km NW of Herāt, Afghanistan",earthquake,11.47,1.929,0.173,9,reviewed,us,us
+2023-10-12T09:20:34.602Z,34.4683,61.7117,10,4.1,mb,37,94,4.514,1.38,us,us6000lgdn,2023-12-16T22:13:09.040Z,"14 km NNW of Zindah Jān, Afghanistan",earthquake,8.65,1.901,0.165,10,reviewed,us,us
+2023-10-11T05:59:23.642Z,34.6105,62.0424,10,4.3,mb,50,117,4.585,1.16,us,us6000leq2,2023-12-16T22:13:07.040Z,"32 km NNW of Herāt, Afghanistan",earthquake,8.53,1.923,0.133,16,reviewed,us,us
+2023-10-11T02:38:33.614Z,34.4204,62.0239,10,4.3,mb,24,190,4.716,0.71,us,us6000lg58,2023-12-16T22:13:09.040Z,"18 km WNW of Herāt, Afghanistan",earthquake,9.64,1.977,0.217,8,reviewed,us,us
+2023-10-11T02:03:27.598Z,34.2871,62.2304,10,4,mb,16,185,4.929,0.53,us,us6000lg62,2023-12-16T22:13:09.040Z,"5 km NE of Chahār Burj, Afghanistan",earthquake,11.56,1.98,0.196,7,reviewed,us,us
+2023-10-11T01:41:04.133Z,34.5181,61.9662,10,4.2,mb,34,94,4.612,0.9,us,us6000leny,2023-12-16T22:13:07.040Z,"28 km NE of Zindah Jān, Afghanistan",earthquake,5.22,1.876,0.166,10,reviewed,us,us
+2023-10-11T01:13:12.130Z,34.4867,62.0896,10,4.1,mb,34,94,5.741,0.63,us,us6000lenq,2023-12-16T22:13:07.040Z,"18 km NNW of Herāt, Afghanistan",earthquake,6.26,1.924,0.15,12,reviewed,us,us
+2023-10-11T00:58:50.593Z,34.5482,62.0195,10,4.5,mb,56,97,4.619,0.7,us,us6000lg54,2023-12-16T22:13:09.040Z,"27 km NW of Herāt, Afghanistan",earthquake,5,1.885,0.103,28,reviewed,us,us
+2023-10-11T00:52:45.437Z,34.5654,62.1362,10,5,mb,87,59,4.671,0.73,us,us6000leng,2023-12-16T22:13:07.040Z,"24 km NNW of Herāt, Afghanistan",earthquake,7.69,1.848,0.078,52,reviewed,us,us
+2023-10-11T00:41:55.908Z,34.5364,62.0509,8,6.3,mww,423,21,4.645,0.7,us,us6000len8,2023-12-16T22:13:06.040Z,"24 km NNW of Herāt, Afghanistan",earthquake,7.87,1.746,0.044,49,reviewed,us,us
+2023-10-09T13:30:46.443Z,34.6202,62.0531,10,5.1,mww,120,59,4.584,0.67,us,us6000le8s,2023-12-16T22:13:06.040Z,"33 km NNW of Herāt, Afghanistan",earthquake,7.31,1.805,0.078,16,reviewed,us,us
+2023-10-09T09:46:00.407Z,34.6878,62.016,10,4.7,mb,89,93,4.514,0.8,us,us6000le7q,2023-12-16T22:13:06.040Z,"35 km SE of Qarah Bāgh, Afghanistan",earthquake,4.05,1.856,0.054,106,reviewed,us,us
+2023-10-09T07:07:08.177Z,34.1329,45.8087,10,4.5,mb,61,138,1.491,0.41,us,us6000le73,2023-12-16T22:13:06.040Z,"36 km S of Sarpol-e Z̄ahāb, Iran",earthquake,7.38,1.914,0.088,39,reviewed,us,us
+2023-10-09T06:54:06.140Z,34.5885,62.0577,10,4.9,mb,88,85,4.61,0.49,us,us6000le6y,2023-12-16T22:13:06.040Z,"29 km NNW of Herāt, Afghanistan",earthquake,8.05,1.841,0.048,136,reviewed,us,us
+2023-10-08T14:58:46.130Z,34.6199,61.9139,10.744,4,mb,36,166,5.882,0.57,us,us6000le1k,2023-12-16T22:13:05.040Z,"34 km NNE of Zindah Jān, Afghanistan",earthquake,9.88,5.193,0.13,16,reviewed,us,us
+2023-10-08T02:47:29.451Z,34.4456,62.0623,10,4.2,mb,45,164,4.718,0.66,us,us6000ldxr,2023-12-16T22:13:05.040Z,"16 km NW of Herāt, Afghanistan",earthquake,9.71,1.916,0.118,21,reviewed,us,us
+2023-10-07T18:32:23.739Z,34.6739,61.9172,9.839,4.2,mb,41,120,5.878,0.55,us,us6000ldvn,2023-12-14T21:26:56.040Z,"32 km SSE of Qarah Bāgh, Afghanistan",earthquake,10.05,4.962,0.093,37,reviewed,us,us
+2023-10-07T11:27:42.456Z,34.5865,62.0108,10,4.2,mb,38,102,5.803,0.63,us,us6000ldts,2023-12-14T21:26:55.040Z,"31 km NNW of Herāt, Afghanistan",earthquake,9.69,1.922,0.128,17,reviewed,us,us
+2023-10-07T10:05:51.717Z,34.688,62.3786,10,4.1,mb,23,117,5.498,0.52,us,us6000leu1,2023-12-14T21:26:57.040Z,"29 km NW of Karukh, Afghanistan",earthquake,9.95,1.906,0.174,10,reviewed,us,us
+2023-10-07T09:40:30.568Z,34.6444,61.9701,9.364,4.9,mb,158,37,5.835,0.44,us,us6000ldt7,2023-12-14T21:26:55.040Z,"37 km SSE of Qarah Bāgh, Afghanistan",earthquake,7.47,3.57,0.042,178,reviewed,us,us
+2023-10-07T09:27:18.387Z,34.5319,61.9591,10,4.8,mb,118,59,5.847,0.48,us,us6000ldsx,2023-12-14T21:26:55.040Z,"28 km NE of Zindah Jān, Afghanistan",earthquake,8.29,1.832,0.052,119,reviewed,us,us
+2023-10-07T09:08:08.439Z,34.3833,61.8769,10,4.1,mb,17,199,5.922,0.21,us,us6000lev4,2023-12-14T21:26:57.040Z,"12 km ENE of Zindah Jān, Afghanistan",earthquake,6.91,2.003,0.213,7,reviewed,us,us
+2023-10-07T09:05:47.081Z,34.5314,61.9026,9.6,4.4,mb,19,172,8.991,0.31,us,us6000leu6,2023-12-14T21:26:57.040Z,"25 km NE of Zindah Jān, Afghanistan",earthquake,7.79,6.634,0.162,11,reviewed,us,us
+2023-10-07T08:06:36.828Z,34.639,61.9339,10,4.6,mb,31,149,5.865,0.5,us,us6000ldq8,2023-12-14T21:26:55.040Z,"36 km SSE of Qarah Bāgh, Afghanistan",earthquake,7.84,1.717,0.119,21,reviewed,us,us
+2023-10-07T07:40:30.084Z,34.6262,62.0006,12.48,5.9,mww,227,43,5.81,0.59,us,us6000ldpv,2023-12-14T21:26:55.040Z,"35 km NNW of Herāt, Afghanistan",earthquake,6.08,3.399,0.054,33,reviewed,us,us
+2023-10-07T07:28:47.979Z,34.6253,61.7599,10,4.5,mb,18,97,6.009,0.62,us,us6000lety,2023-12-14T21:26:57.040Z,"31 km N of Zindah Jān, Afghanistan",earthquake,12.15,1.917,0.191,8,reviewed,us,us
+2023-10-07T07:16:04.200Z,34.4905,61.8943,10,5.2,mb,47,89,7.263,0.78,us,us6000leu2,2023-12-14T21:26:57.040Z,"21 km NE of Zindah Jān, Afghanistan",earthquake,6.2,1.842,0.097,35,reviewed,us,us
+2023-10-07T07:12:49.702Z,34.5442,61.8891,8,6.3,mww,244,43,5.904,0.5,us,us6000ldpm,2023-12-14T21:26:55.040Z,"25 km NNE of Zindah Jān, Afghanistan",earthquake,5.86,1.446,0.051,37,reviewed,us,us
+2023-10-07T07:10:34.065Z,34.5509,61.9397,10,4.7,mb,81,96,5.862,0.67,us,us6000ldpl,2023-12-14T21:26:55.040Z,"29 km NE of Zindah Jān, Afghanistan",earthquake,9.33,1.883,0.065,71,reviewed,us,us
+2023-10-07T06:49:41.156Z,34.5167,61.9462,10.257,5.4,mb,165,54,5.858,0.47,us,us6000ldph,2023-12-14T21:26:55.040Z,"26 km NE of Zindah Jān, Afghanistan",earthquake,7.67,3.884,0.047,155,reviewed,us,us
+2023-10-07T06:41:03.327Z,34.5982,61.9263,14,6.3,mww,279,43,5.872,0.58,us,us6000ldpg,2023-12-14T21:26:55.040Z,"32 km NNE of Zindah Jān, Afghanistan",earthquake,6.63,1.812,0.048,41,reviewed,us,us
+2023-10-03T05:57:28.657Z,34.5893,45.8706,10,4.1,mb,33,71,1.033,0.87,us,us6000ldif,2023-12-14T21:26:54.040Z,"14 km N of Sarpol-e Z̄ahāb, Iran",earthquake,4.99,1.919,0.131,16,reviewed,us,us
+2023-09-29T12:25:52.560Z,37.5392,56.8228,10,4.4,mb,72,76,6.234,0.65,us,us6000lbnm,2023-12-09T22:00:41.040Z,"45 km W of Bojnūrd, Iran",earthquake,7.82,1.902,0.084,41,reviewed,us,us
+2023-09-27T08:10:28.489Z,26.6641,54.2468,10,4.3,mb,35,75,2.458,0.52,us,us6000lcfs,2023-12-09T22:00:42.040Z,"25 km ENE of Kīsh, Iran",earthquake,9.6,1.894,0.153,12,reviewed,us,us
+2023-09-21T14:43:08.103Z,38.5549,45.4465,10,4,mb,31,83,1.072,0.91,us,us7000kx4i,2023-12-02T23:01:09.040Z,"Northwestern Iran",earthquake,4.91,1.879,0.139,14,reviewed,us,us
+2023-09-21T04:02:37.904Z,30.368,50.6539,18.354,4.4,mb,41,129,6.546,0.92,us,us6000lb2m,2024-01-18T20:56:04.207Z,"13 km W of Dogonbadan, Iran",earthquake,10.74,4.79,0.121,20,reviewed,us,us
+2023-09-18T16:32:02.124Z,36.3164,59.5396,10,3.8,mb,23,195,1.971,0.65,us,us7000kwhq,2023-12-02T23:01:07.040Z,"Northeastern Iran",earthquake,6.29,2.002,0.207,6,reviewed,us,us
+2023-09-15T10:01:26.119Z,28.8055,52.7385,10,4.2,mb,53,55,4.935,0.52,us,us7000kwxb,2023-11-18T22:29:36.040Z,"16 km ESE of Fīrūzābād, Iran",earthquake,9.01,1.879,0.098,29,reviewed,us,us
+2023-09-10T21:43:49.198Z,35.0542,44.7295,10,4.7,mb,143,47,0.636,0.55,us,us7000kuw4,2023-11-18T22:29:32.040Z,"20 km NNE of Ţūz Khūrmātū, Iraq",earthquake,6.13,1.832,0.051,117,reviewed,us,us
+2023-09-05T07:28:03.637Z,29.5595,50.2722,10,4.3,mb,29,106,6.999,0.63,us,us7000kua5,2023-11-17T19:47:51.040Z,"23 km W of Bandar-e Genāveh, Iran",earthquake,9.44,1.844,0.169,10,reviewed,us,us
+2023-09-04T19:57:32.987Z,27.962,52.1223,10,4.3,mb,57,152,4.734,0.7,us,us7000kt8d,2023-11-17T19:47:49.040Z,"87 km WNW of Mohr, Iran",earthquake,10.81,1.914,0.078,46,reviewed,us,us
+2023-09-02T14:30:40.781Z,28.0603,57.5235,56.691,4.4,mb,38,87,3.32,0.71,us,us7000ksvk,2023-11-04T21:36:19.040Z,"111 km NNE of Mīnāb, Iran",earthquake,11.65,8.792,0.083,42,reviewed,us,us
+2023-09-02T01:55:09.908Z,26.7107,54.2544,15.977,4.8,mb,86,45,2.486,0.71,us,us7000kssx,2023-11-04T21:36:16.040Z,"28 km NE of Kīsh, Iran",earthquake,8.34,3.946,0.048,136,reviewed,us,us
+2023-08-22T21:23:57.614Z,39.0206,48.7354,54.611,4.9,mww,100,75,0.49,0.87,us,us7000kq79,2023-10-28T19:15:35.040Z,"6 km ESE of Masally, Azerbaijan",earthquake,7.85,4.98,0.083,14,reviewed,us,us
+2023-08-20T08:48:22.566Z,27.6787,54.9418,10,4.1,mb,31,100,2.949,0.49,us,us7000kpl8,2023-10-28T19:15:32.040Z,"79 km E of Gerāsh, Iran",earthquake,10.71,1.931,0.106,24,reviewed,us,us
+2023-08-19T10:18:31.593Z,35.5468,51.9214,10,3.9,mb,16,148,5.514,0.18,us,us7000kpk6,2023-10-27T21:39:04.040Z,"18 km NE of Sharīfābād, Iran",earthquake,5.5,2,0.23,5,reviewed,us,us
+2023-08-18T16:10:03.371Z,27.8701,53.9308,10,4.8,mb,62,63,3.555,0.77,us,us7000kp9x,2023-10-27T21:39:04.040Z,"30 km NW of Gerāsh, Iran",earthquake,10.59,1.874,0.05,125,reviewed,us,us
+2023-08-15T13:05:37.431Z,37.1883,57.3773,10,4.4,mb,27,232,0.945,0.66,us,us7000kqg1,2023-10-27T21:39:05.040Z,"17 km NW of Esfarāyen, Iran",earthquake,4.26,1.93,0.143,14,reviewed,us,us
+2023-08-12T00:27:18.465Z,32.4017,48.7864,10,4.3,mb,38,123,6.602,0.47,us,us7000kp8k,2023-10-17T22:01:31.040Z,"30 km E of Shahrak-e Kūlūrī, Iran",earthquake,8.7,1.897,0.122,19,reviewed,us,us
+2023-08-09T21:57:33.196Z,32.0874,49.3232,10,4.2,mb,58,65,7.147,0.61,us,us6000kyyh,2023-10-17T22:01:29.040Z,"16 km N of Masjed Soleymān, Iran",earthquake,6.99,1.86,0.085,39,reviewed,us,us
+2023-08-08T04:05:26.448Z,28.3977,57.8889,101.921,4.1,mb,37,142,3.749,0.41,us,us6000kykf,2023-10-17T22:01:27.040Z,"90 km SSW of Bam, Iran",earthquake,10.9,3.916,0.12,19,reviewed,us,us
+2023-07-29T03:31:27.096Z,26.6733,52.9883,10,4.1,mb,21,190,3.371,0.84,us,us6000kwg3,2023-09-30T21:36:33.040Z,"98 km S of Mohr, Iran",earthquake,10.48,1.981,0.157,11,reviewed,us,us
+2023-07-26T07:03:12.853Z,38.7467,48.8812,57.826,4.7,mb,87,71,0.644,1.16,us,us6000kvlp,2023-09-30T21:36:31.040Z,"2 km ESE of Lankaran, Azerbaijan",earthquake,4.81,5.466,0.046,141,reviewed,us,us
+2023-07-25T10:23:34.438Z,27.0266,53.2781,10,4.3,mb,49,88,3.351,0.44,us,us7000ki6l,2023-09-30T21:36:40.040Z,"70 km SSE of Mohr, Iran",earthquake,9.07,1.803,0.091,34,reviewed,us,us
+2023-07-24T02:55:57.265Z,31.2791,49.7242,10,4.5,mb,20,141,8.515,0.59,us,us6000kxa5,2023-09-30T21:36:35.040Z,"11 km E of Rāmhormoz, Iran",earthquake,7.6,1.825,0.171,10,reviewed,us,us
+2023-07-22T10:54:47.648Z,32.0132,50.0619,10,4.3,mb,83,65,7.661,0.57,us,us7000khlf,2023-09-28T21:34:09.040Z,"54 km WSW of Fārsān, Iran",earthquake,8.06,1.869,0.073,57,reviewed,us,us
+2023-07-21T07:59:32.251Z,36.5168,54.2404,10,4.5,mb,38,178,3.4,1.01,us,us7000khcq,2023-09-28T21:34:03.040Z,"39 km NNW of Dāmghān, Iran",earthquake,10.29,1.962,0.099,30,reviewed,us,us
+2023-07-21T00:38:57.890Z,28.2624,56.2866,10,4.1,mb,30,140,3.305,0.9,us,us7000khb0,2023-09-28T21:34:01.040Z,"38 km E of Ḩājjīābād, Iran",earthquake,13.61,1.94,0.085,38,reviewed,us,us
+2023-07-20T03:05:53.111Z,37.0547,54.914,10,4,mb,23,153,2.693,0.55,us,us7000kh0s,2023-09-28T21:33:54.040Z,"23 km W of Āzādshahr, Iran",earthquake,7.83,1.969,0.156,11,reviewed,us,us
+2023-07-19T14:14:49.522Z,36.5396,53.7826,10,4.3,mb,63,157,3.727,0.76,us,us7000kgw7,2023-09-28T21:33:51.040Z,"26 km SE of Behshahr, Iran",earthquake,10,1.96,0.08,44,reviewed,us,us
+2023-07-16T19:25:54.674Z,27.318,54.35,10,4.1,mb,37,147,2.892,0.71,us,us7000kg6y,2023-09-28T21:33:31.040Z,"44 km SSE of Gerāsh, Iran",earthquake,7.09,1.923,0.107,24,reviewed,us,us
+2023-07-08T19:16:12.737Z,26.6737,54.178,10,4.1,mb,27,128,2.51,0.59,us,us6000kr07,2023-09-09T21:55:01.040Z,"20 km NE of Kīsh, Iran",earthquake,8.69,1.915,0.158,11,reviewed,us,us
+2023-07-04T02:20:05.123Z,27.0059,54.4276,10,3.9,mb,34,141,2.601,0.63,us,us6000kpz0,2023-09-09T21:54:44.040Z,"southern Iran",earthquake,11.21,1.951,0.129,16,reviewed,us,us
+2023-07-02T21:51:03.227Z,32.4203,47.3544,10,4.4,mb,101,51,5.77,0.64,us,us6000kpqc,2023-09-09T21:54:37.040Z,"31 km SSE of Dehlorān, Iran",earthquake,7.65,1.861,0.073,55,reviewed,us,us
+2023-07-02T09:07:37.416Z,26.8765,55.183,10,4.1,mb,45,137,2.132,0.56,us,us6000kpl2,2024-01-18T20:23:28.305Z,"46 km NE of Bandar-e Lengeh, Iran",earthquake,8.46,1.862,0.092,32,reviewed,us,us
+2023-06-28T19:08:37.604Z,32.5094,47.3286,13.948,4.6,mb,86,86,5.687,0.78,us,us6000knqa,2023-09-08T14:18:25.040Z,"Iran-Iraq border region",earthquake,7.73,4.59,0.053,106,reviewed,us,us
+2023-06-25T18:48:51.624Z,28.2558,52.8501,10,4.2,mb,82,46,4.459,0.57,us,us7000kb0q,2023-09-08T14:18:40.040Z,"70 km SSE of Fīrūzābād, Iran",earthquake,9.49,1.852,0.068,61,reviewed,us,us
+2023-06-23T05:17:14.172Z,28.1832,57.3512,48.016,4.3,mb,18,105,3.384,0.62,us,us6000kp6y,2023-08-26T20:54:20.040Z,"119 km NNE of Mīnāb, Iran",earthquake,12.26,9.615,0.16,11,reviewed,us,us
+2023-06-22T11:55:47.703Z,27.5072,54.8386,10,4.3,mb,41,65,2.831,0.9,us,us7000kaay,2023-08-26T20:54:26.040Z,"71 km ESE of Gerāsh, Iran",earthquake,10.67,1.895,0.114,22,reviewed,us,us
+2023-06-21T05:12:22.112Z,28.0017,56.0478,10,4.9,mww,95,49,3.047,0.73,us,us7000ka13,2023-08-26T20:54:25.040Z,"36 km SSE of Ḩājjīābād, Iran",earthquake,5.09,1.721,0.089,12,reviewed,us,us
+2023-06-19T10:15:39.956Z,38.8398,44.4737,10,4.2,mb,36,101,0.954,0.8,us,us7000k9jk,2023-08-26T20:54:23.040Z,"46 km ENE of Özalp, Turkey",earthquake,5.18,1.91,0.118,20,reviewed,us,us
+2023-06-17T12:30:44.731Z,38.4669,44.9405,10,4.5,mb,101,57,1.487,0.76,us,us7000k970,2023-08-21T04:19:19.040Z,"9 km S of Khowy, Iran",earthquake,6.54,1.879,0.064,71,reviewed,us,us
+2023-06-15T17:20:52.009Z,28.3524,52.3563,16.411,4.3,mb,59,156,4.834,0.87,us,us7000k8q0,2023-08-21T04:19:00.040Z,"58 km SSW of Fīrūzābād, Iran",earthquake,4.8,5.118,0.082,42,reviewed,us,us
+2023-06-12T09:10:58.904Z,28.8497,57.1709,122.735,4.3,mb,26,112,3.984,0.45,us,us7000k9li,2023-08-21T04:19:25.040Z,"59 km SE of Kūh Sefīd, Iran",earthquake,11.88,10.148,0.177,9,reviewed,us,us
+2023-06-06T13:24:34.648Z,32.6386,47.6964,10,4.1,mb,21,203,3.512,1.09,us,us7000k86z,2023-08-12T17:15:19.040Z,"40 km E of Dehlorān, Iran",earthquake,14.25,2.006,0.158,11,reviewed,us,us
+2023-06-05T09:58:48.253Z,29.6036,51.3176,10,4.1,mb,39,173,6.358,0.92,us,us7000k7zu,2023-08-12T17:15:17.040Z,"32 km W of Kāzerūn, Iran",earthquake,6.15,1.952,0.131,16,reviewed,us,us
+2023-06-04T04:51:11.719Z,34.1091,46.4188,10,4.4,mb,91,114,1.702,0.72,us,us7000k67c,2023-08-12T17:15:01.040Z,"52 km N of Īlām, Iran",earthquake,7.99,1.891,0.066,67,reviewed,us,us
+2023-06-03T09:23:55.162Z,37.5223,56.7446,10,4.1,mb,46,153,1.162,0.37,us,us7000k625,2023-08-05T22:07:52.040Z,"51 km W of Bojnūrd, Iran",earthquake,5.56,1.922,0.101,27,reviewed,us,us
+2023-06-03T07:48:45.208Z,36.7948,61.6165,10.12,4.5,mb,80,153,3.009,0.61,us,us7000k61n,2023-08-05T22:07:52.040Z,"49 km NE of Sarakhs, Iran",earthquake,7.16,3.508,0.072,56,reviewed,us,us
+2023-05-31T15:22:18.688Z,31.6961,50.9183,10,4.3,mb,65,62,8.18,0.69,us,us7000k59l,2023-08-05T22:07:42.040Z,"45 km SW of Borūjen, Iran",earthquake,6.67,1.689,0.085,39,reviewed,us,us
+2023-05-31T04:04:53.381Z,39.6636,54.9322,40.021,5,mb,81,84,3.032,0.75,us,us7000k55h,2023-08-05T22:07:41.040Z,"51 km ENE of Balkanabat, Turkmenistan",earthquake,6.15,5.694,0.039,208,reviewed,us,us
+2023-05-22T17:36:59.367Z,37.5455,47.612,10,4.5,mb,75,81,2.188,1.15,us,us7000k30u,2023-07-29T22:00:28.040Z,"50 km E of Hashtrūd, Iran",earthquake,2.56,1.884,0.074,54,reviewed,us,us
+2023-05-21T21:45:43.212Z,35.8576,60.5366,10,4.4,mb,57,145,2.835,0.72,us,us6000kdrl,2023-07-29T22:00:26.040Z,"68 km N of Torbat-e Jām, Iran",earthquake,8.26,1.866,0.105,26,reviewed,us,us
+2023-05-20T18:32:32.557Z,32.2117,54.9655,10,4.1,mb,25,118,6.262,0.5,us,us6000kdhd,2023-07-24T01:15:27.040Z,"66 km ENE of Yazd, Iran",earthquake,8.42,1.903,0.144,13,reviewed,us,us
+2023-05-13T14:18:01.474Z,34.3139,45.5703,10,4.5,mb,47,185,3.363,0.93,us,us6000kbpi,2023-07-22T19:17:18.040Z,"Iran-Iraq border region",earthquake,7.46,1.86,0.094,33,reviewed,us,us
+2023-05-09T10:11:28.111Z,26.8606,55.1496,10,4.4,mb,67,56,2.131,0.58,us,us6000kaki,2023-07-22T19:16:29.040Z,"42 km NE of Bandar-e Lengeh, Iran",earthquake,8.22,1.857,0.078,47,reviewed,us,us
+2023-05-07T19:34:51.639Z,34.0236,48.2838,10,4.2,mb,51,53,2.858,0.91,us,us6000kb5l,2023-07-22T19:16:48.040Z,"16 km W of pamas, Iran",earthquake,8.02,1.895,0.1,28,reviewed,us,us
+2023-05-01T00:13:39.447Z,27.6679,56.6955,10,4.1,mb,65,140,2.747,0.74,us,us7000jx9i,2023-07-15T22:10:41.040Z,"67 km NE of Bandar Abbas, Iran",earthquake,10.75,1.72,0.079,44,reviewed,us,us
+2023-04-30T01:04:44.548Z,39.2006,54.766,10,4.5,mb,62,64,2.917,0.94,us,us7000jx2s,2023-07-15T22:10:31.040Z,"15 km E of Gumdag, Turkmenistan",earthquake,7.11,1.84,0.066,66,reviewed,us,us
+2023-04-27T22:39:01.912Z,35.9918,59.3364,10,4.9,mb,115,62,2.167,0.68,us,us7000jwf5,2023-10-15T06:53:11.495Z,"41 km SW of Mashhad, Iran",earthquake,6.72,1.806,0.044,161,reviewed,us,us
+2023-04-27T10:20:48.246Z,27.774,55.3531,10,4.9,mb,99,32,2.919,0.8,us,us7000jw88,2023-07-11T01:44:46.040Z,"80 km SW of Ḩājjīābād, Iran",earthquake,7.52,1.792,0.044,160,reviewed,us,us
+2023-04-26T21:06:56.152Z,34.3892,45.2965,10,4.2,mb,33,65,1.188,0.64,us,us7000jxrp,2023-07-11T01:44:57.040Z,"45 km SE of Kifrī, Iraq",earthquake,6.08,1.909,0.159,11,reviewed,us,us
+2023-04-26T18:12:25.773Z,27.9202,52.5614,7.573,4,mb,46,75,4.409,0.82,us,us7000jw3k,2024-01-18T19:52:19.007Z,"51 km NW of Mohr, Iran",earthquake,8.34,4.619,0.103,25,reviewed,us,us
+2023-04-26T05:18:06.962Z,34.3883,45.3815,16.319,4.1,mb,34,105,1.187,1.15,us,us7000jvyb,2023-07-11T01:45:02.040Z,"44 km W of Sarpol-e Z̄ahāb, Iran",earthquake,8.38,5.254,0.158,11,reviewed,us,us
+2023-04-24T10:02:45.248Z,31.6883,52.6357,10,4.1,mb,21,106,7.196,0.63,us,us7000jwqj,2023-07-11T01:44:50.040Z,"58 km N of Abadeh, Iran",earthquake,8.35,1.96,0.165,10,reviewed,us,us
+2023-04-18T05:26:34.912Z,27.7866,52.2402,10,4.2,mb,39,53,4.544,0.48,us,us7000jvts,2023-07-03T02:47:20.040Z,"68 km WNW of Mohr, Iran",earthquake,6.05,1.877,0.112,22,reviewed,us,us
+2023-04-14T03:45:58.805Z,32.0897,50.0651,10,4.5,mb,65,62,7.613,0.73,us,us6000k48e,2023-06-17T21:36:52.040Z,"50 km WSW of Fārsān, Iran",earthquake,6.36,1.816,0.068,63,reviewed,us,us
+2023-04-11T10:30:49.674Z,39.4205,44.48,10,4.3,mb,68,44,0.588,0.42,us,us6000k3gv,2023-06-17T21:36:46.040Z,"36 km ESE of Doğubayazıt, Turkey",earthquake,4.48,1.88,0.084,40,reviewed,us,us
+2023-04-07T23:38:12.647Z,28.1032,56.9952,10,4.1,mb,55,51,3.224,0.49,us,us6000k43x,2023-06-13T03:12:28.040Z,"southern Iran",earthquake,4.98,1.882,0.088,35,reviewed,us,us
+2023-04-04T20:08:39.353Z,27.1047,53.154,10,3.8,mb,19,117,3.486,0.74,us,us6000k3jm,2023-06-13T03:12:59.040Z,"56 km SSE of Mohr, Iran",earthquake,9.44,1.854,0.208,8,reviewed,us,us
+2023-04-04T14:53:06.420Z,28.1076,56.9831,10,4,mb,34,75,3.226,0.89,us,us6000k1xv,2023-06-13T03:13:02.040Z,"108 km ESE of Ḩājjīābād, Iran",earthquake,10.89,1.907,0.119,19,reviewed,us,us
+2023-04-03T03:55:02.557Z,28.0164,56.8966,10,4.2,mb,57,69,3.121,0.32,us,us6000k1n3,2023-06-13T03:13:18.040Z,"99 km N of Mīnāb, Iran",earthquake,10.66,1.894,0.082,42,reviewed,us,us
+2023-04-02T07:55:27.893Z,27.1882,52.9982,10,4.4,mb,51,80,3.647,0.58,us,us6000k1gg,2023-06-13T03:13:28.040Z,"southern Iran",earthquake,8.49,1.874,0.088,40,reviewed,us,us
+2023-04-01T19:56:23.874Z,27.917,54.3749,10,4.1,mb,28,58,3.384,1,us,us6000k1ec,2023-06-03T22:06:17.040Z,"36 km NE of Gerāsh, Iran",earthquake,9.35,1.898,0.165,10,reviewed,us,us
+2023-04-01T19:43:06.692Z,27.3091,52.9937,10,4,mb,17,114,3.724,0.73,us,us6000k2de,2023-06-03T22:06:21.040Z,"29 km SSE of Mohr, Iran",earthquake,12.79,1.952,0.197,7,reviewed,us,us
+2023-04-01T15:57:40.689Z,27.2714,53.0322,27.754,5.1,mb,71,79,3.674,0.72,us,us6000k1d6,2023-06-03T22:06:17.040Z,"34 km SSE of Mohr, Iran",earthquake,8.28,4.153,0.044,165,reviewed,us,us
+2023-03-29T14:08:52.613Z,37.2236,58.2827,10,4.3,mb,67,98,7.435,0.57,us,us6000k0k1,2023-06-03T22:06:06.040Z,"24 km WNW of Qūchān, Iran",earthquake,7.49,1.907,0.093,33,reviewed,us,us
+2023-03-28T17:05:56.547Z,30.2791,51.7852,10,4.5,mb,93,37,6.602,0.83,us,us6000k0e3,2023-06-03T22:06:03.040Z,"Southern Iran",earthquake,8.12,1.824,0.063,74,reviewed,us,us
+2023-03-25T19:13:32.370Z,32.6182,47.6519,10,4.8,mb,73,52,3.509,0.79,us,us7000jmqd,2023-05-26T21:54:20.040Z,"36 km ESE of Dehlorān, Iran",earthquake,7.23,1.825,0.057,96,reviewed,us,us
+2023-03-25T18:13:09.169Z,29.6097,51.3958,10,4.5,mb,176,43,6.315,0.69,us,us7000jmq5,2023-05-26T21:54:20.040Z,"24 km W of Kāzerūn, Iran",earthquake,8.22,1.807,0.045,150,reviewed,us,us
+2023-03-24T03:16:56.125Z,38.4614,44.8505,11,5.6,mww,101,40,1.179,0.92,us,us7000jmbi,2024-10-09T17:19:00.420Z,"13 km SW of Khowy, Iran",earthquake,3.53,1.805,0.047,43,reviewed,us,us
+2023-03-22T10:38:47.481Z,37.1019,54.6552,10,5,mb,90,73,7.649,0.78,us,us7000jlww,2023-05-26T21:54:12.040Z,"31 km N of Qarnābād, Iran",earthquake,9.63,1.863,0.063,80,reviewed,us,us
+2023-03-20T01:49:20.546Z,27.2647,55.0965,10,4.1,mb,66,57,2.515,0.47,us,us7000jlcm,2023-05-26T21:54:07.040Z,"81 km NNE of Bandar-e Lengeh, Iran",earthquake,5.47,1.855,0.077,46,reviewed,us,us
+2023-03-19T08:28:43.221Z,29.6454,50.871,10,4.2,mb,37,86,6.665,0.44,us,us7000jl7u,2023-05-26T21:54:05.040Z,"35 km ENE of Bandar-e Genāveh, Iran",earthquake,6.21,1.889,0.098,29,reviewed,us,us
+2023-03-18T06:39:53.016Z,27.2477,55.0236,10,4.2,mb,60,54,2.527,0.7,us,us7000jl1b,2023-05-20T23:20:36.040Z,"77 km N of Bandar-e Lengeh, Iran",earthquake,4.23,1.849,0.08,44,reviewed,us,us
+2023-03-16T20:41:44.683Z,30.7312,50.1542,22.01,4.3,mb,60,58,6.283,0.75,us,us7000jklj,2023-05-20T23:20:30.040Z,"17 km NNW of Behbahān, Iran",earthquake,8.74,4.692,0.084,40,reviewed,us,us
+2023-03-16T18:32:51.492Z,35.3022,46.0259,10,5.1,mww,101,67,0.605,0.81,us,us7000jkjc,2023-05-20T23:20:30.040Z,"14 km NNE of Ḩalabja, Iraq",earthquake,5,1.794,0.098,10,reviewed,us,us
+2023-03-16T11:47:14.816Z,38.5027,45.0678,10,5.2,mww,110,33,1.111,1.02,us,us7000jkel,2023-05-20T23:20:29.040Z,"11 km ESE of Khowy, Iran",earthquake,5.3,1.758,0.063,24,reviewed,us,us
+2023-03-13T09:09:17.783Z,26.6744,55.2733,10,4,mb,29,72,1.915,0.53,us,us7000jkuz,2023-05-20T23:20:33.040Z,"41 km ENE of Bandar-e Lengeh, Iran",earthquake,6.47,1.873,0.157,11,reviewed,us,us
+2023-03-13T08:59:57.105Z,27.6205,53.1796,16.644,4.5,mb,105,46,3.804,0.65,us,us7000jjhu,2023-05-20T23:20:19.040Z,"30 km ENE of Mohr, Iran",earthquake,6.99,3.054,0.064,71,reviewed,us,us
+2023-03-12T06:35:32.501Z,34.2696,45.6421,10,4,mb,31,126,1.325,0.61,us,us7000jksa,2023-05-20T23:20:32.040Z,"29 km SW of Sarpol-e Z̄ahāb, Iran",earthquake,9.73,1.95,0.126,18,reviewed,us,us
+2023-02-28T15:58:42.181Z,27.8012,55.3104,10,4.5,mb,103,48,2.955,0.73,us,us7000jg9f,2023-05-08T01:59:57.040Z,"80 km SW of ??jj??b?d, Iran",earthquake,8.64,1.839,0.057,91,reviewed,us,us
+2023-02-22T01:11:07.244Z,27.7531,55.2852,10,5,mww,256,29,2.915,0.58,us,us6000jqp6,2023-04-29T21:57:23.040Z,"86 km SW of ??jj??b?d, Iran",earthquake,7.04,1.724,0.098,10,reviewed,us,us
+2023-02-21T06:05:34.776Z,27.7828,55.3567,10,5.1,mww,107,25,2.926,0.47,us,us6000jqhr,2023-04-29T21:57:20.040Z,"79 km SW of ??jj??b?d, Iran",earthquake,7.56,1.838,0.098,10,reviewed,us,us
+2023-02-13T01:43:38.159Z,28.6125,52.0362,10,4.3,mb,45,82,5.217,0.43,us,us6000jqjr,2023-04-22T21:33:22.040Z,"58 km WSW of F?r?z?b?d, Iran",earthquake,7.7,1.888,0.1,28,reviewed,us,us
+2023-02-12T18:21:45.786Z,27.9015,53.8188,16.728,4.2,mb,47,64,3.639,0.66,us,us6000jngz,2023-04-22T21:33:03.040Z,"40 km NW of Ger?sh, Iran",earthquake,10.4,4.589,0.101,27,reviewed,us,us
+2023-02-11T03:12:48.275Z,28.2808,56.8276,50.653,4.2,mb,29,76,3.369,0.65,us,us6000jpnu,2023-04-15T21:40:12.040Z,"110 km S of K?h Sef?d, Iran",earthquake,9.61,6.33,0.146,14,reviewed,us,us
+2023-02-08T23:25:18.429Z,28.3652,56.7895,10,4.2,mb,39,85,3.446,0.51,us,us6000jpd4,2023-04-15T21:40:09.040Z,"100 km S of K?h Sef?d, Iran",earthquake,10.88,1.897,0.096,30,reviewed,us,us
+2023-02-08T04:01:16.063Z,32.2337,49.651,10,4.4,mb,42,63,4.88,0.5,us,us6000jmfb,2023-04-15T21:39:46.040Z,"46 km NE of Masjed Soleym?n, Iran",earthquake,7.38,1.878,0.134,16,reviewed,us,us
+2023-02-07T02:30:56.621Z,26.8303,55.2235,10,4.2,mb,27,97,2.075,0.83,us,us6000jm52,2023-04-15T21:39:41.040Z,"45 km NE of Bandar-e Lengeh, Iran",earthquake,5.42,1.928,0.137,15,reviewed,us,us
+2023-02-04T02:45:45.950Z,34.3241,45.7059,10,4.7,mb,68,67,3.429,0.71,us,us6000jlbp,2023-04-13T21:53:22.040Z,"20 km SW of Sarpol-e Z?ah?b, Iran",earthquake,8.42,1.853,0.055,99,reviewed,us,us
+2023-02-01T05:41:10.999Z,37.4221,59.9086,10,4,mb,30,88,8.921,0.98,us,us6000jknr,2023-04-13T21:53:15.040Z,"27 km ENE of Kaka, Turkmenistan",earthquake,8.04,1.94,0.197,7,reviewed,us,us
+2023-01-31T04:13:04.953Z,38.5428,44.8784,10,4,mb,26,82,1.448,0.71,us,us6000jkgv,2023-04-13T21:53:12.040Z,"6 km W of Khowy, Iran",earthquake,5.65,1.89,0.156,11,reviewed,us,us
+2023-01-29T22:00:19.418Z,38.5153,44.8139,10,4.2,mb,59,126,1.394,0.64,us,us6000jk7j,2023-04-13T21:53:09.040Z,"Turkey-Iran border region",earthquake,6.37,1.871,0.105,25,reviewed,us,us
+2023-01-29T16:38:47.878Z,38.5594,44.717,10,4.2,mb,28,168,1.326,1.03,us,us6000jk6h,2023-04-13T21:53:08.040Z,"20 km W of Khowy, Iran",earthquake,4.48,1.937,0.107,24,reviewed,us,us
+2023-01-29T15:13:25.532Z,38.4819,44.7507,10,4.5,mb,40,125,1.34,0.88,us,us6000jk61,2023-04-13T21:53:08.040Z,"19 km WSW of Khowy, Iran",earthquake,4.05,1.904,0.071,59,reviewed,us,us
+2023-01-29T14:41:14.127Z,38.4906,44.8693,10,4.7,mb,41,101,1.434,0.64,us,us6000jk5x,2023-04-13T21:53:08.040Z,"9 km SW of Khowy, Iran",earthquake,3.68,1.885,0.068,65,reviewed,us,us
+2023-01-29T03:48:09.650Z,38.6392,44.8223,10,4.1,mb,33,124,1.422,0.98,us,us6000jk3l,2023-04-13T21:53:07.040Z,"15 km NW of Khowy, Iran",earthquake,3.64,1.888,0.144,13,reviewed,us,us
+2023-01-28T20:09:59.211Z,38.6005,44.8287,10,4.5,mb,46,128,1.419,0.73,us,us6000jk1j,2023-04-11T18:51:39.040Z,"12 km WNW of Khowy, Iran",earthquake,6.48,1.851,0.086,39,reviewed,us,us
+2023-01-28T18:16:56.220Z,38.4811,44.9282,10,5.1,mb,100,65,1.479,0.69,us,us6000jmwl,2023-04-11T18:51:51.040Z,"7 km SSW of Khowy, Iran",earthquake,5.27,1.826,0.067,73,reviewed,us,us
+2023-01-28T18:14:45.855Z,38.4199,44.9097,16,5.9,mww,239,31,1.459,0.76,us,us6000jk0t,2023-04-11T18:51:39.040Z,"14 km SSW of Khowy, Iran",earthquake,5.24,1.769,0.045,48,reviewed,us,us
+2023-01-28T14:08:17.231Z,30.6967,50.3487,10,4.2,mb,15,115,7.725,1.09,us,us6000jmw9,2023-04-11T18:51:50.040Z,"Southern Iran",earthquake,11.36,1.624,0.176,9,reviewed,us,us
+2023-01-28T13:53:09.785Z,33.5843,45.8112,10,4.6,mb,48,73,4.061,0.86,us,us6000jjzp,2023-04-11T18:51:38.040Z,"29 km SE of Mandal?, Iraq",earthquake,9.7,1.857,0.066,68,reviewed,us,us
+2023-01-27T09:36:37.225Z,30.5806,50.4151,10,4.4,mb,81,68,7.602,0.46,us,us6000jjmx,2023-04-11T18:51:36.040Z,"16 km E of Behbah?n, Iran",earthquake,5.99,1.707,0.078,47,reviewed,us,us
+2023-01-27T06:19:30.534Z,29.3378,51.2763,10,4,mb,18,91,6.197,0.52,us,us6000jm0s,2023-04-11T18:51:47.040Z,"9 km NE of Bor?zj?n, Iran",earthquake,5.39,1.904,0.232,5,reviewed,us,us
+2023-01-19T05:55:22.616Z,38.5878,44.7612,10,4.3,mb,33,104,1.077,0.45,us,us7000j5f2,2023-03-31T19:45:21.040Z,"17 km WNW of Khowy, Iran",earthquake,5.51,1.915,0.113,22,reviewed,us,us
+2023-01-18T14:55:50.392Z,38.3997,44.9477,10,4.4,mb,74,101,1.225,0.32,us,us7000j59a,2023-03-31T19:45:09.040Z,"16 km S of Khowy, Iran",earthquake,5.99,1.748,0.078,50,reviewed,us,us
+2023-01-18T10:42:39.023Z,38.472,44.9169,16.66,4.3,mb,25,131,1.158,0.9,us,us7000j574,2024-01-18T19:12:59.077Z,"9 km SSW of Khowy, Iran",earthquake,5.37,2.233,0.13,17,reviewed,us,us
+2023-01-18T10:08:14.166Z,38.4334,44.9458,19.102,5.7,mww,195,59,1.192,0.64,us,us7000j56z,2023-03-31T19:45:07.040Z,"12 km S of Khowy, Iran",earthquake,5.45,3.772,0.069,20,reviewed,us,us
+2023-01-17T17:43:05.673Z,36.4204,52.9186,10,4.5,mb,72,75,4.426,0.5,us,us7000j4y6,2023-03-31T19:44:54.040Z,"20 km SW of Sari, Iran",earthquake,9.7,1.89,0.076,55,reviewed,us,us
+2023-01-12T08:44:29.909Z,26.8041,55.2808,10,4.2,mb,22,114,2.029,0.31,us,us7000j5tr,2023-03-20T06:04:00.040Z,"48 km NE of Bandar-e Lengeh, Iran",earthquake,5.76,1.915,0.136,15,reviewed,us,us
+2023-01-12T01:22:45.534Z,26.8052,53.7556,10,4.2,mb,16,118,2.88,0.63,us,us7000j5te,2023-03-20T06:03:59.040Z,"37 km NW of K?sh, Iran",earthquake,10.56,1.926,0.199,7,reviewed,us,us
+2023-01-10T16:17:05.437Z,27.6733,56.1838,10,4.3,mb,65,63,2.717,0.67,us,us7000j3et,2023-03-20T06:03:14.040Z,"54 km N of Bandar Abbas, Iran",earthquake,3.99,1.833,0.083,41,reviewed,us,us
+2023-01-04T16:19:58.245Z,26.8335,55.1568,16.611,4.1,mb,46,107,2.104,0.56,us,us7000j23c,2023-03-11T22:51:39.040Z,"southern Iran",earthquake,7.06,3.865,0.086,37,reviewed,us,us
