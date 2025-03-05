@@ -1,1 +1,1 @@
-Ini adalah sebagian kecil kumpulan open dataset
+Ini adalah sebagian kecil kumpulan open dataset pada berbegai penelitian
